@@ -415,17 +415,57 @@ def _looks_like_heading_candidate(s: str) -> bool:
     return cap_count / len(words) >= 0.6
 
 
+def _remove_false_blank_lines(lines: list[str]) -> list[str]:
+    """
+    Remove blank lines that appear mid-sentence due to PDF column/page breaks.
+    If line[i] ends without sentence punctuation AND line[i+1] is blank AND
+    line[i+2] starts with a lowercase letter → the blank is a false paragraph
+    boundary; remove it so the join pass can stitch the sentence together.
+    """
+    result = list(lines)
+    changed = True
+    while changed:
+        changed = False
+        out = []
+        i = 0
+        while i < len(result):
+            line = result[i]
+            stripped = line.strip()
+            # Check: prose line ending without punct, then blank, then lowercase continuation
+            if (stripped and _is_prose_line(stripped)
+                    and stripped[-1] not in '.!?:;"\u201d\u2019'
+                    and len(stripped.split()) >= 3
+                    and not _looks_like_heading_candidate(stripped)
+                    and not stripped.startswith('#')
+                    and i + 2 < len(result)
+                    and result[i + 1].strip() == ""          # blank line follows
+                    and result[i + 2].strip()                # non-blank after blank
+                    and result[i + 2].strip()[0].islower()   # starts lowercase
+                    and _is_prose_line(result[i + 2].strip())):
+                # Drop the blank line (i+1), keep current and continuation
+                out.append(line)
+                i += 2  # skip the blank
+                changed = True
+            else:
+                out.append(line)
+                i += 1
+        result = out
+    return result
+
+
 def fix_paragraph_breaks(lines: list[str]) -> list[str]:
     """
     PDF text often has hard line breaks mid-sentence (from column layout or
     narrow PDF columns). Joins continuation lines into proper paragraphs.
 
     Rules for joining line[i] → line[i+1]:
-    1. Hyphenated word at line end → join and remove hyphen
-    2. Line ends WITHOUT sentence-ending punctuation (.!?:;) AND
+    1. Remove false blank lines (PDF column breaks mid-sentence)
+    2. Hyphenated word at line end → join and remove hyphen
+    3. Line ends WITHOUT sentence-ending punctuation (.!?:;) AND
        - next line is non-blank prose AND
        - current line is not a standalone heading candidate (short + title-case)
     """
+    lines = _remove_false_blank_lines(lines)
     result = []
     i = 0
     while i < len(lines):
@@ -464,7 +504,28 @@ def fix_paragraph_breaks(lines: list[str]) -> list[str]:
         result.append(line)
         i += 1
 
-    return result
+    # Second pass — catches joins revealed by the first pass
+    # (e.g. a newly joined line may itself need joining with the next line)
+    result2 = []
+    i = 0
+    while i < len(result):
+        line = result[i]
+        stripped = line.strip()
+        if not stripped or not _is_prose_line(stripped):
+            result2.append(line); i += 1; continue
+        next_stripped = result[i + 1].strip() if i + 1 < len(result) else ""
+        if stripped.endswith('-') and not stripped.endswith('--'):
+            if next_stripped and _is_prose_line(next_stripped):
+                result2.append(stripped[:-1] + next_stripped); i += 2; continue
+        if (next_stripped and _is_prose_line(next_stripped)
+                and stripped[-1] not in '.!?:;"\u201d\u2019'
+                and len(stripped.split()) >= 3
+                and not _looks_like_heading_candidate(stripped)
+                and not stripped.startswith('#')):
+            result2.append(stripped + ' ' + next_stripped); i += 2; continue
+        result2.append(line); i += 1
+
+    return result2
 
 
 def remove_runon_toc(lines: list[str]) -> list[str]:
@@ -666,6 +727,23 @@ def process_article(md_path: Path) -> bool:
     doc_title = title_match.group(1) if title_match else ""
 
     original_content = content
+
+    # Step 0: Strip PDF CID font encoding artifacts — (cid:N) tokens from
+    # PDFs with embedded custom fonts that weren't mapped to Unicode.
+    # First remove lines that are purely CID codes (table-of-contents garbage),
+    # then strip inline CID tokens from mixed lines.
+    lines_raw = content.split("\n")
+    lines_clean = []
+    for ln in lines_raw:
+        # Drop lines that are >50% CID tokens (pure garbage)
+        cid_count = len(re.findall(r'\(cid:\d+\)', ln))
+        word_count = len(ln.split())
+        if cid_count > 0 and word_count > 0 and cid_count / word_count > 0.5:
+            continue
+        # Strip inline CID tokens from otherwise readable lines
+        ln = re.sub(r'\(cid:\d+\)\s*', '', ln).strip()
+        lines_clean.append(ln)
+    content = "\n".join(lines_clean)
 
     # Split into lines
     lines = content.split("\n")

@@ -670,9 +670,7 @@ byDonCroftwww.worldwithoutparasites.org
 Email:zapper16@earthlink.net
 EditedbyMichaelandStephanieRelfe
 www.metatech.org
-Please distributefar and wide,so longas (1)no alterationsaremade without the approvalof DonCroft & (2)you mentionand createa linkto www.metatech.org
-Pleasesavethisarticleandphotosonyourowncomputer,incasethissiteevergoes
-down.
+Please distributefar and wide,so longas (1)no alterationsaremade without the approvalof DonCroft & (2)you mentionand createa linkto www.metatech.org Pleasesavethisarticleandphotosonyourowncomputer,incasethissiteevergoes down.
 REPORTSFROMUSERSOFTHECLOUDBUSTER
 TheyaregoingtotallynutsinLosAngelestoday(lateMarch2002).We'retalkingchemtrailsover
 ahundredmileslonggoingfromoneendofthecitytotheother.IwishIhadawideanglelenssoI
