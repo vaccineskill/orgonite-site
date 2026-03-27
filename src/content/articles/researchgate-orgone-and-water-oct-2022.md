@@ -34,9 +34,7 @@ While all three possibilities may be correct simultaneously, in this presentatio
 
 Presentation scheme
 ➢ Introduction
-➢Brief historical overview of the ether concept one of the signs for the ➢ Ether (od, orgone, subtle field, biofield) quintessece research and the main findings ➢ Ether (orgone) research in our (BION) Laboratory for water research ➢ Conclusions
-
-Brief historical overview of the ether concept
+➢Brief historical overview of the ether concept one of the signs for the ➢ Ether (od, orgone, subtle field, biofield) quintessece research and the main findings ➢ Ether (orgone) research in our (BION) Laboratory for water research ➢ Conclusions Brief historical overview of the ether concept
 
 ## In the development of the western philosophical-scientific
 
@@ -60,7 +58,9 @@ In 1886 he revived the term protyle (Aristotle) to refer to an original primal m
 … still the 19th century… Ether as the integrative and formative vital energy Karl Ludwig von Reichenbach (1788 – 1869) He was a famous and talented chemist who studied the effects of various substances on the human nervous system and, through systematic scientific research, discovered the force associated with electricity, magnetism, and heat. He described it as vital energy or force and called it odic force or od.
 He assumed that it comes from most substances, that it permeates living beings, and that different people perceive it with different sensitivities. In the prestigious scientific journal Annalen der Chemie und Physik, he published a courageous article Researches on Magnetism, Electricity, Heat, and Light in their Relations to Vital Forces. His experiments involved psychics and psychokinetic persons.
 
-And what about the 20th century?
+
+## And what about the 20th century?
+
 
 Ether as a medium for spreading the EM waves was abbandoned (foremost in Einstein‘s special theory of relativity).
 
@@ -68,9 +68,7 @@ Ether as a subtle matter composing atoms was disbanded at least by experiments p
 
 Ether in terms of a vital energy of life experienced a mortal blow by the development of biochemistry and later by neo-Darwinism and the discovery of DNA.
 
-Ether (od, orgone, subtle field, biofield) research and the main findings
-
-Through thorough tests on sensitive persons, Reichenbach determined the properties of physically unknown radiation – od – that should come from the Sun.
+Ether (od, orgone, subtle field, biofield) research and the main findings Through thorough tests on sensitive persons, Reichenbach determined the properties of physically unknown radiation – od – that should come from the Sun.
 ❑ This radiation can be absorbed by metals.
 ❑ Wires can carry it, but slowly!
 ❑ It was not possible to measure the radiation with any physical method known at the time (19th century).
@@ -83,7 +81,10 @@ In the East, we may see high similarities between the vital force concept of Rei
 Prana is also supposed to originate from the Sun.
 
 In addition to neo-vitalism and some forms of organicism, both in the biology realm, the most prominent baton bearer of the ether concept in the first half of the 20th century was Wilhelm Reich (1897-1957).
-Wilhelm Reich was an Austrian medical doctor, sexologist, sociologist and social reformist, psychiatrist, and a respected psychoanalyst for much of his life; the author of several influential books. Devoted to help people out from desperate social, family and emotional conditions after WW-1, towards happier and more productive lives; he stood for the sexual education of adolescents, legalization of contraception, abortion, divorce; a charismatic lecturer; he wanted to connect Freudian psychoanalysis with Marxism. FDA sent him in prison for two years, where he died of heart failure. From 1956 to 1960 many of his writings and his equipment were seized and destroyed by FDA officials. In the 21st century some considered this wholesale destruction to be one of the most blatant examples of censorship in USA history.
+Wilhelm Reich was an Austrian medical doctor, sexologist, sociologist and social reformist, psychiatrist, and a respected psychoanalyst for much of his life; the author of several influential books. Devoted to help people out from desperate social, family and emotional conditions after WW-1, towards happier and more productive lives; he stood for the sexual education of adolescents, legalization of contraception, abortion, divorce; a charismatic lecturer; he wanted to connect Freudian psychoanalysis with Marxism. FDA sent him in prison for two years, where he died of heart failure.
+
+
+From 1956 to 1960 many of his writings and his equipment were seized and destroyed by FDA officials. In the 21st century some considered this wholesale destruction to be one of the most blatant examples of censorship in USA history.
 He came to similar findings as Reichenbach but named the vital energy orgone.
 In distinction to Reichenbach, he also started researching orgone in a physical way and even presented his findings to Einstein.
 
@@ -124,9 +125,7 @@ Perhaps the most loyal follower of this line was the fighter for the new science
 
 ## James DeMeo
 
-(1949 – 2022) , Ashland Oregon, USA ❑ Dedicated his life to orgone scientific research, PhD geographer ❑ Continued Reich‘s work - Orgon Biophysical Research Lab (OBRL) – many scientific measurements and experiments ❑ The defender and guardian of Reich's scientific research legacy and his reputation; education, lectures, books ❑ OrgoneAccumulatorHandbook
-
-❑ Head of several desert greening projects with the orgone cloudbuster (Icarus), 1979 through 1999 (presented at the 10th Water Conference, Varna, 2015): USA (Kansas, Arizona), Israel, Namibia, Eritrea; major drought-breaking and widespread persisting rainfall effects were produced & documented; remarkable successes;
+(1949 – 2022) , Ashland Oregon, USA ❑ Dedicated his life to orgone scientific research, PhD geographer ❑ Continued Reich‘s work - Orgon Biophysical Research Lab (OBRL) – many scientific measurements and experiments ❑ The defender and guardian of Reich's scientific research legacy and his reputation; education, lectures, books ❑ OrgoneAccumulatorHandbook ❑ Head of several desert greening projects with the orgone cloudbuster (Icarus), 1979 through 1999 (presented at the 10th Water Conference, Varna, 2015): USA (Kansas, Arizona), Israel, Namibia, Eritrea; major drought-breaking and widespread persisting rainfall effects were produced & documented; remarkable successes;
 no official interest ❑ He was a popular „guest“ of various academic blacklists devoted to so-called pseudoscience.
 ❑ Expert for almost forgotten scientists of the previous century that came to valuable experimental findings in unconventional science.
 
@@ -143,18 +142,18 @@ DeMeo J (2011), Water as a DeMeo J (2018), Anomalous Living Resonant Medium for 
 External Environmental Factors, Explorations in New Territory, Water, 10:41-81.
 Water, 3:1-47.
 
-Ether (orgone) research in our (BION) Laboratory for water research
+## Ether (orgone) research in our (BION) Laboratory for water research
+
 
 ## BION experiments of water exposed to ORAC
 
 We expanded the range of water experiments carried out by other researchers with the physicochemical measurements.
 Water probes were ❑ exposed to ORAC, ❑ exposed to ORAC but rested for a week in the BION lab (memory effect), ❑ placed in the ORAC‘s vicinity (near ORAC control), ❑ control groups of flasks exposed to ordinary lab environment.
 
-Methodology of ORAC exposed water research Three physicochemical methods: UV/VIS sprectroscopy ❑Conductivity (χ) ❑Oxidation-reduction potential (ORP) – electrical tension ❑pH Six different waters or aqueous solutions
+Methodology of ORAC exposed water research Three physicochemical methods: UV/VIS sprectroscopy ❑Conductivity (χ) ❑Oxidation-reduction potential (ORP) – electrical tension ❑pH Six different waters or aqueous solutions Experimental (water exposure) situations within orgone near orgone in the BION accumulator accumulator laboratory (marked as (marked as ORAC) near ORAC) intended for memory effect research (previously exposed) or control near ORAC exposure for control (previously ORAC unexposed)
 
-Experimental (water exposure) situations within orgone near orgone in the BION accumulator accumulator laboratory (marked as (marked as ORAC) near ORAC) intended for memory effect research (previously exposed) or control near ORAC exposure for control (previously ORAC unexposed)
+## Results
 
-Results
 
 Pilot UV/VIS spectroscopy
 measurements
@@ -163,9 +162,7 @@ Pilot research of differential (exposed vs. control) UV/VIS absorption of water 
 
 ## N = 6;
 
-exposure time: 4 months
-
-Pilot research of differential (exposed vs. control) UV/VIS absorption of water exposed in orgone accumulator
+exposure time: 4 months Pilot research of differential (exposed vs. control) UV/VIS absorption of water exposed in orgone accumulator
 
 ## N = 6;
 
@@ -175,9 +172,7 @@ exposure time: 4 months Effect
 
 control)
 
-Conductivity of water measurements
-
-Conductivity of distilled water exposed in ORAC, „memory“ effect and controls memory Effect control ORAC
+Conductivity of water measurements Conductivity of distilled water exposed in ORAC, „memory“ effect and controls memory Effect control ORAC
 
 ## (Orac :
 
@@ -185,38 +180,24 @@ near ORAC
 control)
 control
 at BION
-N = 18; exposure time: 1 – 3 weeks
-
-Conductivity of tap water exposed in ORAC, „memory“ effect and controls ORAC memory Effect control
+N = 18; exposure time: 1 – 3 weeks Conductivity of tap water exposed in ORAC, „memory“ effect and controls ORAC memory Effect control
 
 ## (Orac :
 
-near ORAC control control) at BION N = 18; exposure time: 1 – 3 weeks
-
-Conductivity of diluted spring water exposed in ORAC, „memory“ effect and controls Friedman:
+near ORAC control control) at BION N = 18; exposure time: 1 – 3 weeks Conductivity of diluted spring water exposed in ORAC, „memory“ effect and controls Friedman:
 p < 0.012 control control near ORAC at BION Effect memory (memory :
 control,
 ORAC
 ORAC)
-N = 18; exposure time: 1 – 3 weeks
-
-Conductivity of sodium bicarbonate solution Experiment exposed in ORAC, „memory“ effect and controls memory Friedman: Effect p < 0.007
+N = 18; exposure time: 1 – 3 weeks Conductivity of sodium bicarbonate solution Experiment exposed in ORAC, „memory“ effect and controls memory Friedman: Effect p < 0.007
 
 ## (Orac &
 
 memory :
 controls)
-ORAC control control near ORAC at BION N = 8; exposure time: 8 days; 1 mM NaHCO
-
-Conductivity of sodium bicarbonate & hydrogen peroxide solution exposed in ORAC, „memory“ effect and controls memory Effect (memory Friedman:
-p < 0.019 vs. all) control control ORAC near ORAC at BION N = 8; exposure time: 8 days; 1 mM NaHCO , 0.36 mM H O 3 2 2
-
-ORP (electrical tension) of sodium bicarbonate plus hydrogen peroxide solution exposed in ORAC vs.control control at BION Effect:
-no difference observed ORAC N = 20; exposure time = 12 days; 4 mM NaHCO , 0.41 mM H O 3 2 2
-
-Endogenous electrical tension of water measurements Oxidation reduction potential (ORP)
-
-ORP (electrical tension) of different waters exposed in ORAC, „memory“ effect and controls control control ORAC memory near ORAC at BION Effect
+ORAC control control near ORAC at BION N = 8; exposure time: 8 days; 1 mM NaHCO Conductivity of sodium bicarbonate & hydrogen peroxide solution exposed in ORAC, „memory“ effect and controls memory Effect (memory Friedman:
+p < 0.019 vs. all) control control ORAC near ORAC at BION N = 8; exposure time: 8 days; 1 mM NaHCO , 0.36 mM H O 3 2 2 ORP (electrical tension) of sodium bicarbonate plus hydrogen peroxide solution exposed in ORAC vs.control control at BION Effect:
+no difference observed ORAC N = 20; exposure time = 12 days; 4 mM NaHCO , 0.41 mM H O 3 2 2 Endogenous electrical tension of water measurements Oxidation reduction potential (ORP) ORP (electrical tension) of different waters exposed in ORAC, „memory“ effect and controls control control ORAC memory near ORAC at BION Effect
 
 ## (Orac :
 
@@ -240,9 +221,7 @@ control control
 near ORAC at BION Effect
 (memory :
 all others)
-N = 8; exposure time: 8 days; 1 mM NaHCO , 0.36 mM H O 3 2 2
-
-ORP (electrical tension) of sodium bicarbonate plus hydrogen peroxide solution exposed in ORAC vs.control p<0.0001 Effect
+N = 8; exposure time: 8 days; 1 mM NaHCO , 0.36 mM H O 3 2 2 ORP (electrical tension) of sodium bicarbonate plus hydrogen peroxide solution exposed in ORAC vs.control p<0.0001 Effect
 
 ## (Orac :
 
@@ -272,17 +251,13 @@ control)
 ORAC
 control towards
 at BION
-pH = 7 N = 20; exposure time = 12 days ; 4 mM NaHCO , 0.41 mM H O 3 2 2
-
-Basic conclusions and questions ❑ Orgone accumulator seems to condense a substance (field) that ➢ interfers with water and is absorbed by it, ➢ The ORAC-exposed water can express the „ether“ by an appropriate system of physicochemical measurements and UV/VIS spectroscopy.
+pH = 7 N = 20; exposure time = 12 days ; 4 mM NaHCO , 0.41 mM H O 3 2 2 Basic conclusions and questions ❑ Orgone accumulator seems to condense a substance (field) that ➢ interfers with water and is absorbed by it, ➢ The ORAC-exposed water can express the „ether“ by an appropriate system of physicochemical measurements and UV/VIS spectroscopy.
 ❑ The exposed water seems to retain the „ether“ – a memory effect, although sometimes the results may diverge from the original exposure.
 ❑ Even when exposed in the same ORAC, different aqueous solutions may express the "ether" differently.
 ❑ A nearby effect (local influence?) of waters/solutions intended to function as control placed near the ORAC may be noticed.
 
 Specific conclusions and questions ❑ Conductivity increases => ordering water effect ➢ Raising conductivity is known from autothyxotropic phenomenon of aged water and homeopathically treated water: Negentropic nature of orgone claimed also by other researchers?
-❑ pH is pushed towards 7 => buffering effect
-
-❑ ORP increases => voltage rise ➢ The effect was also observed in homeopathically treated aqueous solutions.
+❑ pH is pushed towards 7 => buffering effect ❑ ORP increases => voltage rise ➢ The effect was also observed in homeopathically treated aqueous solutions.
 ➢ Voltage rise was observed also by other researchers in ORAC via the electroscope (air not water): Reich, DeMeo, Correa.
 ❑ UV absorption increases ➢ Phenomenon found also in DeMeo experiments, as well as in some homeopathic solutions.
 

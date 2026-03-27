@@ -14,7 +14,8 @@ ORGONITE
 ORGONITE
 
 
-Orgonite  was first coined by
+## Orgonite  was first coined by
+
 
 ## Karl Welz
 
@@ -31,13 +32,7 @@ Accumulators  ( ref ).
 
 
 invented
-'tactical'  Orgonite  ( see for Don's account of that) devices (the idea they believe came from the
-
-Andromedan  race  whom Carol and a couple other psychics have interacted with ), called  Orgone generators
-
-(as well as adding crystals to enhance their effect) named the Holy Hand Grenade (HHG) ,  Towerbuster (TB)  and  Cloudbuster  (CB) to deal with
-
-Chemtrails  ,
+'tactical'  Orgonite  ( see for Don's account of that) devices (the idea they believe came from the Andromedan  race  whom Carol and a couple other psychics have interacted with ), called  Orgone generators (as well as adding crystals to enhance their effect) named the Holy Hand Grenade (HHG) ,  Towerbuster (TB)  and  Cloudbuster  (CB) to deal with Chemtrails  ,
 
 ## Haar P,
 
@@ -47,16 +42,10 @@ Weather
 ,
 Reptoids  &
 
-Death towers
+## Death towers
 
-among many other applications
 
-(  Laozu
-
-is opening earth energy vortices with TBs), as well as inventing an Orgonite zapper , and energy weapons  to deal with the  dark side  attacks (it will also protect from
-
-Radiation  assassination
-attempts).  The best introduction is Don's book:
+among many other applications (  Laozu is opening earth energy vortices with TBs), as well as inventing an Orgonite zapper , and energy weapons  to deal with the  dark side  attacks (it will also protect from Radiation  assassination attempts).  The best introduction is Don's book:
 
 ## The Life Etheric
 
@@ -71,28 +60,27 @@ Read Don's comments about ingredients  here  before buying or making any yoursel
 ## Orgonite Q and A
 
 
-.  Recommended vendors listed here , along with  tutorials , forums (Don's forum is
-
-Etheric Warriors ), and some articles on how and where to distribute
+.  Recommended vendors listed here , along with  tutorials , forums (Don's forum is Etheric Warriors ), and some articles on how and where to distribute
 
 Orgonite
 
-(called  gifting ).  The power of Orgone energy in combating the ruling Nazi parasites, can be gleaned from the way they murdered Dr Reich, and burnt 6 tons of his books, journals and papers
+(called  gifting ).  The power of Orgone energy in combating the ruling Nazi parasites, can be gleaned from the way they murdered Dr Reich, and burnt 6 tons of his books, journals and papers ( ref ) .  To see how they control information on Orgone see the present Wikipedia page,  an earlier page was deleted, as was a Don Croft page .
 
-( ref ) .  To see how they control information on Orgone see the present Wikipedia page,  an earlier page was deleted, as was a Don Croft page .
+## See :
 
-See :
 
 Wikipedia  ,
 Assassinations .  It is very telling that it has never been mentioned  on the  What To Think Network.
 
-Further evidence it annoys the Matrix is the way
+## Further evidence it annoys the Matrix is the way
+
 
 Ziopedia
 
 deleted the Orgonite page 1  and merged it into an Orgone  page with nary a mention of 'Orgonite', and no mention on  snopes .
 
-For physical evidence of Orgonite effects see:
+## For physical evidence of Orgonite effects see:
+
 
 ## Evidence of Orgonite effects
 
@@ -117,7 +105,8 @@ W
 
 Terminology
 
-Orgone generator tutorials
+## Orgone generator tutorials
+
 
 Meters
 
@@ -136,14 +125,16 @@ Orgonite
 Orgonite stories
 (non-forum)
 
-Black candles
+## Black candles
+
 
 Obsidian
 
 V
 
 
-Forum posts
+## Forum posts
+
 
 ## Etheric Warriors posts
 
@@ -151,21 +142,21 @@ Forum posts
 ## Etheric Warfare posts
 
 
-Orgonite & helicopters, setups, attacks, assassinations, assassination attempts
-
-Rain making/desert busting
+Orgonite & helicopters, setups, attacks, assassinations, assassination attempts Rain making/desert busting
 
 ## Orgonite in media
 
 
-Orgone generators
+## Orgone generators
+
 
 Tutorials
 
 The  Towerbuster
 (TB)
 
-Holy Hand grenade (HHG) tutorial
+## Holy Hand grenade (HHG) tutorial
+
 
 The Cloudbuster
 (CB)
@@ -174,32 +165,34 @@ The Cloudbuster
 
 Peacemaker
 
-TB arrangements:
+## TB arrangements:
 
-The 18 ,114  and  108
+
+## The 18 ,114  and  108
+
 
 ## TBs in a circle
 
 
 Tutorials
 
-Orgone generators
+## Orgone generators
+
 
 Coils
 
 ## Healing Black lines
 
 
-Crystal and water charging
-
-Crystals in
-a CB and how to recharge them
+Crystal and water charging Crystals in a CB and how to recharge them
 
 Gifting
 
-Gifting articles
+## Gifting articles
 
-Gifting stories
+
+## Gifting stories
+
 
 Africa
 
@@ -207,11 +200,7 @@ UK
 
 Orgonite
 
-vendors (World) and crystal suppliers (UK
-
-)
-
-Orgone pioneers
+vendors (World) and crystal suppliers (UK ) Orgone pioneers
 
 Dr. Wilhelm
 Reich
@@ -247,20 +236,23 @@ Reservoirs
 ## Lakes by country
 
 
-Orgonite information sites
+## Orgonite information sites
+
 
 Orgonite.info
 
 Spain
 
-Discussion forums
+## Discussion forums
+
 
 ## Etheric Warriors  (Don Croft)
 
 
 DoneByDooney.com
 
-German board
+## German board
+
 
 cb-forum.com/  (German)
 
@@ -268,13 +260,7 @@ orgonisaatio.proboards98.com/  (Finland)
 
 chemtrails.foroactivo.com/
 
-( Je Serrle ---Spain) tiempososcuros.freehostia.com/  (Spain)
-
-orgonite.actifforum.com
-
-(France--Didier)
-
-orgonegifters.aceboard.com
+( Je Serrle ---Spain) tiempososcuros.freehostia.com/  (Spain) orgonite.actifforum.com (France--Didier) orgonegifters.aceboard.com
 
 (UK)
 
@@ -285,7 +271,8 @@ Orgoblog
 
 http://orgo-net.blogspot.com/
 
-Science forum
+## Science forum
+
 
 E
 
@@ -308,7 +295,8 @@ locate towers :
 
 Chemtrails
 
-Death towers
+## Death towers
+
 
 GWEN
 
@@ -316,7 +304,8 @@ HAARP
 
 Weatherballs
 
-See :
+## See :
+
 
 Surveillance
 
@@ -331,11 +320,12 @@ Radionics
 Water
 
 [vid] Miraculous Orgonite. Shows
-Orgonite reducing electronic radiation
+Orgonite reducing electronic radiation " The Empire never ended .
 
-" The Empire never ended .
+Who had built the prison � and why � he could not say. But he could discern one good thing: the prison lay under attack. An organization of Christians, not regular Christians such as those who attended church every Sunday and prayed, but secret Christians wearing light gray-colored robes, had started an assault on the prison, and with success.� Everyone who had ever lived was literally surrounded by the iron walls of the prison; they were all inside it and none of them knew it � except for the gray-robed secret Christians. " � Philip K.
 
-Who had built the prison � and why � he could not say. But he could discern one good thing: the prison lay under attack. An organization of Christians, not regular Christians such as those who attended church every Sunday and prayed, but secret Christians wearing light gray-colored robes, had started an assault on the prison, and with success.� Everyone who had ever lived was literally surrounded by the iron walls of the prison; they were all inside it and none of them knew it � except for the gray-robed secret Christians. " � Philip K. Dick,
+
+Dick,
 
 VALIS
 
@@ -346,7 +336,8 @@ VALIS
 
 https://whaleorgone.com/product/personal-orgonite/purple-pendan/
 
-Best spade for digging
+## Best spade for digging
+
 
 ## Earth Pipe
 
@@ -355,18 +346,20 @@ Peacemaker
 
 holes (you can cut handle down to 3-4ft):
 
-Bulldog  http://www.bulldogtools.co.uk
+## Bulldog  http://www.bulldogtools.co.uk
+
 
 (UK)
 
 ## Rabbiting Spade (Long Handle)
 
 
-Code 5391006580
+## Code 5391006580
+
 
 I think most of us have punched these holes in overcast skies. It often happens whenever a new orgonite device and/or arrangement of devices is deployed in an area, such as an orgonite cloudbuster, some earthpipes, a large 108 or another inspired arrangement or device.  The holes usually close up again after a new balance is achieved but these are bona fide miracles as far as I'm concerned.
 
-There are probably other ways to make blue holes, including Slim Spurlings various harmonizers but I think most of the blue holes being noted are from orgonite devices.  If I'm correct it's probably because they're easiest to make and require no interaction or 'programming.'  The liars like to claim that even tower busters need 'programming' and 'intention.' I've come to loathe the latter word, since it's obvious enough that even scoundrels usually have good intentions
+There are probably other ways to make blue holes, including Slim Spurlings various harmonizers but I think most of the blue holes being noted are from orgonite devices. If I'm correct it's probably because they're easiest to make and require no interaction or 'programming.'  The liars like to claim that even tower busters need 'programming' and 'intention.' I've come to loathe the latter word, since it's obvious enough that even scoundrels usually have good intentions
 
 --Hitler
 used to close the curtains on his touring car when he was driven through bombed areas, for instance, because 'He didn't want his compassion to weaken his resolve.'  See how subtle the ego can be? --Don

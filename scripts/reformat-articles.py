@@ -117,38 +117,49 @@ def is_all_caps_heading(line: str) -> bool:
     return True
 
 
+_KNOWN_SECTION_WORDS = {
+    "introduction", "conclusion", "conclusions", "summary", "abstract",
+    "background", "discussion", "results", "methods", "methodology",
+    "references", "bibliography", "appendix", "overview", "preface",
+    "foreword", "acknowledgements", "acknowledgments", "notes",
+    "hypothesis", "analysis", "recommendations", "objectives",
+}
+
+
 def is_implicit_heading(line: str, prev_blank: bool, next_blank: bool) -> bool:
     """
     Detect a line that looks like a section heading by context:
-    - Short (< 70 chars)
-    - Title-case or sentence-case
+    - Short (≤ 80 chars)
     - Surrounded by blank lines on at least one side
     - Ends without a period (not a sentence)
-    - Not too long to be a paragraph starter
     """
     stripped = line.strip()
     if not stripped:
         return False
-    if len(stripped) > 80 or len(stripped) < 5:
+    if len(stripped) > 80 or len(stripped) < 2:
         return False
-    if stripped.endswith('.') or stripped.endswith(','):
+    if stripped.endswith('.') or stripped.endswith(',') or stripped.endswith(';'):
         return False
     # Must start with uppercase
     if not stripped[0].isupper():
         return False
-    # Must look like a title (few words, mostly capitalized)
     words = stripped.split()
     if len(words) > 10:
         return False
+    # Single-word known section headings (Introduction, Conclusion, etc.)
+    if len(words) == 1 and words[0].lower() in _KNOWN_SECTION_WORDS:
+        return True
     if len(words) < 2:
         return False
-    # At least half the words should start with uppercase OR be short connectors
+    # When surrounded by blank lines on BOTH sides — trust the context
+    if prev_blank and next_blank:
+        return True
+    # Otherwise require title-case-ish (≥40% capitalized or known connector words)
     short_connectors = {"a", "an", "and", "or", "the", "of", "in", "to", "for",
                         "with", "by", "on", "at", "as", "is", "its", "from"}
     cap_words = sum(1 for w in words if w[0].isupper() or w.lower() in short_connectors)
-    if cap_words / len(words) < 0.6:
+    if cap_words / len(words) < 0.4:
         return False
-    # Must be surrounded by blank lines
     if not (prev_blank or next_blank):
         return False
     return True
@@ -170,7 +181,10 @@ def _is_attached_heading(line: str, next_line: str) -> bool:
     words = line.split()
     if len(words) > 8 or len(line) > 70:
         return False
-    if len(words) < 2:
+    # Allow single-word known section headings
+    if len(words) == 1:
+        if words[0].lower() in _KNOWN_SECTION_WORDS:
+            return True
         return False
     # Must start with uppercase
     if not line[0].isupper():
@@ -431,7 +445,10 @@ def _remove_false_blank_lines(lines: list[str]) -> list[str]:
         while i < len(result):
             line = result[i]
             stripped = line.strip()
-            # Check: prose line ending without punct, then blank, then lowercase continuation
+            # Check: prose line ending without punct, then blank, then prose continuation
+            # Handles both lowercase starts ("the parts") and uppercase starts
+            # ("Institute in Berlin") — as long as the continuation isn't a heading.
+            cont = result[i + 2].strip() if i + 2 < len(result) else ""
             if (stripped and _is_prose_line(stripped)
                     and stripped[-1] not in '.!?:;"\u201d\u2019'
                     and len(stripped.split()) >= 3
@@ -439,9 +456,9 @@ def _remove_false_blank_lines(lines: list[str]) -> list[str]:
                     and not stripped.startswith('#')
                     and i + 2 < len(result)
                     and result[i + 1].strip() == ""          # blank line follows
-                    and result[i + 2].strip()                # non-blank after blank
-                    and result[i + 2].strip()[0].islower()   # starts lowercase
-                    and _is_prose_line(result[i + 2].strip())):
+                    and cont                                  # non-blank after blank
+                    and _is_prose_line(cont)
+                    and not _looks_like_heading_candidate(cont)):
                 # Drop the blank line (i+1), keep current and continuation
                 out.append(line)
                 i += 2  # skip the blank
@@ -705,6 +722,44 @@ def normalize_whitespace(lines: list[str]) -> list[str]:
     return result
 
 
+# Sentence boundary: ends with .!? followed by space and uppercase
+_SENT_SPLIT_RE = re.compile(r'(?<=[.!?])\s+(?=[A-Z])')
+
+
+def split_long_paragraphs(lines: list[str]) -> list[str]:
+    """
+    Break very long joined lines (PDF wall-of-text) into readable paragraphs.
+    Lines > 400 chars containing multiple sentences are split into groups of
+    3 sentences, each group separated by a blank line.
+    Headings, lists, and short lines are left untouched.
+    """
+    result = []
+    for line in lines:
+        stripped = line.strip()
+        # Only process long prose lines
+        if len(stripped) <= 400 or not _is_prose_line(stripped) or stripped.startswith('#'):
+            result.append(line)
+            continue
+
+        sentences = _SENT_SPLIT_RE.split(stripped)
+        if len(sentences) <= 1:
+            result.append(line)
+            continue
+
+        # Group into paragraphs of 3 sentences
+        chunk: list[str] = []
+        for sent in sentences:
+            chunk.append(sent.strip())
+            if len(chunk) == 3:
+                result.append(' '.join(chunk))
+                result.append('')
+                chunk = []
+        if chunk:
+            result.append(' '.join(chunk))
+
+    return result
+
+
 def process_article(md_path: Path) -> bool:
     """Process a single article markdown file. Returns True if modified."""
     text = md_path.read_text(encoding="utf-8")
@@ -777,6 +832,12 @@ def process_article(md_path: Path) -> bool:
         lines = remove_repeated_headers(lines, doc_title)
 
     # Step 10: Normalize whitespace
+    lines = normalize_whitespace(lines)
+
+    # Step 11: Split long PDF wall-of-text paragraphs into readable chunks
+    lines = split_long_paragraphs(lines)
+
+    # Final whitespace pass after splitting
     lines = normalize_whitespace(lines)
 
     # Reassemble

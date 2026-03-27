@@ -18,18 +18,35 @@ The Orgonite Effect
 
 ## I 'Discovered' Orgonite When A Random Series Of Events And Synchronicities Led Me
 
-to meet one of my now very dear friends, Pat Reynolds. Pat had not long since moved into our neighbourhood in rural Wales. (To give you more of an idea - we only had 7 neighbours; the chances of someone like Pat moving virtually next door were even more remote than the lo cation.) Until then, I had never even heard of the stuff. But I had heard of scientist Wilhelm Reich and his Orgone energy - Kate Bush once famously sang about his Cloudbusting machine, in which he used Orgone technology to make it rain. (Read about Wilhelm Reich on page 24.) THE EVENING BEFORE MY FIRST ENCOUNTER tive energy transformer. I didn't know what to "Orgone energy with Orgonite, I was interviewing someone think but, nevertheless, I kept that piece of for a book I was writing (entitled Soul Com is the creative force Orgonite with me during all my subsequent panions) in which I spoke with 45 individuals in nature." interviews and never had any problems after from varying spiritual backgrounds to talk that.
+to meet one of my now very dear friends, Pat Reynolds. Pat had not long since moved into our neighbourhood in rural Wales. (To give you more of an idea - we only had 7 neighbours; the chances of someone like Pat moving virtually next door were even more remote than the lo cation.) Until then, I had never even heard of the stuff. But I had heard of scientist Wilhelm Reich and his Orgone energy - Kate Bush once famously sang about his Cloudbusting machine, in which he used Orgone technology to make it rain. (Read about Wilhelm Reich on page 24.) THE EVENING BEFORE MY FIRST ENCOUNTER tive energy transformer.
+
+
+I didn't know what to "Orgone energy with Orgonite, I was interviewing someone think but, nevertheless, I kept that piece of for a book I was writing (entitled Soul Com is the creative force Orgonite with me during all my subsequent panions) in which I spoke with 45 individuals in nature." interviews and never had any problems after from varying spiritual backgrounds to talk that.
 
 ## Wilhelm Reich.
 
-about their guides and allies. On this partic Orgonite, which is made from resin, crys ular occasion, I had been physically sick dur tals and metals, has the ability to take on the ing the telephone interview. It was very em negative energy output of any device and trans barrassing but just as equally perplexing... I mute it into positive energy leaving us once wasn't unwell beforehand, and I was perfectly again to experience life in an undisturbed en fine afterwards. I couldn't explain it. vironment. It is especially useful for combat The following afternoon, I was pottering ing 'electro smog', as it helps clear negative about in my driveway minding my own busi r:a output from any human technological ness when a car pulled up. A tall, smiley lady device - this electrical interference with a mass of unruly brown curl f ft'rt k. permeates our surroundings at duced herself as Pat, my new n¡ SÉ m B i lome and also in the environ bour. We talked about all sorts BB8M**^, St ment, where we have an inthings and, inevitably, the conver |k creasing array of pylons .jiEr r .Julu A n?3LXrT T ^^ sation turned to my previous Wi and towers (Haarp, night's experience. Immedi Tetra, Wi-Fi, Micately, Pat went to her car rowaves, etc.) and, after some rum no matter maging around, ap where we peared with my go or where very first piece we live. Any of Orgonite. thing within a "This is for t two mile radius of you," she jjj us is usually affect said, ^* ing us in some wav.
+about their guides and allies. On this partic Orgonite, which is made from resin, crys ular occasion, I had been physically sick dur tals and metals, has the ability to take on the ing the telephone interview. It was very em negative energy output of any device and trans barrassing but just as equally perplexing...
+
+I mute it into positive energy leaving us once wasn't unwell beforehand, and I was perfectly again to experience life in an undisturbed en fine afterwards. I couldn't explain it. vironment. It is especially useful for combat The following afternoon, I was pottering ing 'electro smog', as it helps clear negative about in my driveway minding my own busi r:a output from any human technological ness when a car pulled up.
+
+
+A tall, smiley lady device - this electrical interference with a mass of unruly brown curl f ft'rt k. permeates our surroundings at duced herself as Pat, my new n¡ SÉ m B i lome and also in the environ bour. We talked about all sorts BB8M**^, St ment, where we have an inthings and, inevitably, the conver |k creasing array of pylons .jiEr r .Julu A n?3LXrT T ^^ sation turned to my previous Wi and towers (Haarp, night's experience. Immedi Tetra, Wi-Fi, Micately, Pat went to her car rowaves, etc.) and, after some rum no matter maging around, ap where we peared with my go or where very first piece we live.
+
+
+Any of Orgonite. thing within a "This is for t two mile radius of you," she jjj us is usually affect said, ^* ing us in some wav.
 handing me wwpy After that, I suppose a humble-looking brown my family became Or ish 'blob' while quickly explaining that, gonite 'guinea-pigs'... you unlikely as it seemed, it was a negative-posi- see, Pat actually makes Or-
 
 ## 8 | The Dot Connector • July-August 2009
 
 ## Life-Spreading Energy Of Orgonite
 
-gonite. She would experiment with new in tetramasts and other disturbing energy fields gredients and leave these pieces with us. In the and EMFs (electromagnetic frequencies). I like early days, we often had very intense emotional to imagine that Orgonite can powerfully trans Orgonite reactions in the week following the arrival of form that mobile phone mast into one puls every new piece and it soon became evident ing vibration of positivity - spreading the love Resources that the level of'clearing' was being 'amped-up' instead of electromagnetism! Hmmm... per with each new addition. I noted that the neigh haps that's why my mobile phone signal is so UK bours (it was a semi-detached house) seemed affected these days...? The. Blue Sun:
+gonite. She would experiment with new in tetramasts and other disturbing energy fields gredients and leave these pieces with us. In the and EMFs (electromagnetic frequencies).
+
+I like early days, we often had very intense emotional to imagine that Orgonite can powerfully trans Orgonite reactions in the week following the arrival of form that mobile phone mast into one puls every new piece and it soon became evident ing vibration of positivity - spreading the love Resources that the level of'clearing' was being 'amped-up' instead of electromagnetism! Hmmm... per with each new addition. I noted that the neigh haps that's why my mobile phone signal is so UK bours (it was a semi-detached house) seemed affected these days...?
+
+
+## The. Blue Sun:
+
 to be similarly affected. It became quite in Orgonite also seems able to speed processes www.thebluesun.co.uk tense, to the point when I became very nerv up. This can be viewed as negative or as very Etheric Alchemy:
 www.ethericalchemy.com
 ous about Pat coming to visit! At the positive. We are often very embedded in Orgonite Moksha:
@@ -62,7 +79,10 @@ became convinced that it worked after seeing and as they were moved from one fie
 
 ## Other Websites
 
-others planted at the same time. It is used out in the lane would have to watch the cows hob www.AU40rgone.com doors 'Wilhelm Reich style' to remove chem- bling along, some painfully thin and others www.Orgonite.info trails; these large pieces of Orgonite have cop with bad foot infections. Gifters are always on www.MateriaPjherica.com www.Orgone.tv per pipes protruding from the top and are the lookout for ways to help and this was a often called 'Chembusters'. perfect opportunity. The farm was thoroughly FORUMS One of the loveliest things about Orgonite 'gifted' one dark night and within weeks the www.warriormatrix.com www.ethericwarriors.com is that there is a huge 'gifting programme' - cows started picking up. A few months later the In German:
+others planted at the same time. It is used out in the lane would have to watch the cows hob www.AU40rgone.com doors 'Wilhelm Reich style' to remove chem- bling along, some painfully thin and others www.Orgonite.info trails; these large pieces of Orgonite have cop with bad foot infections. Gifters are always on www.MateriaPjherica.com www.Orgone.tv per pipes protruding from the top and are the lookout for ways to help and this was a often called 'Chembusters'. perfect opportunity.
+
+
+The farm was thoroughly FORUMS One of the loveliest things about Orgonite 'gifted' one dark night and within weeks the www.warriormatrix.com www.ethericwarriors.com is that there is a huge 'gifting programme' - cows started picking up. A few months later the In German:
 Gifters simply give it away wherever it is cows were looking healthy and shiny with no vnvw.cb-forum.com needed. I have heard many funny tales of peo hobbling, thinness or illness. 'Gifting' is done In French:
 ple sneaking around off-limits in order to bury from the heart with the intention of helping wordsforgood. orglforum or hide Orgonite in locations that require a all beings and the planet. A silent, secret gift In Spanish:
 www.orgoniteplus.com
@@ -132,19 +152,29 @@ Ambient + _ Stee i W _ o o - l{ F ino + rga n * ic } + 50/50 Mix Orgone + Of Res
 Following in their footsteps, thousands of Ph.D.-level re The resin in orgonite shrinks during the curing process, searchers from both sides of the Iron Curtain spanning mul permanently squeezing the quartz crystal inside which cre tiple generations have continued Kozyrev and Reich's pio ates a well-known piezoelectric effect inside the crystal, neering work, slowly forcing mainstream Western science meaning its endpoints become polarized electrically. It is be to, finally, "officially recognize" the concept of a universal, un lieved this is also what causes the orgonite to function so ef seen energy medium they call "dark matter", "vacuum flux" fectively as a positive energy generator.
 or "zero-point energy", depending on who you ask. It is com Thus orgonite represents a very significant improvement monly understood among orgonite enthusiasts that these over Reich's early work with orgone accumulators, since are all essentially describing the same thing, which Reich Reich's oracs attract deadly orgone energy as well as positive called orgone. and do nothing to transmute it into a purely beneficial form, which orgonite does inherently and continuously.
 THE ADVANCEMENTS OF ORGONITE Within a year of this development, Don began publish ing reports of his and his wife's experiences in, among other Reich built his research lab, dubbed Orgonon, in rural things, the tactical deployment of small pieces of orgonite Maine, USA, as this location was at the time very isolated near any and all sources of DOR, or life-negative energy from sources of deadly orgone (DOR), which his accumu such as cell phone towers, nuclear power plants, underground lators would collect indiscriminately. Operating an orgone bases and natural Earth energy gridlines and vortices. Don accumulator near sources of DOR (such as nuclear power included in his reports the specific life-positive, cleansing, plants, radio towers, etc.) has the potential of harming any healing, confirming effects they would notice following such one receiving treatment inside it, so geographical location "gifting" activities, causing Don to strongly encourage his was, and is, an important factor for orgone accumulator op readers to replicate his efforts in their own communities.
+
+
 eration.
-In 2000, a couple named Don and Carol Croft discovered CL0UDBUSTING: THEN AND NOW through some internet research and empirical observation that mixing catalyzed organic fiberglass resin with inorganic In addition to effective health metal shavings, poured into small molds such as paper cups treatments, Dr. Wilhelm Reich also and muffin pans, would produce a substance which would utilized his advanced knowledge of attract etheric energy similarly to Reich's accumulators. discrete energies to build and suc Carol Croft, gifted with a keen sense of discrete energies, cessfully test a weather modifica realized the significance of this finding and took it a step tion device, called a cloudbuster, further by adding small quartz crystals to the mixture for which operated on the principle their ability to efficiently collect, transmute and emit etheric that clouds are held together by or energy. This addition to the resin/metal matrix creates a sub gone energy, and removing this en stance which functions as a self-driven, continuously-operat ergy causes clouds to rapidly disin ing, highly efficient DOR-+POR (negative to positive) energy tegrate. Reich developed a superior transmutation device. weather prediction model which Wilhelm Reich with took into account the otherwise igWhen orgonite is within range of a source of DOR/neg- his cloudbuster.
+In 2000, a couple named Don and Carol Croft discovered CL0UDBUSTING: THEN AND NOW through some internet research and empirical observation that mixing catalyzed organic fiberglass resin with inorganic In addition to effective health metal shavings, poured into small molds such as paper cups treatments, Dr. Wilhelm Reich also and muffin pans, would produce a substance which would utilized his advanced knowledge of attract etheric energy similarly to Reich's accumulators. discrete energies to build and suc Carol Croft, gifted with a keen sense of discrete energies, cessfully test a weather modifica realized the significance of this finding and took it a step tion device, called a cloudbuster, further by adding small quartz crystals to the mixture for which operated on the principle their ability to efficiently collect, transmute and emit etheric that clouds are held together by or energy. This addition to the resin/metal matrix creates a sub gone energy, and removing this en stance which functions as a self-driven, continuously-operat ergy causes clouds to rapidly disin ing, highly efficient DOR-+POR (negative to positive) energy tegrate.
+
+
+Reich developed a superior transmutation device. weather prediction model which Wilhelm Reich with took into account the otherwise igWhen orgonite is within range of a source of DOR/neg- his cloudbuster.
 
 ## The Dot Connector • July-August 2009 N
 
 ## Dossier Life-Spreading Energy Of Orgonite
 
 which combines the original cloudbuster's basic operating principles with the advantages of orgonite.
-A typical chembuster consists of 6 six-foot copper pipes embedded in a base of orgonite (typically poured in a paint bucket) with double-terminated quartz crystals in the base of each pipe to create an etheric energy vacuum effect which literally sucks the negative energy from the sky within a sev eral mile radius into the orgonite base, where it is then trans muted into harmless, beneficial positive energy. Unlike Reich's cloudbusters, chembusters can be safely left in continuous operation where they will quickly restore and maintain at mospheric energy balance within an area. In drought-stricken regions of the globe, this always occurs in the form of rain sufficient to end the drought conditions. This has been suc cessfully demonstrated in various parts of Africa", California and in many other locations around the world by various dedicated individuals.
+A typical chembuster consists of 6 six-foot copper pipes embedded in a base of orgonite (typically poured in a paint bucket) with double-terminated quartz crystals in the base of each pipe to create an etheric energy vacuum effect which literally sucks the negative energy from the sky within a sev eral mile radius into the orgonite base, where it is then trans muted into harmless, beneficial positive energy. Unlike Reich's cloudbusters, chembusters can be safely left in continuous operation where they will quickly restore and maintain at mospheric energy balance within an area. In drought-stricken regions of the globe, this always occurs in the form of rain sufficient to end the drought conditions.
+
+
+This has been suc cessfully demonstrated in various parts of Africa", California and in many other locations around the world by various dedicated individuals.
 The infallibly beneficial nature of orgonite eliminates the need for special training, safety precautions, or rigorous ef Chembuster. fort to operate a chembuster, since it simply transmutes any negative energy it attracts from the atmosphere while the rest nored etheric component of our weather and produced more of the device functions as an etheric vortex generator, actively accurate weather predictions than the popular and incomplete balancing the energy between sky and ground, eliminating "pressure system" model. smog/air pollution and negatively charged artificial cloud Reich's cloudbuster consisted of a set of turret-mounted formations called chemtrails, replacing their spreading blan metal pipes connected by rubber tubing to a body of water ket of poisonous DOR clouds with the deep blue skies and for energetic grounding, which would dissipate clouds by puffy white natural clouds we all remember from childhood.
 draining the orgone energy holding them together and, with The positive, self-empowering effects of working with or careful and time-consuming effort, significantly alter overall gonite quickly become obvious to those who choose tc make weather patterns, in some cases intentionally causing the com and use it.
 plete reversal of drought conditions in the desert in a matter Co u rtesy of www. o rgo nite. info of months.
 Reich's design was proven very effective as intended, but REFERENCES could also be very dangerous if mishandled. Large amounts Miischenich, S. & Gebauer, R.: "Die (Psycho-) Physiologischen of DOR accumulate in the pipes during operation, and even Wirkungen des Reich'schen Orgonakkumulators aufden Menschlichen momentary contact with bare skin, has caused some opera Organismus [The (Psycho) Physiological Effects of the Reich Orgone tors everything from intense pain to long-term paralysis, Accumulator)". Dissertation, Department of Psychology, University simply from brushing past the pipes with a bare leg. of Marburg, Germany, 1986.
+
+
 Don Croft has invented a more advanced, effective and Don and Carol Croft's website: www.worldwithoutparasites.com safer version of Reich's cloudbuster, called a chembuster, Their orgonite community forum: www.ethericwarriors.com : particularly sensitive to electromagnetic pollution and find relief near orgonite pieces.
 
 ## 12 | The Dot Connector • July-August 2009
@@ -155,12 +185,19 @@ A..
 
 m 5 ve ' b u s t e d' all t he cell p h o ne t o w e rs in Bali...' My name is Dan. I am originally from the UK but have lived in Bali for the last 20 years.
 I stumbled on a site about orgonite (www.orgonite.info) three years ago when searching for c5:iiA¿--^K & A o% * * a simple introductory website about the work \ TstTeSngsEt LO of Wilhelm Reich for a friend. A mixture of > * , k H • /tfc Ssfcjfeau «Etturil . / w\f là". Aeuf,a j metal shavings, crystal chips and resin, or •"•**•* •_•gonite was said to absorb all forms of negative Munca "*>*b». «C «• S¡^)&mtspiiís %* i*. > ft - ' '^' m. À radiation and convert them to positive orgone
+
+
 -' Í m
 energy. My initial reaction was that it sounded far too good to be true, but if it worked, it O Water Gifted © Towers Busied would be amazing.
 if Towns Gridded
-The recipe was simple enough and so I @ Cloudbusters compiled the ingredients and poured my first batch of "tower busters". Within half an hour the atmosphere in the house had completely altered. The harm that electromagnetic pollution I put one beside each cell phone tower I does to the natural world is one of the best could find in the immediate vicinity and was kept secrets of our time, and orgonite appears surprised how fast the sky changed from its to be the only known solution. Fortunately, it usual grey, cloudless haze to clear blue with is very cheap and easy to produce, which per distinct cumulus clouds. haps explains the rapid spread of the orgonite I was hooked. gifting movement in recent years.
+The recipe was simple enough and so I @ Cloudbusters compiled the ingredients and poured my first batch of "tower busters". Within half an hour the atmosphere in the house had completely altered. The harm that electromagnetic pollution I put one beside each cell phone tower I does to the natural world is one of the best could find in the immediate vicinity and was kept secrets of our time, and orgonite appears surprised how fast the sky changed from its to be the only known solution.
+
+
+Fortunately, it usual grey, cloudless haze to clear blue with is very cheap and easy to produce, which per distinct cumulus clouds. haps explains the rapid spread of the orgonite I was hooked. gifting movement in recent years.
 Since then I've "busted" all the towers on Dan, the island of Bali, built many orgonite cloud- www.BaliGifter. org busters, gifted all the lakes and gridded most of the towns. The results are profound!
 The legendary exhaust fumes of the main How to Make a Cell Phone Button town have been replaced by clear fresh air, the skies everywhere are pristine and the mon Recent studies have found that the microwave radiation from a cell phone is quite likely soons have returned after a few years of con to result in a brain tumor on the side of the head favored by the user after about 2000 sistent drought. hours of talk-time. A small button of orgonite will greatly reduce the dangers of brain cancer by transmuting the negative energies into positive orgone which will have a heal Don Croft, the founder of the Orgonite gift ing effect on the brain. These "cellphone buttons" are easily made using the same bal ing movement, kindly invited me to post on his ance of ingredients as regular orgonite although the quantities need to be greatly re orgonite forum (www.EthericWarriors.com) duced to a practical size for attaching to your cell phone with double-sided tape.
+
+
 and my Bali Gifting reports can be found there.
 ^ Find a suitable mould (hard plastic \/ Leave it to cure thoroughly and I started my own informative website (see the or glass is ideal) and prepare your remove from the mould, link below), in both English and Indonesian, ingredients in this way: \/ Use sandpaper to even out the flat and began receiving contacts from other is ^ Sieve some metal shavings (any surface and attach it to the back lands in the archipelago. metal will work fine) but it's best to of your cell phone with a layer of I spend much of my time now helping and avoid using filings or metal dust. double-sided sticky tape.
 */ Mix in some small pieces of
@@ -177,12 +214,18 @@ G a r d e n i ng w i th Orgonite
 
 ## Íwas Introduced To Orgonite When, Literally, A Crate
 
-of these things arrived unannounced on my doorstep from someone I "sort of knew". After some googling and reading up on the various far-out claims, I decided to start with basic seed germination tests which yielded three times growth in both cases, much to my surprise. These backed up the inter net claims and are fast and easy to do. I'd recommend any one wanting to prove it does something to start with that but do use larger seeds and the alfalfa variety I used was some what small.
+of these things arrived unannounced on my doorstep from someone I "sort of knew". After some googling and reading up on the various far-out claims, I decided to start with basic seed germination tests which yielded three times growth in both cases, much to my surprise. These backed up the inter net claims and are fast and easy to do.
+
+I'd recommend any one wanting to prove it does something to start with that but do use larger seeds and the alfalfa variety I used was some what small.
 Having seen the results first hand and run the test for a sec ond time where I was incredibly anal about measuring, I then distributed them to several local friends. It wasn't until last fall that more incredible results came in with friends and neigh bours who actually had gardens. Here's a quick round up.
 
 ## Report 1
 
-I finally heard back from M. Rogers in Shoreham. He's had orgonite in his greenhouse for some time, as well as around his house. He noticed the growth increase in the spring and was somewhat startled by it. Now he's reporting that the seeds and plants he's tried to grow over the past few years in his greenhouse that have failed miserably, like grapes and gojo berries, now actually look like they're supposed to. Other plants he was trying to growr went from pathetic to fullyformed this year. He also placed the pyramid orgonite next to his neighbours' wall - and all the plants on the other side of the wall have also gone mad with massive growth.
+I finally heard back from M. Rogers in Shoreham. He's had orgonite in his greenhouse for some time, as well as around his house.
+
+He noticed the growth increase in the spring and was somewhat startled by it. Now he's reporting that the seeds and plants he's tried to grow over the past few years in his greenhouse that have failed miserably, like grapes and gojo berries, now actually look like they're supposed to. Other plants he was trying to growr went from pathetic to fullyformed this year.
+
+He also placed the pyramid orgonite next to his neighbours' wall - and all the plants on the other side of the wall have also gone mad with massive growth.
 
 ## Gardeners Wanted For Orgonite Trial
 
@@ -211,7 +254,14 @@ Report 6
 A yew tree had been planted when M.
 By May 2009 the hedges had regrown dramatically.
 Shoreham was young, and it's now a pretty tall tree. Another one was planted in the spring Reports 3&4 from a sapling and orgonite buried nearby or My neighbours' allotment has noticed at its base. The tree now matches the first one major improvement and he showed me some in height of about 16 feet high and forms an radishes - one normal size and the other the arch with the first planted over 30 years ago.
-size of a small melon. The first was grown Mark Bennett without orgonite, and the larger of the two was grown next to the orgonite I gave him. Mark Bennett is a respected investigative jour He's also had problems germinating some nalist and photographer covering the fringes of seeds, so he tried again, placing the orgonite culture and science and contributing features to close by. They all sprouted and grew massively many publications including Fortean Times, without any delay. Skin Two Magazine and i-D, as well as editing He's not committing to give complete credit his own avant-garde, cyber culture magazine, to the orgonite, as none of his 'experiments' Black Ice. He has piloted series for both BBC were controlled and there are variables like soil and Channel 4 along with acting as a con quality, for example. But he did say it was very sultant and camera expert for multiple pro favourable anecdotal evidence. grammes. He is also an absinthe connoisseur.
+
+
+size of a small melon. The first was grown Mark Bennett without orgonite, and the larger of the two was grown next to the orgonite I gave him. Mark Bennett is a respected investigative jour He's also had problems germinating some nalist and photographer covering the fringes of seeds, so he tried again, placing the orgonite culture and science and contributing features to close by.
+
+They all sprouted and grew massively many publications including Fortean Times, without any delay. Skin Two Magazine and i-D, as well as editing He's not committing to give complete credit his own avant-garde, cyber culture magazine, to the orgonite, as none of his 'experiments' Black Ice. He has piloted series for both BBC were controlled and there are variables like soil and Channel 4 along with acting as a con quality, for example.
+
+
+But he did say it was very sultant and camera expert for multiple pro favourable anecdotal evidence. grammes. He is also an absinthe connoisseur.
 
 ## The Dot Connector • July-August 2009 | 15
 
@@ -222,7 +272,9 @@ Yourself
 
 ## Making Orgonite Yourself Can Be One Of The Most Rewarding Creative Activities You
 
-can experience. Gifters give freely knowing that they are helping the planet and all beings. They are alchemists allowing the universal flow to create whatever is needed in that moment. The best orgonite is made when intuition steps in and the mind gets out of the way. The follow ing information is presented in the hope that you too will join the thousands of others who gain great enjoyment from this empowering activity.
+can experience. Gifters give freely knowing that they are helping the planet and all beings. They are alchemists allowing the universal flow to create whatever is needed in that moment.
+
+The best orgonite is made when intuition steps in and the mind gets out of the way. The follow ing information is presented in the hope that you too will join the thousands of others who gain great enjoyment from this empowering activity.
 HEALTH AND SAFETY y/ Stirring implement - for mixing resin and added hardener/catalyst.
 •" Always choose a well ventilated area to */ Mould - holding shape or object to avoid inhaling resin fumes. Outdoors is achieve intended design.
 best. t/ Standby mould - any object that can hold ^ Wear a vapour mask indoors if a suitable any surplus resin to avoid unnecessary fume extractor is unavailable. wastage due to miscalculation of required \/ Wear protective gloves to avoid sticky amount.
@@ -263,6 +315,8 @@ WÊÈËmt
 Congratulations! You have now joined the thousands of people worldwide who are tak ing responsibility for their own energetic space and that of others in their communities. It is at this stage in the process that you may feel your creative abilities increase, so go on, fol low where it leads and watch it flow!
 ^ Add different crystals, materials, minerals, EQUIPMENT AND SUPPLIES potions, herbs, etc. RESOURCES/SUGGESTIONS 1/ Add copper coils.
 f' Use different moulds to achieve personal Reliable cheap resin supplies and safety designs. equipment: CFS - www.cfsnet.co.uk •• Add colours. Crystals can be collected from the wild for \/ Allow your intuition to guide you on a free from beaches and mountains or bought journey of self and planetary healing. from online or local retail sources. Quartz crys •" Make with Love and Intuition. tal is the most frequently used crystal in or gonite.
+
+
 Moulds can be baking tins, silicon moulds and glass objects. You will probably already have suitable moulds around your home.
 
 ## Recommended Supplier

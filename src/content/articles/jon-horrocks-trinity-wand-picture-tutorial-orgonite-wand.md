@@ -21,19 +21,28 @@ List of Tools
 1 Container of FastSteel or QuickSteel – FastSteel is found in the paint dept. at Home Depot, Quick Steel is found in the auto dept. of Walmart 1 Package of latex gloves - I get mine from the dollar store 3 1 1/4-inch by 12-inch copper pipes 6 1 1/4-inch end caps 1 Spool of 30-gauge (0.25-mm) Insulated Wrapping Wire - Available at most Radio Shacks, comes in red, white, and blue colors.
 1 18-inch by 2ft sheet of aluminum foil 1 Roll of aluminum tape - Available at Home Depot in the air conditioning section. Not necessary - packing tape will work, too, but this is better 1 Roll of 24-gauge (0.5-mm) copper wire - I get mine from Ace Hardware 1 Bottle of Sally Water - Available from Sally at steller2@cloud-busters.com 1 Gallon size plastic bottle of Arrowhead drinking water – I pour this out and put in distilled water, but any water will work. Its easier to stir with a rounded container 1 Container of resin + catalyst 1 Quarter cup of metal shavings (not shown in picture below) 1 Small quartz crystals, rose quartz pieces 3 Nickles – Yeah, the money 1 Coil of ¼-inch copper tubing – Found in the plumbing section of Home Depot
 
+
 ## Part 1 – Preparing the Pipes
 
-I get my copper pipe from Home Depot. They are found standing up in 10-foot lengths. You could ask a sales associate nicely to cut them in half for easier transport. Sometimes they get moody about that so nowadays I bring my own pipe cutter and take care of it in the parking lot. I then use a hani-wipe to clean the pipes before putting them in my car. They can be a little dirty off the shelf. I buy enough pipe at one time to make 10 Trinity Wands. The picture shows six 5-foot (15-dm) lengths of 1 ¼-inch (3-cm) copper pipe.
+I get my copper pipe from Home Depot. They are found standing up in 10-foot lengths. You could ask a sales associate nicely to cut them in half for easier transport.
+
+Sometimes they get moody about that so nowadays I bring my own pipe cutter and take care of it in the parking lot. I then use a hani-wipe to clean the pipes before putting them in my car. They can be a little dirty off the shelf.
+
+I buy enough pipe at one time to make 10 Trinity Wands. The picture shows six 5-foot (15-dm) lengths of 1 ¼-inch (3-cm) copper pipe.
 
 Mark the pipes in 1-foot intervals. Home Depot doesn’t cut their pipes exactly to the inch so there may be an extra inch or so at the end. I just leave it.
 
 ## Set the pipe cutter.
 
-If you are fortunate enough to have a vice, then use it to hold the pipe while you work the cutter. This saves my hands a lot of stress (10 TWs = 24 pipe cuts). Notice the CD player in the background. Jumping music is essential for putting me in the right mood to create these devices. ☺ 3 1-foot (30-cm) x 1 ¼-inch (3-cm) pipes and 6 end caps. Remove all of the barcode stickers as they radionically give off negative energy.
+If you are fortunate enough to have a vice, then use it to hold the pipe while you work the cutter. This saves my hands a lot of stress (10 TWs = 24 pipe cuts). Notice the CD player in the background.
+
+Jumping music is essential for putting me in the right mood to create these devices. ☺ 3 1-foot (30-cm) x 1 ¼-inch (3-cm) pipes and 6 end caps. Remove all of the barcode stickers as they radionically give off negative energy.
 
 ## Part 2 – Securing the End Caps
 
-Now its time to put on one set of end caps and secure them with the bonding agent. If the end cap doesn’t slide on easily, put it on a little bit and then bang it on the ground until it gives The directions on the FastSteel say to avoid contact with your skin, so I put on a latex glove. I’m right handed so that’s where it goes. FastSteel is labled a “Steel-Reinforced Epoxy Putty Stick.” When it fully hardens, which takes about an hour, it forms a seriously solid bond. The amount I tore off is all that is needed to cover the seam on one end cap.
+Now its time to put on one set of end caps and secure them with the bonding agent. If the end cap doesn’t slide on easily, put it on a little bit and then bang it on the ground until it gives The directions on the FastSteel say to avoid contact with your skin, so I put on a latex glove. I’m right handed so that’s where it goes.
+
+FastSteel is labled a “Steel-Reinforced Epoxy Putty Stick.” When it fully hardens, which takes about an hour, it forms a seriously solid bond. The amount I tore off is all that is needed to cover the seam on one end cap.
 
 ## FastSteel is made up of two substances. One
 
@@ -86,7 +95,11 @@ Take enough of the aluminum tape to fit around the three pipes (about 10-inches)
 
 Here’s another angle. Notice the infinity symbols. That’s how I mark the tops in case I decide to later deploy the Trinity Wand in a standing position.
 Part 7 – Preparing the Mobius Wire I start by placing a pushpin into my backyard fence. Then I wrap a few inches of the Insulated Wrapping wire around the pin.
-Stepping backward, I unroll the spool until I reach the end. Remember to watch where you’re going. ☺ I bring that end back to the fence and wrap it around the same pushpin. Now the wire is folded in half and ready for the drill. At this point you could go to the other end of the wire and cut it, making two shorter wires instead of just one long one. Then all you need to do is fold each of those shorter wires in half and get the drill, attaching the loose ends to the pushpin. Works either way - I just happen to like a longer wire on my Trinity Wands. Up to you.
+Stepping backward, I unroll the spool until I reach the end. Remember to watch where you’re going. ☺ I bring that end back to the fence and wrap it around the same pushpin. Now the wire is folded in half and ready for the drill.
+
+At this point you could go to the other end of the wire and cut it, making two shorter wires instead of just one long one. Then all you need to do is fold each of those shorter wires in half and get the drill, attaching the loose ends to the pushpin. Works either way - I just happen to like a longer wire on my Trinity Wands.
+
+Up to you.
 
 Now I go back to the other end of the wire, taking my drill with a long extension cord to give me power where there are no electrical outlets. I stick the wire, along with a little piece of scrap wire, into where a drill bit would go. I add the second piece of wire in order to create a snug fit, making it harder for the wire to pop out unexpectedly.
 Spin the wire counter-clockwise until the twists look about like this. Here you can see the little piece of yellow scrap wire.
@@ -142,9 +155,16 @@ Mark the ‘up’ end. That’s it!
 
 ## In Conclusion
 
-Well, that's it. Now you have a very powerful and fully functional Trinity Wand. I like to bury one on my home property and the others at various locations around my community. Lorae Ireland says they are best buried alongside rivers or tossed into lakes. These units really come alive around water. But they work well buried anywhere. I like to stand mine up, orgonite end down, when I have the time and patience during deployments. Horizontal works fine too.
+Well, that's it. Now you have a very powerful and fully functional Trinity Wand. I like to bury one on my home property and the others at various locations around my community.
+
+Lorae Ireland says they are best buried alongside rivers or tossed into lakes. These units really come alive around water. But they work well buried anywhere.
+
+I like to stand mine up, orgonite end down, when I have the time and patience during deployments. Horizontal works fine too.
 If resources are favorable, I build ten of the TWs together at an easy pace over a period of three days. On day 1 I cut the pipe, bond the end caps to one end, and pour the orgonite. On day 2 I seal the copper coils, Sally Water Inserts and 2nd generation Sally Water into the pipes. On day 3 I wrap the mobius coils around the units and put on the foil.
-I've built Trinties using 3/4-inch, 1-inch, 1 1/4-inch and 1 1/2-inch copper pipe. According to Lorae, the bigger they are, the more powerful. I choose the 1 1/4-inch pipe mostly because of the favorable power-to-cost ratio. If I could afford it, I'd be using the 2-inch pipe. The first ones I made for Lorae's summer 2000 western gifting spree were the 1 1/2-inch size. Later I sent her the 3/4-inch ones because money had gotten tight, but according to her those were nowhere near as powerful.
+I've built Trinties using 3/4-inch, 1-inch, 1 1/4-inch and 1 1/2-inch copper pipe. According to Lorae, the bigger they are, the more powerful. I choose the 1 1/4-inch pipe mostly because of the favorable power-to-cost ratio.
+
+If I could afford it, I'd be using the 2-inch pipe. The first ones I made for Lorae's summer 2000 western gifting spree were the 1 1/2-inch size. Later I sent her the 3/4-inch ones because money had gotten tight, but according to her those were nowhere near as powerful.
+
 See here for Lorae Ireland's (Captainmcgoo on forums.cloud-busters.com) Trinity Wand deployment adventures across the western U.S.:
 http://forums.cloud-busters.com/files/captainmcgoo...
 click on "20000 miles of orgonite.doc"

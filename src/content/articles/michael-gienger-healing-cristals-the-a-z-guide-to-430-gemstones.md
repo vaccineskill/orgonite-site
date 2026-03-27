@@ -19,18 +19,22 @@ Original German text copyright © 2003 Michael Gienger Cover photography: Ines B
 ## Isbn 978-1-84409-067-9
 
 A-Z-2009_96.qxp:v 17/5/09 16:03 Page 3 A simple guide to using gemstones Michael is a pioneer and one of the most committed researchers in the field of gem remedy. In 2003, twenty years after the first wave of modern publications on the healing power of gemstones, he presented Healing Crystals, a comprehensive illustrated guide to healing gemstones. Updated in 2009, Healing Crystalsdetails, in a in a clear and concise form, the individual qualities and specific healing properties of 430 crystals.
+
+
 This work reflects the development in the field of gem remedies over three spans of seven years: seven years of pioneering work, seven years of systematic research and seven years of working experience – without these preliminary stages and the co-operation of many naturopaths, doctors and gemstone consultants, this work would not have been possible. My heartfelt thanks go to all those who have contributed to making this work a reality!
 This guide is intended for all those who seek a reliable and simple source of information on healing crystals:
 •For all interested people who wish to inform themselves about the healing properties of crystals.
 •For all naturopaths, doctors and gemstone consultants as an up-to-date reference guide to healing crystals.
 •For all those who work with or deal in crystals, as an important update on the latest developments in the field of gem remedies.
-In a word: a guide for anyone who relates to crystals. So take a look …
-
-A-Z-2009_96.qxp:v 17/5/09 16:03 Page 4 How to use this guide This guide presents and defines the mineralogy and healing effects of crystals in common use. It offers brief information on the basic properties of the crystals. For further information, consult the indicated bibliography as needed.
+In a word: a guide for anyone who relates to crystals. So take a look … A-Z-2009_96.qxp:v 17/5/09 16:03 Page 4 How to use this guide This guide presents and defines the mineralogy and healing effects of crystals in common use. It offers brief information on the basic properties of the crystals. For further information, consult the indicated bibliography as needed.
 Terms used in the guide are explained in detail as follows:
 Title:the title of each entry gives the name or names of the illustrated crystal.
 In addition to mineralogical names, their common names are also used if they better pinpoint or describe the crystal in question. To distinguish the mineralogical names, which are scientifically recognised, from the common, or trade, names, they are printed in black, while the common names are printed in blue. In certain cases the blue names are chosen titles which serve as a suggestion, to both gemstone dealers and interested readers, of correct and clear designation of the crystals, including their healing properties.
+
+
 Mineralogy:this gives brief information on the mineralogy, especially the crystal classification and group where necessary, as well as the crystalline structure and nature of formation (‘primary’ = molten magma formation, ‘secondary’ = formation through disintegration and deposits, ‘tertiary’ = metamorphic formation under heat and pressure). In addition to the visible colour, these details are very important for the healing effect and usage of a crystal. Their significance can be found in Michael Gienger’s book Crystal Power, Crystal Healing(Cassell London 1998).
+
+
 Indications:this gives information on the important healing effects and areas of activity of respective crystals. It particularly presents those major properties that characterise the crystal in question and distinguish it from crystals with similar properties. Other healing effects can be looked up in the indicated bibliography.
 (SP)refers to the ‘spirit or spiritual aspect’, the innate nature of a person including his or her important intentions, aims and focus in life; (S)refers to the ‘soul or the subconscious’, including temperament, emotions, intuitive perceptions, dreams, psychological experiences, habits and unconscious reactions; (M)refers to ‘mind or mental aspects’, including ideas, values, convictions, views as well as the manner of thinking and conscious action; (B)refers to the ‘body or physical aspect’, the human organism as a whole with its senses, organs and functions.
 
@@ -40,7 +44,9 @@ Defining these four aspects clearly differentiates what can be influenced, enhan
 Bib.:this information refers to comprehensive literature in which the crystal in question, or at least crystals of the same kind or family, are described. The numbers 1 to 4 refer to the bibliography on page 95.
 Rarity: this gives an estimate of the availability of the crystal in question.
 Naturally this is often prone to a lot of variation depending on which crystals are collected or mined in which mines or discovery sites at each point in time.
-As a result these estimates are never ‘absolute’! They are only intended to give a clue as to the chances of finding a desired crystal in the shops in the foreseeable future. Also the availability of a crystal does not always have to do with how rare or common it is. Rare crystals that are well known are sometimes more available than more common but less known ones. The availability has been individually classified as follows:
+As a result these estimates are never ‘absolute’! They are only intended to give a clue as to the chances of finding a desired crystal in the shops in the foreseeable future. Also the availability of a crystal does not always have to do with how rare or common it is.
+
+Rare crystals that are well known are sometimes more available than more common but less known ones. The availability has been individually classified as follows:
 Common:means it has been continuously available in large quantities over a long period of time and cut into different forms and shapes. No scarcity of the common shapes or forms is anticipated in the foreseeable future.
 Readily available:means sufficiently available most times. No major scarcities of particular forms are expected in the future.
 Not always available:means not always obtainable. Sometimes there is a scarcity or just a few forms are available in limited quantities. The reserves are unsteady or limited.
@@ -90,9 +96,7 @@ Bib.:[1] [2] [3] Rarity: not always available ❍ Agate ‘Lace Agate’, ‘Cra
 Mineralogy:agate with twisting & turning bands (trigonal, primary) Indications: (SP)elegance, mental agility, dynamism (S)liveliness, variety (M) flexibility in thinking and acting (B) promotes tissue metabolism, very effective against infections, insect bites, varicose veins and haemorrhoids.
 Bib.:[2] [3] Rarity: readily available ❍ Agate ‘Layered Agate’, ‘Banded Agate’
 Mineralogy:agate with band-like layers (trigonal, primary) Indications: (SP) steadfastness and unity (S) protection, security, moral stability (M)for pragmatic planning in thinking and actions (B) for the intestine and digestion; improves elasticity of blood vessel walls and prevents varicose veins.
-Bib.:[1] [2] [3] Rarity: readily available ❍
-
-A-Z-2009_96.qxp:v 17/5/09 16:03 Page 9 Agate, pink ‘Apricot Agate’
+Bib.:[1] [2] [3] Rarity: readily available ❍ A-Z-2009_96.qxp:v 17/5/09 16:03 Page 9 Agate, pink ‘Apricot Agate’
 Mineralogy:agate, predominantly pink coloured (trigonal, primary) Indications: (SP) incentive, compassion (S) steadfastness, protection and safety (M)helps to actively deal with difficult assignments (B)for inflammation; activates absorption of nutrients in the intestine and also stimulates metabolism and blood circulation.
 Bib.:[2] [3] Rarity: not always available ❍ Agate, red ‘Blood Agate’
 Mineralogy:agate with a natural red colour (trigonal, primary) Indications: (SP)strength, stability, increases stamina (S)perseverance and strength generated from inner balance (M) development and conscious usage of personal abilities (B)fortifies stomach, intestine and blood vessels, enhances circulation and blood-flow.
@@ -116,9 +120,7 @@ Bib.:[2] Rarity: readily available ❍ Agate‘with uterus-shaped markings’
 Mineralogy:agate, with uterus-shaped markings (trigonal, primary) Indications: (SP) growth, development, blossom (S) instils deep security when homesick or lonely (M)cautiousness (B)for inflammation of the uterus, menstrual pain, pregnancy and normalisation after childbirth.
 Bib.:[1] [2] [3] Rarity:readily available ❍ Agate ‘Water Agate’, ‘Enhydro’
 Mineralogy:agate nodule filled with water (trigonal, primary) Indications: (SP) growth, protection, development (S) instils deep security and enhances inner peace, promotes empathy (M)fortifies solicitude and openness (B)protective stone in pregnancy; regulates water and hormone balance.
-Bib.:[1] [2] [3] Rarity:scarce ❍
-
-A-Z-2009_96.qxp:v 17/5/09 16:03 Page 11 Agate, white ‘Peace Agate’
+Bib.:[1] [2] [3] Rarity:scarce ❍ A-Z-2009_96.qxp:v 17/5/09 16:03 Page 11 Agate, white ‘Peace Agate’
 Mineralogy:colourless, white agate (trigonal, primary) Indications: (SP)calm, peace, self-confidence (S), strengthens inner composure, for kindness, sincerity and light-heartedness (M) promotes tolerance and understanding (B) for the eyes, brain, skin, lymph and tissues; protective stone in pregnancy.
 
 ## Bib.:[2] Rarity:readily available ❍ Agate, white/black‘Zebra Agate’
@@ -158,9 +160,7 @@ Mineralogy:potassium feldspar (lattice silicate, triclinic, prim./tert.) Indicat
 
 Mineralogy:fossiliferous resin (organic, amorphous, secondary) Indications: (SP) makes carefree (S) for cheerfulness and trust (M) strengthens belief in oneself (B) good for the stomach, spleen, gallbladder, liver, joints, skin, mucous membranes, glands and intestine;
 aids teething in children; helps with allergies, rheumatism and diabetes.
-Bib.:[1] [2] [3] Rarity:common ❍
-
-A-Z-2009_96.qxp:v 17/5/09 16:03 Page 13 Amethyst Quartz ‘Chevron Amethyst’
+Bib.:[1] [2] [3] Rarity:common ❍ A-Z-2009_96.qxp:v 17/5/09 16:03 Page 13 Amethyst Quartz ‘Chevron Amethyst’
 Mineralogy:violet/white striped crystal quartz (trigonal, primary) Indications: (SP) sobriety, purity, composure, calm (S) peps up in cases of perpetual tiredness, resolves persistent anxiety (M) helps overcome habitual tendencies and addictions (B)good for the lungs, large intestine and skin; alleviates itching and sunburn.
 Bib.:[1] [2] [3] Rarity:common ❍ Amethyst with Chalcedony (Quartz) Mineralogy:amethyst with chalcedony stripes (trigonal, primary) Indications: (SP)reconciliation, peace, kindness (S)promotes feelings of happiness and universal love (M)helps with self-reconciliation and reconciliation among people (B) cleanses the body fluids and harmonises the whole organism.
 
@@ -286,9 +286,7 @@ Bib.:[1] [2] [3] Rarity:common ❍ Calcite, honey-coloured‘Honey Calcite’
 Mineralogy:iron-containing calcium carbonate (trigonal, secondary) Indications: (SP)assurance (S)promotes a confident and optimistic approach to life (M)initiates relying more on one’s feeling and sensing (B)stimulates digestion, metabolism and excretion; strengthens the intestine, connective tissues, bones and teeth.
 Bib.:[1] [2] [3] Rarity:readily available ❍ Calcite, orange ‘Orange Calcite’
 Mineralogy:iron-containing calcium carbonate (trigonal, secondary) Indications: (SP)self-confidence (S)promotes self-respect and confidence in one’s abilities (M) promotes optimism, without becoming unrealistic (B)enhances digestion and healing of the connective tissues, skin and bones.
-Bib.:[1] [2] [3] Rarity:common ❍
-
-A-Z-2009_96.qxp:v 17/5/09 16:03 Page 21 Calcite, pink ‘Mangano Calcite’
+Bib.:[1] [2] [3] Rarity:common ❍ A-Z-2009_96.qxp:v 17/5/09 16:03 Page 21 Calcite, pink ‘Mangano Calcite’
 Mineralogy:manganese-containing calcium carbonate (trig., sec.) Indications: (SP) friendliness (S) promotes warmth, acceptance, helpfulness, friendly disposition (M)makes open-minded and accommodating of others (B)strengthens the heart, normalises heartbeat;
 good for connective tissues, blood vessels and skin.
 
@@ -321,9 +319,7 @@ Mineralogy:strontium sulphate (orthorh, second./rarely prim.) Indications: (SP)r
 ## Bib.:[2] Rarity:readily available ❍ Chalcedony, blue
 
 Mineralogy:fibrous quartz (trigonal, primary/secondary) Indications: (SP)presence of mind (S)helps accept new situations and overcome resistance (M)bestows inner calm and relaxed attention (B) stimulates milk production in nursing mothers; helps with sensitivity to weather changes; alleviates diabetes.
-Bib.:[1] [2] [3] Rarity:readily available ❍
-
-A-Z-2009_96.qxp:v 17/5/09 16:03 Page 23 Chalcedony, blue banded ‘Blue Lace Agate’
+Bib.:[1] [2] [3] Rarity:readily available ❍ A-Z-2009_96.qxp:v 17/5/09 16:03 Page 23 Chalcedony, blue banded ‘Blue Lace Agate’
 Mineralogy:fibrous quartz (silicon dioxide, trigonal, primary) Indications: (SP) communication (S) enhances rhetoric and selfexpression (M) aids listening, understanding, confiding (B)promotes flow of lymph; helps thyroid gland, kidneys, bladder; with hoarseness, colds, allergies, blood pressure; fever-reducing effect.
 Bib.:[1] [2] [3] Rarity: Not always available ❍ Chalcedony ‘Chrome Chalcedony’
 Mineralogy:chalcedony containing chromium (quartz, trig., sec.) Indications: (SP)carefree (S)bestows a light-hearted disposition to life; helps face up to worries and unpleasant matters (M) helps remain open to new ideas (B)has an anti-inflammatory effect, also on rheumatic diseases, polyarthritis among others.
@@ -337,9 +333,7 @@ Mineralogy:chalcedony with manganese dendrites (trig., prim./sec.) Indications: 
 ## Bib.:[1] [2] Rarity:readily available ❍ Chalcedony, green
 
 Mineralogy:chalcedony with iron silicates (trigonal, secondary) Indications: (SP)forbearance, consideration (S)promotes a considerate attitude towards oneself and others (M) helps expend one’s energy rationally (B)fortifies the immune reaction; improves wellbeing; helps with infections and enhances the senses.
-Bib.:[1] [2] Rarity:not always available ❍
-
-A-Z-2009_96.qxp:v 17/5/09 16:03 Page 24 Chalcedony, pink ‘Rose Chalcedony’
+Bib.:[1] [2] Rarity:not always available ❍ A-Z-2009_96.qxp:v 17/5/09 16:03 Page 24 Chalcedony, pink ‘Rose Chalcedony’
 Mineralogy:chalcedony containing manganese (quartz, trig., sec.) Indications: (SP) for warm-heartedness (S) makes lively, kind and helpful (M) promotes openness and understanding (B) stimulates milk production in nursing mothers; helps with diabetes, colds and heart diseases caused by protracted infections.
 Bib.:[1] [2] [3] Rarity:readily available ❍ Chalcedony, red‘Blood Chalcedony’
 Mineralogy:iron-containing chalcedony (quartz, trig., second.) Indications: (SP)vigour, flexibility (S)enhances strength, vitality and vigour (M) fortifies willpower; keeps flexible whilst retaining one’s standpoint (B)stabilises blood circulation, stimulates blood clotting and aids wound healing.
@@ -425,9 +419,7 @@ Mineralogy:quartz crystal with large seven-sided facet at apex Indications: (SP)
 Bib.:[2] Rarity:scarce ❍
 Clear Quartz ‘Double Termination’
 Mineralogy:quartz crystal pointed at both ends (trigonal, primary) Indications: (SP) unifies (S) improves contact with other beings, enhances memory and dream recall (M) promotes understanding, telepathy and helps express oneself clearly (B)improves simultaneous flow of energy in two directions and releases blockages.
-Bib.:[2] Rarity:not always available ❍
-
-A-Z-2009_96.qxp:v 17/5/09 16:03 Page 29 Clear Quartz ‘Faden Quartz’
+Bib.:[2] Rarity:not always available ❍ A-Z-2009_96.qxp:v 17/5/09 16:03 Page 29 Clear Quartz ‘Faden Quartz’
 Mineralogy:parallel joint quartz crystal with a milky ‘growth line’
 Indications: (SP)healing (S)helps with intense inner conflict and in dealing with painful experiences (M)helps unify incompatibles and bridges gaps (B)alleviates back pain and enormously optimises selfhealing power of the body.
 Bib.:[4] Rarity:rare ❍
@@ -696,9 +688,7 @@ Mineralogy:grossular containing iron (island silicate, cubic, tertiary) Indicati
 
 Mineralogy:hydrous grossularite (island silicate, cubic, tertiary) Indications: (SP) restorative; helps amendment, order (S) brings emotional engagement, dissipates self-pity (M)replaces wrong ideas with a realistic view (B) fortifies the kidneys, liver and gallbladder;
 aids detoxification and elimination.
-Bib.: – Rarity:scarce ❍
-
-A-Z-2009_96.qxp:v 17/5/09 16:03 Page 43 Garnet in Matrix (Garnet Schist) Mineralogy:almandine in mica slate (diverse structures, tertiary) Indications: (SP) willpower, fitness, capacity for work (S) gives strength to master great difficulties (M) gives vigour to carry out ideas and duties (B) boosts performance, stimulates metabolism and promotes detoxification and excretion at the same time.
+Bib.: – Rarity:scarce ❍ A-Z-2009_96.qxp:v 17/5/09 16:03 Page 43 Garnet in Matrix (Garnet Schist) Mineralogy:almandine in mica slate (diverse structures, tertiary) Indications: (SP) willpower, fitness, capacity for work (S) gives strength to master great difficulties (M) gives vigour to carry out ideas and duties (B) boosts performance, stimulates metabolism and promotes detoxification and excretion at the same time.
 
 ## Bib.:[1] [2] Rarity:readily available ❍ Garnet Melanite
 
@@ -730,9 +720,7 @@ Mineralogy:opal/chalcedony mixture (amorph./trig., prim.) Indications: (SP) for 
 Bib.:[2] Rarity:scarce ❍
 Girasol Quartz (Moon Quartz, Foggy Quartz)
 Mineralogy:clear quartz clouded by water/rutile (trig., prim.) Indications: (SP) clarification, independence (S) makes calm, balanced, open, able to cope with strain, aids problem solving through dream (M)improves perception and overview; promotes clear, quick, precise thinking (B)activates and cures latent illnesses.
-Bib.:[2] Rarity:not always available ❍
-
-A-Z-2009_96.qxp:v 17/5/09 16:03 Page 45 Glaucophane with Garnet (Eclogite) Mineralogy:amphibole rock with garnet (monoclinic/cubic, tertiary) Indications: (SP) transformation, freedom (S) helps face up to unpleasant issues, live out emotions, resolve conflicts (M)aids clearing misunderstandings, makes self-aware (B)fortifies perception of one’s body, senses and circulation; helps release tensions.
+Bib.:[2] Rarity:not always available ❍ A-Z-2009_96.qxp:v 17/5/09 16:03 Page 45 Glaucophane with Garnet (Eclogite) Mineralogy:amphibole rock with garnet (monoclinic/cubic, tertiary) Indications: (SP) transformation, freedom (S) helps face up to unpleasant issues, live out emotions, resolve conflicts (M)aids clearing misunderstandings, makes self-aware (B)fortifies perception of one’s body, senses and circulation; helps release tensions.
 
 ## Bib.: – Rarity:scarce ❍ Gneiss
 
@@ -747,9 +735,7 @@ Mineralogy:golden precious metal (cubic, all formation stages) Indications: (SP)
 Bib.:[2] Rarity:scarce ❍
 Gold Beryl(Beryl)
 Mineralogy:gold-yellow beryl (ring silicate, hexagonal, primary) Indications: (SP)optimism (S)brings hope and joie de vivre, alleviates irritability and nervousness, relief from heavy burdens (M)helps accept the unchangeable and improve on the changeable (B)fortifies the nerves, eyes, stomach, spleen and pancreas.
-Bib.:[1] [2] Rarity:rare ❍
-
-A-Z-2009_96.qxp:v 17/5/09 16:03 Page 46 Gold Quartz (Tiger’s eye Quartz) Mineralogy:tiger’s eye with high amount of quartz (trig., second.) Indications: (SP)helps assert oneself (S)helps withstand difficulties without losing courage (M)helps digest impressions and concentrate on fundamentals (B)releases tension and helps with acute asthma attacks.
+Bib.:[1] [2] Rarity:rare ❍ A-Z-2009_96.qxp:v 17/5/09 16:03 Page 46 Gold Quartz (Tiger’s eye Quartz) Mineralogy:tiger’s eye with high amount of quartz (trig., second.) Indications: (SP)helps assert oneself (S)helps withstand difficulties without losing courage (M)helps digest impressions and concentrate on fundamentals (B)releases tension and helps with acute asthma attacks.
 
 ## Bib.:[2] [3] Rarity:scarce ❍ Granite
 
@@ -764,9 +750,7 @@ Mineralogy:sodium chloride (halide, cubic, secondary) Indications: (SP)protectio
 Bib.:[2] Rarity:common ❍
 Heliodor (Beryl)
 Mineralogy:yellowish green beryl (ring silicate, hexagonal, primary) Indications: (SP)resistance, stability (S)helps bear immense pressure (internal and external); reduces aggressiveness (M)helps plan in advance while still remaining flexible (B)strengthens the immune system and helps with short- and long-sightedness.
-Bib.:[1] [2] Rarity:scarce ❍
-
-A-Z-2009_96.qxp:v 17/5/09 16:03 Page 47 ‘Heliotrope’ (Bloodstone, Jasper) Mineralogy:green jasper with red spots (trigonal, secondary) Indications: (SP) immune protection (S) aids setting bounds (M) helps maintain control (B)fortifies the lymph and immune reaction;
+Bib.:[1] [2] Rarity:scarce ❍ A-Z-2009_96.qxp:v 17/5/09 16:03 Page 47 ‘Heliotrope’ (Bloodstone, Jasper) Mineralogy:green jasper with red spots (trigonal, secondary) Indications: (SP) immune protection (S) aids setting bounds (M) helps maintain control (B)fortifies the lymph and immune reaction;
 helps with problems of the heart, blood vessels and bladder as well as with ’flu, colds, infections, inflammation and pus formation.
 Bib.:[1] [2] [3] Rarity:common ❍ Hematite banded (Banded Iron Ore) Mineralogy:iron oxide (trigonal, as banded iron ore secondary) Indications: (SP)strength, endurance (S)fortifies staying power during intensive work or exertion (M)helps realise one’s plans in spite of obstacles (B)promotes iron assimilation, blood building and oxygen transport; fortifies the liver, spleen and intestine.
 Bib.:[1] [2] [3] Rarity:not always available ❍ Hematite (Kidney Ore) Mineralogy:iron oxide (trigonal, as red glass head primary) Indications: (SP)survival (S)fortifies willpower and brings unfulfilled wishes to light (M)directs attention to basic needs and physical wellbeing (B)promotes iron assimilation and blood building; fortifies the small and large intestines and kidneys.
@@ -844,9 +828,7 @@ Mineralogy:multicoloured jasper (quartz, trigonal, secondary) Indications: (SP)c
 ## Bib.:[1] [2] Rarity:readily available ❍ Jasper, green
 
 Mineralogy:jasper containing iron silicate (quartz, trig., second.) Indications: (SP) for resistance and harmony (S) calms emotions, helps express and accept them (M)improves control over thoughts and actions (B)fortifies the immune system, helps with ’flu, colds, infections and inflammation.
-Bib.:[1] [2] Rarity:readily available ❍
-
-A-Z-2009_96.qxp:v 17/5/09 16:03 Page 52 Jasper with Hematite (Iron Jasper) Mineralogy:mixture of jasper and hematite (oxide, trig., second.) Indications: (SP) fitness (S) increases stamina under heavy strain (M) helps achieve and follow through one’s ideas skilfully and emphatically (B)improves iron absorption and formation of red blood cells; stimulates circulation and blood flow.
+Bib.:[1] [2] Rarity:readily available ❍ A-Z-2009_96.qxp:v 17/5/09 16:03 Page 52 Jasper with Hematite (Iron Jasper) Mineralogy:mixture of jasper and hematite (oxide, trig., second.) Indications: (SP) fitness (S) increases stamina under heavy strain (M) helps achieve and follow through one’s ideas skilfully and emphatically (B)improves iron absorption and formation of red blood cells; stimulates circulation and blood flow.
 Bib.:[1] [2] Rarity:not always available ❍ Jasper ‘Landscape Jasper’, ‘Kalahari Picture Stone’
 Mineralogy:sandstone quartz (jasper, trigonal, secondary) Indications: (SP) staying power (S) strengthens under long-lasting strain (M)helps tirelessly make new attempts after failures (B)aids digestion, the immune system and the cleansing of the connective tissues and so alleviates allergies and hay fever.
 Bib.:[2] Rarity:common ❍
@@ -990,9 +972,7 @@ Mineralogy:beryl cont. manganese (ring silicate, hexagonal, prim.) Indications: 
 ## Bib.:[1] [2] Rarity:scarce ❍ Moss Agate (Chalcedony)
 
 Mineralogy:chalcedony with green dendrites (trigonal, secondary) Indications: (SP)liberation (S)frees from heaviness, pressure and strain (M)makes conscious, promotes communication and an alert mind (B) cleanses the tissues, lymph and respiratory tract; helps with cough, colds and stubborn infections and reduces fever.
-Bib.:[1] [2] [3] Rarity:readily available ❍
-
-A-Z-2009_96.qxp:v 17/5/09 16:04 Page 60 Moss Agate, pink (Chalcedony) Mineralogy:chalcedony with brown chlorite (trigonal, secondary) Indications: (SP)coming to terms (S)helps overcome revulsion, disgust, resentment and an aggressive nature (M)helps give up apportioning of blame and thoughts of revenge (B) stimulates digestion and excretion; improves activities of the intestine and intestinal flora.
+Bib.:[1] [2] [3] Rarity:readily available ❍ A-Z-2009_96.qxp:v 17/5/09 16:04 Page 60 Moss Agate, pink (Chalcedony) Mineralogy:chalcedony with brown chlorite (trigonal, secondary) Indications: (SP)coming to terms (S)helps overcome revulsion, disgust, resentment and an aggressive nature (M)helps give up apportioning of blame and thoughts of revenge (B) stimulates digestion and excretion; improves activities of the intestine and intestinal flora.
 
 ## Bib.:[2] [3] Rarity:not always available ❍ Muscovite
 
@@ -1008,9 +988,7 @@ Mineralogy:interwoven actinolite (chain silicate, monoclinic, tert.) Indications
 ## Bib.:[1] [2] [3] Rarity:readily available ❍ Nickel Quartz
 
 Mineralogy:coarse quartz containing nickel (trigonal, primary) Indications: (SP) revelation, confession (S) makes it easier to express discord, anger and displeasure (M)helps resolve misunderstandings and admit mistakes (B) enhances detoxification, helps with dizziness and balance-related disorders.
-Bib.: – Rarity:scarce ❍
-
-A-Z-2009_96.qxp:v 17/5/09 16:04 Page 61 Nickeline (Red Nickel Pyrite) Mineralogy:nickel arsenide (trigonal, secondary) Indications: (SP) moderation and circumspection (S) helps with excessive self-destructive lifestyle (M)improves consideration for others (B)helps with nodes in the tissues, and rashes.
+Bib.: – Rarity:scarce ❍ A-Z-2009_96.qxp:v 17/5/09 16:04 Page 61 Nickeline (Red Nickel Pyrite) Mineralogy:nickel arsenide (trigonal, secondary) Indications: (SP) moderation and circumspection (S) helps with excessive self-destructive lifestyle (M)improves consideration for others (B)helps with nodes in the tissues, and rashes.
 Caution:very poisonous! Avoid skin contact and internal usage!
 Bib.: – Rarity:scarce ❍ Nuumite
 Mineralogy:anthophyllite rock (chain silicate, orthorhombic, tertiary) Indications: (SP) honour, respect (S) reduces tension and stress, aids deep sleep (M)helps respect oneself and others and fulfil duties agreed on (B)helps with diseases of the nerves as well as with problems of the kidneys, and ears.
@@ -1316,9 +1294,7 @@ Mineralogy:calcite in clay nodule (trigonal/triclinic/monocli., secon.) Indicati
 
 ## Bib.:[2] Rarity:readily available ❍ Seraphinite(Clinochlore)
 
-Mineralogy:magnesium iron phyllosilicate (monocline, tertiary) Indications: (SP) determination, sociability; (S) helps dissolve programs of suffering; (M)resolves conflict; promotes reconciliation and constructive compromise; (B)strengthens liver and kidneys, detoxifies, stimulates the metabolism, helps with weight loss, promotes a good feeling in the body. Rarity:rare ❍
-
-A-Z-2009_96.qxp:v 17/5/09 16:04 Page 79 Serpentine with Chromite ‘Chyta’
+Mineralogy:magnesium iron phyllosilicate (monocline, tertiary) Indications: (SP) determination, sociability; (S) helps dissolve programs of suffering; (M)resolves conflict; promotes reconciliation and constructive compromise; (B)strengthens liver and kidneys, detoxifies, stimulates the metabolism, helps with weight loss, promotes a good feeling in the body. Rarity:rare ❍ A-Z-2009_96.qxp:v 17/5/09 16:04 Page 79 Serpentine with Chromite ‘Chyta’
 Mineralogy:serpentine with chromite (monoclinic/cubic, tertiary) Indications: (SP) self-determination (S) helps shield oneself from external influences (M) helps better represent one’s interests (B) helps with problems of the kidneys, liver, stomach and intestine, especially when there is an alternation of diarrhoea and constipation.
 Bib.:[1] [2] [3] Rarity:not always available ❍ Serpentine, ‘China Jade’
 Mineralogy:alkaline magnesium sheet silicate (monoclinic, tertiary) Indications: (SP)care (S)eases stress and strain; harmonises mood changes (M)promotes support and mutual help (B)helps with muscle cramps, regulates kidney function, ameliorates hyperacidity and reduces deposits in the vessels.
@@ -1346,9 +1322,7 @@ Bib.:[2] Rarity:scarce ❍
 Smoky Quartz
 Mineralogy:brown crystal quartz (trigonal, primary) Indications: (SP) relaxation (S) releases tension and helps with stress (M) enhances rational, realistic and pragmatic thought processes (B) helps with headaches, tense shoulders and back, relieves pains and strengthens the nerves.
 Bib.:[1] [2] [3] Rarity:readily available ❍ Smoky Quartz, dark (Morion) Mineralogy:dark to black crystal quartz (trigonal, primary) Indications: (SP) withstanding exertion (S) helps better cope with strain and stress (M) makes alert and industrious, helps tackle important things with zeal (B)relieves pain and helps with frequent exposure to radiations (e.g. X-rays).
-Bib.:[1] [2] Rarity:scarce ❍
-
-A-Z-2009_96.qxp:v 17/5/09 16:04 Page 81 Smoky Quartz with Phantom Mineralogy:smoky quartz with obvious markings of growth stages Indications: (SP) willpower (S) dissipates fear of failure, defeat or pain (M)helps master difficult, depressing situations and mature in the process (B)strengthens the senses and nerves, helps with pain and tense muscles.
+Bib.:[1] [2] Rarity:scarce ❍ A-Z-2009_96.qxp:v 17/5/09 16:04 Page 81 Smoky Quartz with Phantom Mineralogy:smoky quartz with obvious markings of growth stages Indications: (SP) willpower (S) dissipates fear of failure, defeat or pain (M)helps master difficult, depressing situations and mature in the process (B)strengthens the senses and nerves, helps with pain and tense muscles.
 Bib.:[1] [2] – see ‘Phantom Quartz’ Rarity:scarce ❍ Sodalite Mineralogy:lattice silicate containing sodium (cubic, primary) Indications: (SP)search for truth (S)dissipates guilt; helps stand by oneself (M) increases consciousness, idealism and the striving for truth (B)enhances assimilation of fluids; helps with hoarseness, loss of voice, fever, excess weight and high blood pressure.
 Bib.:[1] [2] [3] Rarity:readily available ❍ Spanish Olivine,(Peridotite, Dunite) Mineralogy:fine crystalline peridotite (island silicate, orthorh., prim.) Indications: (SP) independence, protection (S) brings balance and the feeling of being protected (M)improves concentration and aids self-determination (B) regulates metabolism and the harmonious working together of the internal organs; helps isolate foreign bodies.
 
@@ -1542,19 +1516,7 @@ Mineralogy:zirconium island silicate (tetragonal, primary) Indications: (SP)purp
 Mineralogy:calcium aluminium group silicate (orthorhombic, tert.) Indications: (SP) regeneration, constructiveness (S) enhances regeneration after illnesses or heavy strains (M)helps detach oneself from adaptation to/and external control (B)anti-inflammatory effect;
 strengthens the regeneration of the cells and tissues.
 Bib.:[1] [2] [3] Rarity:readily available ❍ Zoisite with Ruby (Anyolite) Mineralogy:ruby in zoisite matrix (trigonal/orthorhombic, tertiary) Indications: (SP)dynamic, regeneration (S)revives buried feelings, enhances potency (M) promotes creative commitment (B) deacidifies, regenerates and enhances fertility; good for problems of the spleen, prostate, testicles and ovaries.
-Bib.:[1] [2] [3] Rarity:not always available ❍
-
-A-Z-2009_96.qxp:v 17/5/09 16:04 Page 92 Search Register Alumstone: Alunite Dendritic Agate:Agate 'Dendritic Iolite: Cordierite Amegreen: Prasiolite Amethyst Agate' Iron Oolite:Oolite Amulet stone:Agate 'Star Agate' Dendritic Chalcedony: Chalcedony Iron Ore: Hematite banded Andean Opal:Opal, colourless Dichroite: Cordierite Iron Jasper: Jasper with Hematite Angelite: Anhydrite Dow Crystal: Clear Quartz 'Dow Ivory Jasper: Jasper beige Anyolite: Zoisite with Ruby Crystal' Ivorite:Dolomite, beige Apache Tear:Obsidian 'Smoky Obs.' Dr. Liesegang Stone:Rhyolite Jade: Jadeite, Nephrite Apricot Agate: Agate, pink Dravite:Tourmaline Dravite Kalahari Picture Stone: Jasper Apyrite: Tourmaline, violet Dunite:Olivine, Spanish 'Landscape Jasper'
-Aqualite:Cat’s Eye Quartz Precious Opal:Opal (Precious Kabamba: Eldarite
-Bixbite:Beryl, red Opal) Kidney Ore: Hematite (Kidney Ore)
-Black Opal: Opal, Precious Elestial: Clear Quartz 'Skeleton Korite: Ammolite
-Blackstone: Gabbro Quartz' Kyanite: Disthene
-Blood Agate:Agate, red Emerald Quartz: Emerald in Matrix Lace Agate: Agate 'Lace Agate' Blood Chalcedony:Chalcedony, Enhydro: Agate 'Water Agate' Landscape Jasper: Jasper red Eye Agate: Agate 'Eye Agate' Lemon Calcite: Calcite, yellow Bloodstone: Heliotrope Faden Quartz: Clear Quartz Leopard Opal:Opal in Matrix Blue Quartz:Aventurine Quartz 'Faden Quartz' Leopard Skin Jasper: Rhyolite blue, Rutilated Quartz blue Feldspar: Albite, Amazonite, Limestone: Picasso Marble, Ruin Boji’s:Pop-Rocks Feldspar (Multicoloured Marble Boulder Opal: Opal, Precious Opal Feldspar), Labradorite, Moon- Mahogany Obsidian: Obsidian Brecciated Jasper:Jasper stone, Orthoclase, Sunstone Mangano Calcite: Calcite, pink 'Brecciated Jasper' Fire Agate:Agate 'Fire Agate' Margarita Stone: Lime Oolite Bruneau Jasper:Jasper, beige-brown Firestone:Flint Meteorite: Iron Nickel Meteorite Buddstone: Prase Quartz Flint coloured: Chert coloured Milk Opal: Opal, white Cacoxenite:Goethite quartz Flower Porphyry: Porphyrite Moon Quartz: Girasol Quartz Calcentine: Ammolite Foggy Quartz:Girasol Quartz Morion: Smoky Quartz, dark Californite: Vesuvianite (Foggy Quartz) Moss Opal: Opal 'Moss Opal' Cape Amethyst: Amethyst, light Fossilised Wood: Petrified Wood Mother-of-pearl: Abalone (Paua purple Gagate:Jet shell) Cappuccino Jasper:Jasper, Gem Silica:Chrysocolla-Chal- Multicoloured Feldspar: Feldspar beige-brown cedony 'Multicoloured Feldspar' Carnelian yellow: Chalcedony, Gold Sheen Obsidian: Obsidian Natural Glass:Libyan Desert Glass yellow Golden Topaz: Topaz Imperial Nebula stone:Eldarite Cat’s Eye:Chrysoberyl Goldorthoclase:Orthoclase Nickel Pyrite: Nickeline
-Chevron-Amethyst: Amethyst Goshenite: Beryl, colourless Olivine: Peridote
-Quartz Green Quartz: Aventurine green, Opal Wood:Petrified Wood
-Chrome Chalcedony: Chalcedony Prase Quartz, Prasiolite (opalised)
-Chrysolite: Peridote Amethyst Orange Calcite:Calcite, orange
-Chrysopal: Opal 'Chrysopal' Grossular:Garnet Grossular Palm Wood: Petrified Wood
+Bib.:[1] [2] [3] Rarity:not always available ❍ A-Z-2009_96.qxp:v 17/5/09 16:04 Page 92 Search Register Alumstone: Alunite Dendritic Agate:Agate 'Dendritic Iolite: Cordierite Amegreen: Prasiolite Amethyst Agate' Iron Oolite:Oolite Amulet stone:Agate 'Star Agate' Dendritic Chalcedony: Chalcedony Iron Ore: Hematite banded Andean Opal:Opal, colourless Dichroite: Cordierite Iron Jasper: Jasper with Hematite Angelite: Anhydrite Dow Crystal: Clear Quartz 'Dow Ivory Jasper: Jasper beige Anyolite: Zoisite with Ruby Crystal' Ivorite:Dolomite, beige Apache Tear:Obsidian 'Smoky Obs.' Dr. Liesegang Stone:Rhyolite Jade: Jadeite, Nephrite Apricot Agate: Agate, pink Dravite:Tourmaline Dravite Kalahari Picture Stone: Jasper Apyrite: Tourmaline, violet Dunite:Olivine, Spanish 'Landscape Jasper' Aqualite:Cat’s Eye Quartz Precious Opal:Opal (Precious Kabamba: Eldarite Bixbite:Beryl, red Opal) Kidney Ore: Hematite (Kidney Ore) Black Opal: Opal, Precious Elestial: Clear Quartz 'Skeleton Korite: Ammolite Blackstone: Gabbro Quartz' Kyanite: Disthene Blood Agate:Agate, red Emerald Quartz: Emerald in Matrix Lace Agate: Agate 'Lace Agate' Blood Chalcedony:Chalcedony, Enhydro: Agate 'Water Agate' Landscape Jasper: Jasper red Eye Agate: Agate 'Eye Agate' Lemon Calcite: Calcite, yellow Bloodstone: Heliotrope Faden Quartz: Clear Quartz Leopard Opal:Opal in Matrix Blue Quartz:Aventurine Quartz 'Faden Quartz' Leopard Skin Jasper: Rhyolite blue, Rutilated Quartz blue Feldspar: Albite, Amazonite, Limestone: Picasso Marble, Ruin Boji’s:Pop-Rocks Feldspar (Multicoloured Marble Boulder Opal: Opal, Precious Opal Feldspar), Labradorite, Moon- Mahogany Obsidian: Obsidian Brecciated Jasper:Jasper stone, Orthoclase, Sunstone Mangano Calcite: Calcite, pink 'Brecciated Jasper' Fire Agate:Agate 'Fire Agate' Margarita Stone: Lime Oolite Bruneau Jasper:Jasper, beige-brown Firestone:Flint Meteorite: Iron Nickel Meteorite Buddstone: Prase Quartz Flint coloured: Chert coloured Milk Opal: Opal, white Cacoxenite:Goethite quartz Flower Porphyry: Porphyrite Moon Quartz: Girasol Quartz Calcentine: Ammolite Foggy Quartz:Girasol Quartz Morion: Smoky Quartz, dark Californite: Vesuvianite (Foggy Quartz) Moss Opal: Opal 'Moss Opal' Cape Amethyst: Amethyst, light Fossilised Wood: Petrified Wood Mother-of-pearl: Abalone (Paua purple Gagate:Jet shell) Cappuccino Jasper:Jasper, Gem Silica:Chrysocolla-Chal- Multicoloured Feldspar: Feldspar beige-brown cedony 'Multicoloured Feldspar' Carnelian yellow: Chalcedony, Gold Sheen Obsidian: Obsidian Natural Glass:Libyan Desert Glass yellow Golden Topaz: Topaz Imperial Nebula stone:Eldarite Cat’s Eye:Chrysoberyl Goldorthoclase:Orthoclase Nickel Pyrite: Nickeline Chevron-Amethyst: Amethyst Goshenite: Beryl, colourless Olivine: Peridote Quartz Green Quartz: Aventurine green, Opal Wood:Petrified Wood Chrome Chalcedony: Chalcedony Prase Quartz, Prasiolite (opalised) Chrysolite: Peridote Amethyst Orange Calcite:Calcite, orange Chrysopal: Opal 'Chrysopal' Grossular:Garnet Grossular Palm Wood: Petrified Wood
 Chyta: Serpentine with Chromite Gypsum: Alabaster, Selenite Paraiba Tourmaline: Tourmaline
 Cinnabarite: Cinnabar Heavy Spar: Barite Paua shell:Abalone (Paua shell)
 Citron Chrysoprase: Lemon Herkimer Diamond: Clear Quartz Peace Agate: Agate, white Chrysoprase 'Herkimer Diamond' Peanut Wood:Petrified Wood Connemara: Ophicalcite Hessonite: Garnet Hessonite Pectolite, blue: Larimar Copper Chalcedony:Chalcedony Honey Calcite:Calcite, honey- Peridotite: Olivine, Spanish Coral:Agatised Coral coloured Petoskey Stone: Agatised Coral Crystal Opal:Opal, Precious Opal Hyalite:Opal (Hyalite) Phantom Quartz: Clear Quartz Cyanite:Disthene Idocrase: Vesuvianite (Idocrase) 'Phantom quartz' Dalmatian Stone: Aplite Indigolite: Tourmaline, blue Picture Jasper: Jasper, brownishDendritic Opal: Opal 'Dendritic Opal' Iolite Sunstone:Cordierite grey
@@ -1562,12 +1524,7 @@ Citron Chrysoprase: Lemon Herkimer Diamond: Clear Quartz Peace Agate: Agate, whi
 ## A-Z-2009_96.qxp:v 17/5/09 16:04 Page 93
 
 Pink Opal: Opal 'Pink Opal' Schorl: Tourmaline Schorl Talc: Steatite
-Poppy Jasper: Jasper 'Poppy Shell: Abalone Paua shell Thunderegg: Agate 'Star Agate' Jasper' Silver Eye: Serpentine 'Silver Eye' Tiger’s Eye blue: Falcon’s Eye Prase Opal: Opal 'Prase Opal' Silver Sheen Obsidian: Obsidian Tiger’s Eye Quartz: Gold Quartz Pyrite Balls: Pop-Rocks Skeleton Quartz: Clear Quartz Turitella Jasper: Jasper 'Turitella Rainbow fluorite: fluorite multi- 'Skeleton Quartz' Jasper' coloured Smoky Obsidian: Obsidian Unakite: Epidote Feldspar Rainbow Jasper: Jasper, coloured Snowflake Epidote: Epidote 'Unakite' Rainbow Moonstone:Labradorite Feldspar Vanadium Beryl: Beryl white Snowflake Obsidian: Obsidian Verd Antique: Ophicalcite Rainbow Obsidian: Obsidian Spectrolite:Labradorite 'Spectro- Verdelite: Tourmaline, green
-Rainforest Stone: Rhyolite lite' Vulcan Jasper: Jasper 'Vulcan
-Raspberry Quartz: Aventurine red Sphene: Titanite Jasper'
-Roe Stone: Lime Oolite Spodumene: Hiddenite, Kunzite Water Agate: Agate 'Water Agate' Rose Chalcedony:Chalcedony Star Agate: Agate 'Star Agate' Water Opal: Opal (Hyalite) pink Star diopside: Diopside 'Star diop- Watermelon Tourmaline: TourmaRubellite: Tourmaline red side' line Ruby Zoisite: Zoisite with Ruby Star Rose Quartz: Rose Quartz Yowah Opal: Opal, Precious Opal Salt Crystal: Halite 'Star Rose Quartz' Zebra Agate: Agate, white/black Salt Stone: Halite Star Ruby: Ruby 'Star Ruby' Zebra Marble: Marble, Salt: Halite Star Sapphire: Sapphire 'Star black/white Sambesite:Prasiolite Amethyst Sapphire' Zincblende: Sphalerite Sandstone: Printstone, Shiva- Sugar Dolomite: Dolomite, white Lingam Syenite: Larvikite
-Contact
-You can reach me through Michael Gienger GmbH with questions, criticism, suggestions and additional information. Information on seminars and training courses in the field of gem therapy can also be obtained from here.
+Poppy Jasper: Jasper 'Poppy Shell: Abalone Paua shell Thunderegg: Agate 'Star Agate' Jasper' Silver Eye: Serpentine 'Silver Eye' Tiger’s Eye blue: Falcon’s Eye Prase Opal: Opal 'Prase Opal' Silver Sheen Obsidian: Obsidian Tiger’s Eye Quartz: Gold Quartz Pyrite Balls: Pop-Rocks Skeleton Quartz: Clear Quartz Turitella Jasper: Jasper 'Turitella Rainbow fluorite: fluorite multi- 'Skeleton Quartz' Jasper' coloured Smoky Obsidian: Obsidian Unakite: Epidote Feldspar Rainbow Jasper: Jasper, coloured Snowflake Epidote: Epidote 'Unakite' Rainbow Moonstone:Labradorite Feldspar Vanadium Beryl: Beryl white Snowflake Obsidian: Obsidian Verd Antique: Ophicalcite Rainbow Obsidian: Obsidian Spectrolite:Labradorite 'Spectro- Verdelite: Tourmaline, green Rainforest Stone: Rhyolite lite' Vulcan Jasper: Jasper 'Vulcan Raspberry Quartz: Aventurine red Sphene: Titanite Jasper' Roe Stone: Lime Oolite Spodumene: Hiddenite, Kunzite Water Agate: Agate 'Water Agate' Rose Chalcedony:Chalcedony Star Agate: Agate 'Star Agate' Water Opal: Opal (Hyalite) pink Star diopside: Diopside 'Star diop- Watermelon Tourmaline: TourmaRubellite: Tourmaline red side' line Ruby Zoisite: Zoisite with Ruby Star Rose Quartz: Rose Quartz Yowah Opal: Opal, Precious Opal Salt Crystal: Halite 'Star Rose Quartz' Zebra Agate: Agate, white/black Salt Stone: Halite Star Ruby: Ruby 'Star Ruby' Zebra Marble: Marble, Salt: Halite Star Sapphire: Sapphire 'Star black/white Sambesite:Prasiolite Amethyst Sapphire' Zincblende: Sphalerite Sandstone: Printstone, Shiva- Sugar Dolomite: Dolomite, white Lingam Syenite: Larvikite Contact You can reach me through Michael Gienger GmbH with questions, criticism, suggestions and additional information. Information on seminars and training courses in the field of gem therapy can also be obtained from here.
 Michael Gienger GmbH, Stäudach 58/1, D-72074 Tübingen
 Tel./Fax: +49 (0)7071-364720, buecher@michael-gienger.de www.michael-gienger.de, www.steinheilkunde.de Bibliography
 [1] Michael Gienger, Crystal Power, Crystal Healing, Cassell, London 1998
@@ -1580,12 +1537,17 @@ Colorado 1995
 
 ## A-Z-2009_96.qxp:v 17/5/09 16:04 Page 94 Thanks
 
-My heartfelt thanks go first and foremost to Ute Weigel in Wuppertal, whose request for a wider scope to my book, Crystal Power, Crystal Healingset the ball rolling. Thus my work on the gemstone guide, begun originally in 1993, came to completion 10 years later. Above all, my special thanks go to Annette Jakobi from Cairn Elen for her untiring research efforts, Walter von Holst for all information, comments and corrections related to gem remedies, Bernhard Bruder from EPI for the gemstone analysis and correction of the mineralogical specifications, Ines Blersch in Stuttgart for the hard task of photographing 430 gemstones from their respective best positions and Fred Hageneder from Dragon Design for the superb feat of transforming this thick bundle of information into a compact pocketbook. Of course, I also wish to heartily thank Andreas Lentz, my publisher, for patiently putting up with the continuously postponed deadlines. And I’m very grateful for the effort Arwen Lentz, Chinwendu Uzodike and Roselle Angwin have put into the correct translation of the English edition!
+My heartfelt thanks go first and foremost to Ute Weigel in Wuppertal, whose request for a wider scope to my book, Crystal Power, Crystal Healingset the ball rolling. Thus my work on the gemstone guide, begun originally in 1993, came to completion 10 years later. Above all, my special thanks go to Annette Jakobi from Cairn Elen for her untiring research efforts, Walter von Holst for all information, comments and corrections related to gem remedies, Bernhard Bruder from EPI for the gemstone analysis and correction of the mineralogical specifications, Ines Blersch in Stuttgart for the hard task of photographing 430 gemstones from their respective best positions and Fred Hageneder from Dragon Design for the superb feat of transforming this thick bundle of information into a compact pocketbook.
+
+
+Of course, I also wish to heartily thank Andreas Lentz, my publisher, for patiently putting up with the continuously postponed deadlines. And I’m very grateful for the effort Arwen Lentz, Chinwendu Uzodike and Roselle Angwin have put into the correct translation of the English edition!
 In addition, my thanks to all those who made this Gemstone Guide possible through their contributions and information on current gemstones, healing effects and availability, as well as all those who allowed me dig into their collections in search of suitable ‘photographic models’: Franca Bauer, Ruth and Werner Berger, Wolfgang Dei, Beate Diederich, Erwin Engelhardt, Erik Fey, Dagmar Fleck, Manfred Flinzner, Margarete Gebbers, Joachim Goebel, Claire Herrmann, Walter von Holst, Annette and Dieter Jakobi, Ava Keller, Tim Lemke, Peter Lind, Ursula and Joachim Neumann, Peter Peiner, Sabine Schneider-Kühnle, Marco Schreier, Anita Schöpf, Karl-Heinz Schwarz, Andreas Stucki, Kerstin Wagner and Sarala Zimper.
 
 ## A-Z-2009_96.qxp:v 17/5/09 16:04 Page 95 Cairn Elen
 
-After Elen had accomplished her wandering through the world, she placed a Cairn at the end of the Sarn Elen. Her path then led her back to the land between evening and morning. From this Cairn originated all stones that direct the way at crossroads up until today.1 (From a Celtic myth) ‘Cairn Elen’* is the term used in Gaelic-speaking areas to refer to the ancient slab stones on track ways. They mark the spiritual paths, both the paths of the earth and that of knowledge.
+After Elen had accomplished her wandering through the world, she placed a Cairn at the end of the Sarn Elen. Her path then led her back to the land between evening and morning. From this Cairn originated all stones that direct the way at crossroads up until today.1 (From a Celtic myth) ‘Cairn Elen’* is the term used in Gaelic-speaking areas to refer to the ancient slab stones on track ways.
+
+They mark the spiritual paths, both the paths of the earth and that of knowledge.
 These paths are increasingly falling into oblivion. Just as the old paths of the earth disappear under the modern asphalt streets, so also does certain ancient wisdom disappear under the data flood of modern information. For this reason, the desire and aim of the Edition Cairn Elen is to preserve ancient wisdom and link it with modern knowledge – for a flourishing future!
 The Edition Cairn Elen in Neue Erde Verlag is published by Michael Gienger. The objective of the Edition is to present knowledge from research and tradition that has remained unpublished up until now. Areas of focus are nature, naturopathy and health as well as consciousness and spiritual freedom.
 Apart from current specialised literature, stories, fairytales, novels, lyric and artistic publications will also be published within the scope of Edition Cairn Elen. The knowledge thus transmitted reaches out not only to the intellect but also to the heart.
@@ -1595,7 +1557,8 @@ Tel. +49 (0) 7071 36 47 20, Fax: +49 (0) 7071 38 868, buecher@michael-gienger.de
 *Cairn Elen: in British ancient British culture, cairns are generally intentionally heaped piles
 of stones, rather than an individual stone such as a boulder or standing stone.
 
-A-Z-2009_96.qxp:v 17/5/09 16:04 Page 96
+## A-Z-2009_96.qxp:v 17/5/09 16:04 Page 96
+
 
 ## Other Books By Earthdancer
 
@@ -1610,9 +1573,7 @@ tel +44 (0)1309-690582 fax +44 (0)131 777 2711 info@findhornpress.com www.earthd
 
 ## A Findhorn Press Imprint
 
-A-Z-2009_96.qxp:v 17/5/09 16:04 Page 97
-
-All the important information about 430 healing gemstones in a neat pocket-book!
+A-Z-2009_96.qxp:v 17/5/09 16:04 Page 97 All the important information about 430 healing gemstones in a neat pocket-book!
 Michael Gienger, known for his popular introductory work Crystal Power, Crystal Healing, here presents a comprehensive directory of all the gemstones currently in use.
 In a clear, concise and precise style, with pictures accompanying the text, the author describes the characteristics and healing functions of each crystal.
 HEALING

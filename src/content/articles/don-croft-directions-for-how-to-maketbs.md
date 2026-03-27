@@ -11,7 +11,10 @@ pdfFile: "Don Croft Directions for How To MakeTBs.pdf"
 
 ## How to make TowerBusters (TBs) I.E. Tactical Orgonite
 
-Tower Busters (TB’s) are considered “tactical orgonite” because they are the basic, first-line of defense in taking back the energy of the earth and stopping the Deadly Orgone (DOR) energy from being propagated through cell/death towers. These are good for throwing at cell towers, throwing in water, putting in potted plants at the mall, or just about anywhere you need to change the energy. TB’s have an effective range of about 1/4 mile, so you don’t have to place a TB right next to a death tower to affect it. You can bury it nearby or throw it in some convenient shrubbery.
+Tower Busters (TB’s) are considered “tactical orgonite” because they are the basic, first-line of defense in taking back the energy of the earth and stopping the Deadly Orgone (DOR) energy from being propagated through cell/death towers. These are good for throwing at cell towers, throwing in water, putting in potted plants at the mall, or just about anywhere you need to change the energy. TB’s have an effective range of about 1/4 mile, so you don’t have to place a TB right next to a death tower to affect it.
+
+
+You can bury it nearby or throw it in some convenient shrubbery.
 Many gifters have reported seeing bulldozers scraping up all the dirt from around a death tower after it’s been neutralized with a TB, so you know that the tower operators are desperate to get rid of the orgonite because it’s doing it’s job. We usually toss more than one TB per tower just to make sure that if one is found there are others to continue the job.
 Some energy sensitive people are able to tell that a tower is busted just by looking at it or feeling the energy coming from it. Carol reports that a busted tower has dark energy lines running down the sides, which means the DOR is being contained and not broadcast by the tower.
 If you have any questions about this tutorial, email Dooney so she can improve the tutorial.
@@ -43,7 +46,10 @@ Assembly:
 1. I use non-stick muffin pans but of course the resin contracts as it cools, so even the cheaper
 ones work fine.
 2. While you're in Wicked WalMart getting those pans, and if you don't have any little pieces
-of quartz on hand, go to the craft section and get the mesh bags of tumbled rocks (the smaller rocks). Pick out the quartz and other crystals. Those are the ones that are semi-transparent and most of them are kind of dirty-looking inside. The white ones are usually just marble, so don't be fooled by them. You can get suitable quartz crystals by the pound from Gladys Bridges at crystals87@hsnp.com but I mention WalMart to show you that it's not hard to find ingredients. I generally use small quartz pieces, often just chips, that are between a quarter and a half inch long.
+of quartz on hand, go to the craft section and get the mesh bags of tumbled rocks (the smaller rocks). Pick out the quartz and other crystals. Those are the ones that are semi-transparent and most of them are kind of dirty-looking inside.
+
+The white ones are usually just marble, so don't be fooled by them. You can get suitable quartz crystals by the pound from Gladys Bridges at crystals87@hsnp.com but I mention WalMart to show you that it's not hard to find ingredients. I generally use small quartz pieces, often just chips, that are between a quarter and a half inch long.
+
 3. Drop a small crystal in each muffin mold.
 4. Fill the molds almost to the top with loose metal. Remember that 3oz is sufficient and that
 the molds are each 4oz. I want you to get the absolute most bang for your hard-earned or even lazily-obtained buck. 3oz is sufficient for busting most of the single transmitters you'll encounter and even for turning those frowns of a chapel-full of devil-blasting churchgoers upside down.

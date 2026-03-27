@@ -150,7 +150,8 @@ DIVINE - SAME, SAME. http://blog.hasslberger.com/docs/CAPACITANCE-IS-THE-DOORWAY
 
 ## The Divine Nature Of The Capacitance / Orgone Field Is Further Proven In
 
-HERE https://www.academia.edu/11025988/PROOF_OF_GOD_VIA_SCIENCE_TECHNOLOGY
+## HERE https://www.academia.edu/11025988/PROOF_OF_GOD_VIA_SCIENCE_TECHNOLOGY
+
 
 ## Seeds And Embryos That Gestate In A Capacitance Field Revert To Their
 

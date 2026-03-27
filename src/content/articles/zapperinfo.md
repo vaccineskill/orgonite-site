@@ -18,11 +18,14 @@ This circuit is based on a 555 timer, officially called NE555. It makes an excel
 The frequency is not dependant on the voltage. A 9 Volts battery is a convenient way to power it for portability. A standard 9v battery will last approximately 9days with this design.
 The frequency and duty cycle (ratio of On and Off time) are defined by the resistors R1, R2 and capacitor C2.
 When R2 is much larger than R1 the duty cycle is very close to 50%, so the On and Off times are of the same duration, which is what we want.
-The Capacitor C1 is only used for stability and the value is not critical, but it should be low, in the order of 10 to 47 pico farad (same as 0.01 to 0.047 micro farad) R4 is used to limit the current flowing into the LED (light emitting Diode) a standard 3 mm red LED light is used here. A lower resistor value will make the light brighter, but will drain the battery faster. The minimal value acceptable would be 2.2k R3 This resistor protect the circuit in case someone short circuits the coins temporarily. It is relatively small compared with the skin resistance.
-R5 : This resistor protects the circuit for short circuits condition. Actually the Succor Punch acts like a short circuit, (the coil has very low resistance) so this condition can be sustained permanently without damaging the circuit.
-Fredbuster Page 1 02/02/03
+The Capacitor C1 is only used for stability and the value is not critical, but it should be low, in the order of 10 to 47 pico farad (same as 0.01 to 0.047 micro farad) R4 is used to limit the current flowing into the LED (light emitting Diode) a standard 3 mm red LED light is used here. A lower resistor value will make the light brighter, but will drain the battery faster. The minimal value acceptable would be 2.2k R3 This resistor protect the circuit in case someone short circuits the coins temporarily.
 
-Power Consumption: A number of combinations of R1, R2 and C2 can produce the same frequency, but the power consumption may not be the same. The circuit described here will work for around 9 days nonstop connected to a Succor Punch, with a standard 9v battery. Longer operating times are obtained with higher quality batteries. It would last longer as a Zapper mode than as a Succor Punch.
+
+It is relatively small compared with the skin resistance.
+R5 : This resistor protects the circuit for short circuits condition. Actually the Succor Punch acts like a short circuit, (the coil has very low resistance) so this condition can be sustained permanently without damaging the circuit.
+Fredbuster Page 1 02/02/03 Power Consumption: A number of combinations of R1, R2 and C2 can produce the same frequency, but the power consumption may not be the same. The circuit described here will work for around 9 days nonstop connected to a Succor Punch, with a standard 9v battery. Longer operating times are obtained with higher quality batteries.
+
+It would last longer as a Zapper mode than as a Succor Punch.
 The frequency we are looking for is 15Hz. This mean we will have fifteen On - Off cycles per second. One On Off cycle will last approximately 66.6 milliseconds.
 This square wave can be observed with an oscilloscope.
 It cannot be measured with a voltmeter as it changes too rapidly for it. So the real test of the circuit is visual, by the blinking rate of the LED light.
@@ -30,13 +33,14 @@ If you made an error in the construction, it is possible that the blinking rate 
 
 ## Selecting the components: The components are easily found:
 
-C2 1 micro farad, 35 volts tantalum capacitor, the bottom leg is the plus (silver line and plus sign on that side) C1 103k, 10P 2A153J (alternative appearances) The LED light, the longer leg is the plus side R1 and R2 must be folded to fit on the board. If using 2 resistors, solder then as below R2 single resistor R2 double resistor On / Off switch A NE555 device: the dot, on the bottom left of the device (in this image) indicates pin 1. In some devices, a notch indicates the top. Pin 1 is always at the left of the notch.
+C2 1 micro farad, 35 volts tantalum capacitor, the bottom leg is the plus (silver line and plus sign on that side) C1 103k, 10P 2A153J (alternative appearances) The LED light, the longer leg is the plus side R1 and R2 must be folded to fit on the board. If using 2 resistors, solder then as below R2 single resistor R2 double resistor On / Off switch A NE555 device: the dot, on the bottom left of the device (in this image) indicates pin 1. In some devices, a notch indicates the top.
+
+
+Pin 1 is always at the left of the notch.
 A piece of Vero board, or similar electronic project board. They have holes equally spaced, some have little solder pads on the back. Some have tracks already laid out in straight lines; you may have to be careful to cut the unwanted tracks in this case.
 Some do not have soldering pads, and you use the legs of the components to make the connections.
 A 9v battery connector, they usually come with a red and black wires attached. The red is the plus side.
-Fredbuster Page 2 02/02/03
-
-You may also want to insert your project in a box and add a switch. The switch would be interrupting the positive side (red wire) of the battery cable.
+Fredbuster Page 2 02/02/03 You may also want to insert your project in a box and add a switch. The switch would be interrupting the positive side (red wire) of the battery cable.
 To make sure you get the proper values for the resistors, I have attached the color-codes for 10% precision resistors. Resistor with 1% precision are coded differently, using 1% resistors would be an overkill in this design.
 Component Value Colors
 R1 3.3k Orange, Orange, Red
@@ -48,9 +52,7 @@ Tolerance colors: Gold=5% , silver = 10%. I have not shown the tolerance color h
 33k with 10% precision means that the real value in reality is between 29.70k and 36.30k.
 33k with 5% precision means that the real value in reality is between 31.35k and 34.65k.
 So check the table below to see what kind of marging you get. In practice 10% is fine.
-Cycle duration = 1 / Frequency, so 1 / 15Hz = 0.066 seconds (66 milli seconds) Frequency R2 Colors 12.14 56k green, blue, orange 14.10 47k yellow, purple, orange 14.60 39k + 6.2k orange, white, orange + blue, red, red 14.84 39k + 5.6k orange, white, orange + green, blue, red 15.00 39k + 4.7k orange, white, orange + yellow, purple, red < zapper 15.57 39k + 3.9k orange, white, orange + orange, White, red 15.65 39k + 3.3k orange, white, orange + orange, Orange, red 17.00 39k orange, white, orange 19.93 33k orange, orange, orange 24.34 27k red, purple, orange 29.60 22k red, red, orange 30.70 20k + 1.2k red, black, orange + brown, red, red 31.00 20k + 1k red, black, orange + brown, black, red 31.15 20k + 820 ohm red, black, orange + grey, red, brown 31.48 20k + 620 ohm red, black, orange + blue, red, brown 31.56 20k + 560 ohm red, black, orange + green, blue, brown 32.00 20k + 470 ohm red, black, orange + yellow, purple, brown < crystal programming 32.44 20k red, black, orange Fredbuster Page 3 02/02/03
-
-Construction: It is a good idea to position all the components properly before starting to solder them.
+Cycle duration = 1 / Frequency, so 1 / 15Hz = 0.066 seconds (66 milli seconds) Frequency R2 Colors 12.14 56k green, blue, orange 14.10 47k yellow, purple, orange 14.60 39k + 6.2k orange, white, orange + blue, red, red 14.84 39k + 5.6k orange, white, orange + green, blue, red 15.00 39k + 4.7k orange, white, orange + yellow, purple, red < zapper 15.57 39k + 3.9k orange, white, orange + orange, White, red 15.65 39k + 3.3k orange, white, orange + orange, Orange, red 17.00 39k orange, white, orange 19.93 33k orange, orange, orange 24.34 27k red, purple, orange 29.60 22k red, red, orange 30.70 20k + 1.2k red, black, orange + brown, red, red 31.00 20k + 1k red, black, orange + brown, black, red 31.15 20k + 820 ohm red, black, orange + grey, red, brown 31.48 20k + 620 ohm red, black, orange + blue, red, brown 31.56 20k + 560 ohm red, black, orange + green, blue, brown 32.00 20k + 470 ohm red, black, orange + yellow, purple, brown < crystal programming 32.44 20k red, black, orange Fredbuster Page 3 02/02/03 Construction: It is a good idea to position all the components properly before starting to solder them.
 Position the NE555 at the center of the board first and bend some pins so that it does not fall when you turn the board over to solder.
 Insert R1 and R2, bend the legs to fit the board and use the cut out legs as wires to make other connections.
 Make sure the longest leg of L1 is connected to the Plus and C2 plus side (marked by a plus sign on the body) is connected as indicated, otherwise the circuit will not work, or not for long.

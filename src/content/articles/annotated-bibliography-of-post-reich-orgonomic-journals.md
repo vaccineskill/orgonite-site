@@ -36,7 +36,10 @@ An Annotated Bibliography Based On:
 ## Pulse Of The Planet - 1989-2002
 
 SECTIONS
-Section 1 – Index of the Bibliography – page 3 Bibliography by Chronological Order – page 8 Section 2 – Bibliography by Subject – page 167 ABBREVIATIONS CB-Cloudbuster, Ch. An.-Character Analysis, Ca-Cancer, CORE progress (Cloudbusting Operations), ORAC-Orgone Accumulator, MDB or DB-Medical Dorbuster. DOR-Deadly Orgone, OROPs-ORgone OPerations (weather modification). OR-Orgone, NUR-Nuclear, CFP-Common Functioning Principle. RBT-Reich Blood Test. TO-T-Temperature Orgone versus Temperature Control, MPF-Mass Psychology of Fascism, FO-Function of the Orgasm, JO-Journal of Orgonomy.
+Section 1 – Index of the Bibliography – page 3 Bibliography by Chronological Order – page 8 Section 2 – Bibliography by Subject – page 167 ABBREVIATIONS CB-Cloudbuster, Ch. An.-Character Analysis, Ca-Cancer, CORE progress (Cloudbusting Operations), ORAC-Orgone Accumulator, MDB or DB-Medical Dorbuster. DOR-Deadly Orgone, OROPs-ORgone OPerations (weather modification).
+
+OR-Orgone, NUR-Nuclear, CFP-Common Functioning Principle. RBT-Reich Blood Test. TO-T-Temperature Orgone versus Temperature Control, MPF-Mass Psychology of Fascism, FO-Function of the Orgasm, JO-Journal of Orgonomy.
+
 AIOS - Annals of the Institute for Orgonomic Science, OO - Offshoots of Orgonomy, PP - Pulse of the Planet, CP - Creative Process, OEB-Orgone Energy Bulletin. FN-Footnote in Journal quoted.
 CNS-Central Nervous System. Abbreviations have been avoided where possible.
 The first number in bold is the entry number of this index.
@@ -54,8 +57,7 @@ www.leonsouthgate.com
 
 ## Section 1 - Index Of The Annotated Bibliography
 
-Subjects cross-referenced by their entry number in this bibliography AAF American Air Force (51) (55) ACO American College of Orgonomy (66) (565) (589) (601) (613) (751) AMA American Medical Association (494) Aggression (171) Animal Magnetism (38) Amoeba (44) Armour (N=34) (12) (35) (83) (110) (111) (136) (128-9) (170) (200-2) (246) (277) (343) (424) (444) (562) (585) (615) (654-6) (682) (685) (1014) (1031) (1036) (1038-9) (1063) (1066) & brain (210) (1032) & Mesmer (36) & Ea (58) & origin of' (208) (670) (1000) (1002) (1109) & bioelectricity (1060) & 6000 year period (655) & art/culture (537) Art/Literature (1108) (537) Anorgonia (271) (645) Anxiety (3) (6) (130) (156) (761) (764) (1039) (1109) & Freud (8) Attacks (97, 421) (175-176) (211) (240) (268) (276) (299) (363) (377-8) (426) (1226) (1244) (1245) & Wartham/FBI (270) (396) (1091) & pharmaceuticals (22) (448) (495) & INS (488) Baker (211) (222) (235) (254) (336) (346) (516) (586) (587) (613) (629) & Higgins, E. Reich (586) Bechamp (704) (1068) Bio-electricity (538) (556) (564) (1060) Bions (212) (224) (225) (284-5) (324) (332-4) (364) (368) (374) (379) (668) & discoveries outside of orgonomy (679) (689) (704) (737) (756) (1030) (1234) (1246-7) (1249) & food (227) & Movie (13) (283) & sizes of (232) (704) (742) & Du Teil (379) & Reich's priority (387) & characteristics/Brownian motion (557) (1242) Bion-like particles & microzymas (704) & proteinoid microspheres (1030) & Rife (1062) (1069) & cell wall deficient forms & pleomorphic virus/bacteria (1069) & somatids, protids, jeewanu (1249) Biopathy/Diseases (152) (443) (505) & hepatitus (286) & headaches (294) & stuttering (471) & Asthma (35) (111) (359) (1066) & diabetes (712) & ADHD (762) & ulcerative colitus (1067) Boadella (1082) Body/Holistic Therapies (571) & Neo-reichian Tx, Primal Tx, Rolfing, Lowen, Janov, Perl (395) & Bi-Aura Therapy (37) & healing (633) Buddhism (56) Cancer (102) (224) (237) (239) (267) (285) (296) (326) (457) (490) (560) (623) (628) (688-9) (692) (695-6) (711) (742) (745) (748) (1016) (1025) (1036f) (1121) & synopsis (558) Character (11) (12) (39) (40) (41) (68) (107a) (110) (136) (163) (168) (170) (215) (250) (307) (336) (342) (407) (424) (458) (486) & early Character work (579) (638) (646) (685) (700) (752) (1061)
-(1072) (1077) & impulsives (228-9) (1040) & schools (301) & three layers (302) & birth of technique (346) & body therapies (394) & terrorism (473) & diagnosis in orgone tx (713) & defensive function (724) Children (300-1) (309) (315-7) (383) (544) (546) (583) (617) (636) (659) (656) (666) (672) (713) (727) (739) (743) (1061) & permissiveness (298) (731) (1029) & Therapy (33) (34) (106) (200) (246) (610-11) (614) (694) (215) Citations (1113) (1117)
+Subjects cross-referenced by their entry number in this bibliography AAF American Air Force (51) (55) ACO American College of Orgonomy (66) (565) (589) (601) (613) (751) AMA American Medical Association (494) Aggression (171) Animal Magnetism (38) Amoeba (44) Armour (N=34) (12) (35) (83) (110) (111) (136) (128-9) (170) (200-2) (246) (277) (343) (424) (444) (562) (585) (615) (654-6) (682) (685) (1014) (1031) (1036) (1038-9) (1063) (1066) & brain (210) (1032) & Mesmer (36) & Ea (58) & origin of' (208) (670) (1000) (1002) (1109) & bioelectricity (1060) & 6000 year period (655) & art/culture (537) Art/Literature (1108) (537) Anorgonia (271) (645) Anxiety (3) (6) (130) (156) (761) (764) (1039) (1109) & Freud (8) Attacks (97, 421) (175-176) (211) (240) (268) (276) (299) (363) (377-8) (426) (1226) (1244) (1245) & Wartham/FBI (270) (396) (1091) & pharmaceuticals (22) (448) (495) & INS (488) Baker (211) (222) (235) (254) (336) (346) (516) (586) (587) (613) (629) & Higgins, E. Reich (586) Bechamp (704) (1068) Bio-electricity (538) (556) (564) (1060) Bions (212) (224) (225) (284-5) (324) (332-4) (364) (368) (374) (379) (668) & discoveries outside of orgonomy (679) (689) (704) (737) (756) (1030) (1234) (1246-7) (1249) & food (227) & Movie (13) (283) & sizes of (232) (704) (742) & Du Teil (379) & Reich's priority (387) & characteristics/Brownian motion (557) (1242) Bion-like particles & microzymas (704) & proteinoid microspheres (1030) & Rife (1062) (1069) & cell wall deficient forms & pleomorphic virus/bacteria (1069) & somatids, protids, jeewanu (1249) Biopathy/Diseases (152) (443) (505) & hepatitus (286) & headaches (294) & stuttering (471) & Asthma (35) (111) (359) (1066) & diabetes (712) & ADHD (762) & ulcerative colitus (1067) Boadella (1082) Body/Holistic Therapies (571) & Neo-reichian Tx, Primal Tx, Rolfing, Lowen, Janov, Perl (395) & Bi-Aura Therapy (37) & healing (633) Buddhism (56) Cancer (102) (224) (237) (239) (267) (285) (296) (326) (457) (490) (560) (623) (628) (688-9) (692) (695-6) (711) (742) (745) (748) (1016) (1025) (1036f) (1121) & synopsis (558) Character (11) (12) (39) (40) (41) (68) (107a) (110) (136) (163) (168) (170) (215) (250) (307) (336) (342) (407) (424) (458) (486) & early Character work (579) (638) (646) (685) (700) (752) (1061) (1072) (1077) & impulsives (228-9) (1040) & schools (301) & three layers (302) & birth of technique (346) & body therapies (394) & terrorism (473) & diagnosis in orgone tx (713) & defensive function (724) Children (300-1) (309) (315-7) (383) (544) (546) (583) (617) (636) (659) (656) (666) (672) (713) (727) (739) (743) (1061) & permissiveness (298) (731) (1029) & Therapy (33) (34) (106) (200) (246) (610-11) (614) (694) (215) Citations (1113) (1117)
 
 ## Cia (51)
 
@@ -70,16 +72,11 @@ Environmental/Weather (91-95) (101) (207) (230) (478) (593) (647) (734) (748) (1
 ## Fbi (270) (356) (526) (528) (547-8)
 
 FDA (Food and Drug Admin) (463) (528) (551) (1081) (1229) (1231) & AMA/Neurological Association (22) (587) & Cancer Mice (21) (453) (489) & dirty tricks (24) & X-rays and Orgone (26) (217) (219) (220) (489) (511) & Maguire (30) & Communists (31) & Wharton (305) & Mills (464) (1092) & USAF (468) & original complaint (510) & ACLU (536) FDA/Trials (25) (27) (29) (47) (48-51) (53) (97) (448-9) (463-4) (476-7) (510) (535) (726) (1094) (1232) & Maguire (523-4) (773) (1009) & Sweeney (541) & psychiatric assessment (549) (510) see also ‘Prison’.
-FDA Tests (21) (216-221) (251) (255-261) (453) (489) (512) (540) (608) (1009) Fire (262) Freud (7-8) (9) (42) (43) (107/107a) (109) (143) (231) (242) (269) (291) (346) (348) (361) (384) (408) (413) (438) (491-2) (509) (513) (529) (531) (566) (638) (703) (724) (1017) (1099) (1101) (1244) (741) & Hans/Oedipal Complex/Freud’s own sexual disturbance (486) Functionalism & the CFP (510) (590) (634) (642) (662) (671) (761) Gieger Muller counter (145) (480) Genetics (68) (500) (655) Genitality (342-3) (347-8) (486) (492) (503) (543) (653) (646) (676) (680) Grad (632) Gravity (394) (452) (540) Guilt (250) (562) (698) (732) Health (580) (703) (1036b) History (121/2) (142) (144) (1008) Holistic Medicine (570) Homeopathy (1071) (1241) Homosexuality (202) (612) (1100) Hoppe (98) (612) (1088) & Isreali interest in orgonomy (97) Infighting (32) INS Immigration & Naturalisation Service (528) Journals & Creative Process (32) (442) & Biodynamics, Energy and Character (462) Kirlian Photography (253) (440) www.leonsouthgate.com
-Language (351) (530) (592) (597) & body language (525) & literature (537) (1108) Le Boyer (320) (388) Libido (12) (384) Literature (See Art) & Language (351) Love (87) (265) (534) (561) (624) (708) (1014) Longing/Desire (264) Mass Psychology (147) Marx (121) (143) (144) (348) (518) Mechanism (44) (570) (572) Medical Notes & Contributions (35) (69) (70) (83) (112) (212/3) (224) (241) (244) (328) (340) (352-3) (387) (390-1) (443-4) (461) (471) (486) (583) (621) (626) (658b) (669) (689) (714) (740) (756) (760) (762) (768) (1016) (1036) (1036g) (1038) (1063) (1066) (1106) (1236-7) Mesmer (36-38) (1020) Michelson & Morley (594) Milestones in Reich's Discoveries (1008) Miller (594) Mills (54)
-Mysticism (295) (389) (418) (420) (425) (428) (570) & fanaticism (433) & politics (431) (469) Myths (158) (345) & Oedipus (157) Nature (156) Neill (539) (1082) Neo-Reichians (456) (462) (518) Neurosis (11) (141) (164) (376) (384) (413) (458-9) (478) (513) (584) (638) (651) Neurology (444) (461) (470) (481) (527) (529) (701) Neuropsychiatry (414) (418) Newton (62) (404) Nuclear (1120) (1235) Nordenstrum (1036f) Non-local Phenomena (65b) Ocular Armouring (33) (34) (60) (170) (200-1) (235) (278) (294) (338) (410) (427) (1036) (1038) Odent (661) (706) Ollendorff (98) ORACs (183) (275) (289) (290) (371) (376) (490) (666-7) (687) (1036d) (1070) (1095) (1240) & case studies (1121) (1123) & Atomic Piles, Leydon Jars, Mesmer's Baquet (14) & Reichenbach (1003) & more ORAC-like discoverers (1004) & Mesmer's bacquet (1020) & orgone light (1224) & measurements of orgone (1250) & To-T (380) (386) Oranur (15) (323) (335) (369) (459) (489) (667) (689) (716) (1082) (1120) (1235) OROPs (185) (205-7) (313-4) (354) (357) (421) (478) (493) (595a) (606) (618) (660) (665) (681) (702) (715) (769) (1005) (1239) (1253) & summary (595a) & USAF (451) also see cloudbusting.
-Orgone Chemistry & Orite (45) & Orene (45) (496) (640) (668) (1074) & Melanor (1076) Orgasm Formula (2) (12) (86) (96) (131) (269) (321) (466) (507) (735) (1060) Orgastic Potency (436) (445) (505) (592) (624-5) (673) (759) (1019) & Body Therapies (394) Orgone & Scientists Whose Work Independently Supports Orgone Concept (596) Orgone Energy Bulletin (304) Orgone Lamp (667) (1224) Orgone Medical Therapy (512) Orgone Motor (28) (52) (54) (59) (375) (417) (1010) and Geiger Muller counter (52) (145) and Washington (28) (74) (341) Orgone Psychiatric Therapy (33) (34) (35) (60) (71) (82) (84) (111) (146) (149) (151) (161-5) (168) (170) (213) (223) (250) (271) (272) (286) (294) (339) (358-9) (360) (376) (442) (455) (503) (546) (567) (578) (635-6) (641) (656) (654) (658) (669) (680) (683) (685) (693-4) (697) (698) (754) (1028) (1036b) (1063) (1072) (1075) & fat (365) (713-4) (721) (724-5) (733) (739) (764) (768) & criticism of (720) & mass therapy (498) & funny stories (1065) & homeopathy (1071) & hair-pulling (33) Orgone Physics (137) (335) (381) (394) (416) (422) (483) & UV argument (1021) & measurements of orgone (1250) Orgonome (466) Orgonomic Functionalism journal (32) Orur (369) (1255) Pasteur (704) Peri-natal (153) (277) (316-7) (338-9) (666) www.leonsouthgate.com
-Physics (73) (99) (249) (312) (394) (400-4) (416) (422) (441) (483) (594) (684) Pleomorphism (1069) Politics (77) (104) (120 - 122) (124) (133) (147) (163) (172) (173) (179) (188) (210) (248) (276) (291-2) (299) (302-3) (307-8) (329) (330) (400) (412) (429-432) (458) (460) (473) (484) (584) (599) (627) (672) (678) (690) (708) & Eisenhower (1082) (1099) & primary and secondary drives (753) Pre-atomic Chemistry (Orene, Orite) (450) (496) Prison (549) (550-1) (554) (1103) & books (552) Psyche/Soma (111) (146) (162) (167) (170) (269) (362) (365) (390) (538) (566) (570-1) (573) (669) Psychic Phenomena (189) (419) Psychologisation (4) (7) (9) (162) (215) (269) (509) (513) Psychology (108) (231) (291) (309) (571) (573-4) (580) (621) (1017) (1019) (1036b) & Ego Psych (61) (150) (154) (169) (235) (254) (372) (562) (603) & Object Relations (103) (154) (534) & unconscious (362) (485) & social psychiatry (446) & phobias (486) & oedipal complex (486) (157) (1097) & Reich’s views on regression (506) & diagnosis (555) Psychotherapy- (40) (139) (161) (346) (477) (514) (571) (574) (580) (609) (629) (649) & criticism of traditional method (657a) (759) (1007) (1028) (1036b) (1101) & Ferenczi, Rank, Abraham, Jones (107a) & Fourth Stage of Ego Development (235) (603) & orgone therapy in journals (331) & sexuality (361) & Reich’s early clinic work (395a) & Lacan (127) (169) & Erikson, Kaufman, Briehl, Ferenczi (397) & Anna Freud (397-8) (1012) (1061) & Reik (399) & Abraham (407) & Fromm (39) (1099) & oedipal complex/phobias (486) & drives (513) (533) & Horney (522) & definition of health (545) & Fenichel, Jacobson, Annie Reich (564) & masochism (566) & R. D. Laing (648) & Sullivan (1013) & Fenichel (1015) (1099) & Ferenczi, Rank, Adler (1087) Pyramids (467) Quantum Physics (394) Reich Blood Test (560) (563) (689) (738) (1022) (1026) (1233) Reich Historical (366) (405) (406) (409) (439) (477) (550) (610) (650) (1007) (1018) (1036c) (1084-5) (1089) (1096) (1100-1) & autopsy (1103) (1106) (1109) (1111) (1230) & claims of paranoia (20) (50) (98) (463) (1082) & milestone discoveries (1008) Reich's Sayings (177) (178-9) (234) (245) (278) (282) (349) (434) (475) (504) (516) (535) (540) (574) (591) (604) (643) (648) (651) (670) (677) (703) (705) & Pres. Eisenhower (767) & adverts (177-8) Raknes (80) (318) (1088) Red Shift (Cosmological) (137) Religion (279) (280) (295) (310) (343-4) (345) (389) (392) (415) (460) (475) (583) (600) (620) (639) (663) Ryecroft (209) Schizophrenia (34) (64) (65) (119) (278) (410) (414) (418) (425) (444) (461) (499) (506) (508) (538) (583) (609) (645) (686) (770) (1028) (1032) (1036) (1038) & Eden story (72) Science (126) (180) (224) (288) (335) (386) (394) (507) (576-7) (594) (620) (687) (760) (1073) & Systems theory (592) Lakhovsky's DNA radiation theory (1021) & Joseph Newman (1036e) & Nordenstrum (1036f) (1036g) Secondary Drives (3) (171) Sex Economy (172) (652) Sexual dysfunction (70) & F (6) & R (10) Sexuality (10) (87) (88) (89) (96) (106) (132) (130) (166) (170) (347) (361) (384) (392) (492) (501) (543) (583) (592) (651) (761) (1100) (1109) Silvert (370) Spacegun (59) (1255) Spin Direction (99) Sun (422) System Theories (412)
-Symbolism (351)
-Sympathetic/Parasympathetic (1)
-Symptoms (11)
-Terrorism (627)
-T-bacilli (704) (742) (1062)
+FDA Tests (21) (216-221) (251) (255-261) (453) (489) (512) (540) (608) (1009) Fire (262) Freud (7-8) (9) (42) (43) (107/107a) (109) (143) (231) (242) (269) (291) (346) (348) (361) (384) (408) (413) (438) (491-2) (509) (513) (529) (531) (566) (638) (703) (724) (1017) (1099) (1101) (1244) (741) & Hans/Oedipal Complex/Freud’s own sexual disturbance (486) Functionalism & the CFP (510) (590) (634) (642) (662) (671) (761) Gieger Muller counter (145) (480) Genetics (68) (500) (655) Genitality (342-3) (347-8) (486) (492) (503) (543) (653) (646) (676) (680) Grad (632) Gravity (394) (452) (540) Guilt (250) (562) (698) (732) Health (580) (703) (1036b) History (121/2) (142) (144) (1008) Holistic Medicine (570) Homeopathy (1071) (1241) Homosexuality (202) (612) (1100) Hoppe (98) (612) (1088) & Isreali interest in orgonomy (97) Infighting (32) INS Immigration & Naturalisation Service (528) Journals & Creative Process (32) (442) & Biodynamics, Energy and Character (462) Kirlian Photography (253) (440) www.leonsouthgate.com Language (351) (530) (592) (597) & body language (525) & literature (537) (1108) Le Boyer (320) (388) Libido (12) (384) Literature (See Art) & Language (351) Love (87) (265) (534) (561) (624) (708) (1014) Longing/Desire (264) Mass Psychology (147) Marx (121) (143) (144) (348) (518) Mechanism (44) (570) (572) Medical Notes & Contributions (35) (69) (70) (83) (112) (212/3) (224) (241) (244) (328) (340) (352-3) (387) (390-1) (443-4) (461) (471) (486) (583) (621) (626) (658b) (669) (689) (714) (740) (756) (760) (762) (768) (1016) (1036) (1036g) (1038) (1063) (1066) (1106) (1236-7) Mesmer (36-38) (1020) Michelson & Morley (594) Milestones in Reich's Discoveries (1008) Miller (594) Mills (54) Mysticism (295) (389) (418) (420) (425) (428) (570) & fanaticism (433) & politics (431) (469) Myths (158) (345) & Oedipus (157) Nature (156) Neill (539) (1082) Neo-Reichians (456) (462) (518) Neurosis (11) (141) (164) (376) (384) (413) (458-9) (478) (513) (584) (638) (651) Neurology (444) (461) (470) (481) (527) (529) (701) Neuropsychiatry (414) (418) Newton (62) (404) Nuclear (1120) (1235) Nordenstrum (1036f) Non-local Phenomena (65b) Ocular Armouring (33) (34) (60) (170) (200-1) (235) (278) (294) (338) (410) (427) (1036) (1038) Odent (661) (706) Ollendorff (98) ORACs (183) (275) (289) (290) (371) (376) (490) (666-7) (687) (1036d) (1070) (1095) (1240) & case studies (1121) (1123) & Atomic Piles, Leydon Jars, Mesmer's Baquet (14) & Reichenbach (1003) & more ORAC-like discoverers (1004) & Mesmer's bacquet (1020) & orgone light (1224) & measurements of orgone (1250) & To-T (380) (386) Oranur (15) (323) (335) (369) (459) (489) (667) (689) (716) (1082) (1120) (1235) OROPs (185) (205-7) (313-4) (354) (357) (421) (478) (493) (595a) (606) (618) (660) (665) (681) (702) (715) (769) (1005) (1239) (1253) & summary (595a) & USAF (451) also see cloudbusting.
+Orgone Chemistry & Orite (45) & Orene (45) (496) (640) (668) (1074) & Melanor (1076) Orgasm Formula (2) (12) (86) (96) (131) (269) (321) (466) (507) (735) (1060) Orgastic Potency (436) (445) (505) (592) (624-5) (673) (759) (1019) & Body Therapies (394) Orgone & Scientists Whose Work Independently Supports Orgone Concept (596) Orgone Energy Bulletin (304) Orgone Lamp (667) (1224) Orgone Medical Therapy (512) Orgone Motor (28) (52) (54) (59) (375) (417) (1010) and Geiger Muller counter (52) (145) and Washington (28) (74) (341) Orgone Psychiatric Therapy (33) (34) (35) (60) (71) (82) (84) (111) (146) (149) (151) (161-5) (168) (170) (213) (223) (250) (271) (272) (286) (294) (339) (358-9) (360) (376) (442) (455) (503) (546) (567) (578) (635-6) (641) (656) (654) (658) (669) (680) (683) (685) (693-4) (697) (698) (754) (1028) (1036b) (1063) (1072) (1075) & fat (365) (713-4) (721) (724-5) (733) (739) (764) (768) & criticism of (720) & mass therapy (498) & funny stories (1065) & homeopathy (1071) & hair-pulling (33) Orgone Physics (137) (335) (381) (394) (416) (422) (483) & UV argument (1021) & measurements of orgone (1250) Orgonome (466) Orgonomic Functionalism journal (32) Orur (369) (1255) Pasteur (704) Peri-natal (153) (277) (316-7) (338-9) (666) www.leonsouthgate.com Physics (73) (99) (249) (312) (394) (400-4) (416) (422) (441) (483) (594) (684) Pleomorphism (1069) Politics (77) (104) (120 - 122) (124) (133) (147) (163) (172) (173) (179) (188) (210) (248) (276) (291-2) (299) (302-3) (307-8) (329) (330) (400) (412) (429-432) (458) (460) (473) (484) (584) (599) (627) (672) (678) (690) (708) & Eisenhower (1082) (1099) & primary and secondary drives (753) Pre-atomic Chemistry (Orene, Orite) (450) (496) Prison (549) (550-1) (554) (1103) & books (552) Psyche/Soma (111) (146) (162) (167) (170) (269) (362) (365) (390) (538) (566) (570-1) (573) (669) Psychic Phenomena (189) (419) Psychologisation (4) (7) (9) (162) (215) (269) (509) (513) Psychology (108) (231) (291) (309) (571) (573-4) (580) (621) (1017) (1019) (1036b) & Ego Psych (61) (150) (154) (169) (235) (254) (372) (562) (603) & Object Relations (103) (154) (534) & unconscious (362) (485) & social psychiatry (446) & phobias (486) & oedipal complex (486) (157) (1097) & Reich’s views on regression (506) & diagnosis (555) Psychotherapy- (40) (139) (161) (346) (477) (514) (571) (574) (580) (609) (629) (649) & criticism of traditional method (657a) (759) (1007) (1028) (1036b) (1101) & Ferenczi, Rank, Abraham, Jones (107a) & Fourth Stage of Ego Development (235) (603) & orgone therapy in journals (331) & sexuality (361) & Reich’s early clinic work (395a) & Lacan (127) (169) & Erikson, Kaufman, Briehl, Ferenczi (397) & Anna Freud (397-8) (1012) (1061) & Reik (399) & Abraham (407) & Fromm (39) (1099) & oedipal complex/phobias (486) & drives (513) (533) & Horney (522) & definition of health (545) & Fenichel, Jacobson, Annie Reich (564) & masochism (566) & R. D. Laing (648) & Sullivan (1013) & Fenichel (1015) (1099) & Ferenczi, Rank, Adler (1087) Pyramids (467) Quantum Physics (394) Reich Blood Test (560) (563) (689) (738) (1022) (1026) (1233) Reich Historical (366) (405) (406) (409) (439) (477) (550) (610) (650) (1007) (1018) (1036c) (1084-5) (1089) (1096) (1100-1) & autopsy (1103) (1106) (1109) (1111) (1230) & claims of paranoia (20) (50) (98) (463) (1082) & milestone discoveries (1008) Reich's Sayings (177) (178-9) (234) (245) (278) (282) (349) (434) (475) (504) (516) (535) (540) (574) (591) (604) (643) (648) (651) (670) (677) (703) (705) & Pres.
+
+
+Eisenhower (767) & adverts (177-8) Raknes (80) (318) (1088) Red Shift (Cosmological) (137) Religion (279) (280) (295) (310) (343-4) (345) (389) (392) (415) (460) (475) (583) (600) (620) (639) (663) Ryecroft (209) Schizophrenia (34) (64) (65) (119) (278) (410) (414) (418) (425) (444) (461) (499) (506) (508) (538) (583) (609) (645) (686) (770) (1028) (1032) (1036) (1038) & Eden story (72) Science (126) (180) (224) (288) (335) (386) (394) (507) (576-7) (594) (620) (687) (760) (1073) & Systems theory (592) Lakhovsky's DNA radiation theory (1021) & Joseph Newman (1036e) & Nordenstrum (1036f) (1036g) Secondary Drives (3) (171) Sex Economy (172) (652) Sexual dysfunction (70) & F (6) & R (10) Sexuality (10) (87) (88) (89) (96) (106) (132) (130) (166) (170) (347) (361) (384) (392) (492) (501) (543) (583) (592) (651) (761) (1100) (1109) Silvert (370) Spacegun (59) (1255) Spin Direction (99) Sun (422) System Theories (412) Symbolism (351) Sympathetic/Parasympathetic (1) Symptoms (11) Terrorism (627) T-bacilli (704) (742) (1062)
 
 ## To-T (174) (181-182) (204) (273-5) (322) (380) (386) (416) (447) (467)
 
@@ -87,8 +84,7 @@ T-bacilli (704) (742) (1062)
 
 ## Usaf (468)
 
-Vacor Tubes (52) (375) Velikovsky (670) www.leonsouthgate.com Violence & genetic vs Saharasian theory (632) Viral Theory (224) (742) (1069) William Washington (28) (74) (341) Work/Work Democracy (306) (435) (518) (592) (602) (664) X-rays and Orgone (26) (217) (219) (220) (253) (511) (1107) Y Function (52) www.leonsouthgate.com
-ANNOTATED BIBLIOGRAPHY in CHRONOLOGICAL ORDER
+Vacor Tubes (52) (375) Velikovsky (670) www.leonsouthgate.com Violence & genetic vs Saharasian theory (632) Viral Theory (224) (742) (1069) William Washington (28) (74) (341) Work/Work Democracy (306) (435) (518) (592) (602) (664) X-rays and Orgone (26) (217) (219) (220) (253) (511) (1107) Y Function (52) www.leonsouthgate.com ANNOTATED BIBLIOGRAPHY in CHRONOLOGICAL ORDER
 
 ## Jo V1 N1/2 1967
 
@@ -161,6 +157,8 @@ In the FDA’s first injunction they specifically talk about X-Rays and orgone. 
 27) 69
 Court Case - Double Standards
 The other orgonomists were not allowed to enter the court case because the court & prosecution argued that the orgonomists can use ORACs. It is just Reich alone that would be affected by the court judgement they argued. Court also argued that ORAC use isn’t hindered by Reich’s trial as it is not a trial of scientific efficacy - which is an underhand statement in itself, as the trial was a direct and one-sided attack upon orgonomy.
+
+
 28) 83
 Court
 Reich felt that due to reasons of national security some of his evidence could not be divulged to court.
@@ -237,6 +235,8 @@ References to CIA and AAF. (Reich referred to a letter to the CIA from himself w
 Reich stated that he was withholding certain information.
 52) 61
 Reference to Vacor Tubes and Y Function in Reich’s court appeal. The information regarding the orgone motor in the appeal document is summarised as follows. The motor forces were discovered through observing an orgone charged Geiger Muller counter, a number of orgone charged vacuum tubes are used, speed can be regulated and depends partly on the number of vacuum tubes, weather and the undisclosed ‘Y Function’.
+
+
 The motor force can be transmitted through an activated electronic amplifier. A 32 scaler Geiger Muller counter registered 200,000 impulses per minute during its use. (D. Blasband).
 53) 61
 Summary of Reich’s position in legal terms (that the original injunction can not stand because it was obtained fraudulently) (28).
@@ -305,7 +305,9 @@ Reich commented how many chemists had a fear of life and wanted to smash it.
 
 www.leonsouthgate.com
 JO Book Criticism-'The Triumph of the Therapeutic' P. Rieff, NY, Harper and Row, 1966.
-Reich portayed as mystic. Clever attack on him. Sociologist author appears to be scientific and praises Reich as a man of vision but then goes on to paint him as someone who descended into religious mysticism - orgone as God, DOR as Devil and the orgasm as gateway into our lost 'oceanic-ness'. Reich is seen by him as an anti-intellectual who rejects politics so radically he must then be ‘religious’.
+Reich portayed as mystic. Clever attack on him. Sociologist author appears to be scientific and praises Reich as a man of vision but then goes on to paint him as someone who descended into religious mysticism - orgone as God, DOR as Devil and the orgasm as gateway into our lost 'oceanic-ness'.
+
+Reich is seen by him as an anti-intellectual who rejects politics so radically he must then be ‘religious’.
 78) 166
 Diabetes - a shrinking biopathy but at higher charge.
 
@@ -353,7 +355,9 @@ Weather - Atmospheric pulsation is not entropic. It is not a mechanism that simp
 96) 152
 Transition from mechanical congestion to electrical charge is a specific sexual, biological process (Life Formula).
 97) 164
-US government refused Reich a Visa to travel to Israel (where he intended to help Walter Hoppe carry out an Orgone Cloudbusting Operation or OROP). Also interest from Israeli government cut short by the US court action. Israeli Prime Minister Moshe Sharrett asked the Israeli embassy to visit Organon but the visit never materialised (possibly due to the US court action). Also (p.162) Prime minister Ben-Gurion sent a physicist to Hoppe to find out more about orgonomy.
+US government refused Reich a Visa to travel to Israel (where he intended to help Walter Hoppe carry out an Orgone Cloudbusting Operation or OROP). Also interest from Israeli government cut short by the US court action. Israeli Prime Minister Moshe Sharrett asked the Israeli embassy to visit Organon but the visit never materialised (possibly due to the US court action).
+
+Also (p.162) Prime minister Ben-Gurion sent a physicist to Hoppe to find out more about orgonomy.
 98) 162
 Hoppe refused to participate in Ollendorff's biography because she herself admitted she lost contact with Reich's work when he entered the realm of physics-her book would be coloured with this loss which she would project onto Reich, he felt. Also Hoppe explains how stories of Reich's paranoia started-from those Reich left behind each time he moved into a new field - they got frightened.
 
@@ -380,7 +384,9 @@ Reich's term - 'pseudo-contact' i.e. ‘contact’ produced by dope and other dr
 Reich was the first analyst to speak out for the genital rights of children and adolescents.
 107) 252-253
 Reich noted some personal factors affecting Freud.
-He was destroyed by the very organisation he founded, Reich believed. Freud’s organisation withdrew from sexuality and especially Reich’s orgasm formula. Psychoanalysis was effectively destroyed. Reich predicted that bio-energy would become little more than idle chatter at dinner parties. Reich believed Freud became terribly resigned and had a marriage to a woman he neither loved or was attracted to.
+He was destroyed by the very organisation he founded, Reich believed. Freud’s organisation withdrew from sexuality and especially Reich’s orgasm formula. Psychoanalysis was effectively destroyed.
+
+Reich predicted that bio-energy would become little more than idle chatter at dinner parties. Reich believed Freud became terribly resigned and had a marriage to a woman he neither loved or was attracted to.
 
 ## Jo V4 N1 1970
 
@@ -459,7 +465,10 @@ Desert greening without precipitation = a DOR turning to orgone situation.
 136) 181
 Character armour is sequestered DOR.
 137) 187-188
-Orgone Physics and Light - Asimov mentions that it was originally considered that the red shift effect was due to the light wave losing energy as it travelled, therefore shifting frequency toward the red end of the spectrum. This theory was given up when no reason for the light to lose energy could be found (in the empty space view of mainstream physics). Orgone would have this effect however - it would absorb energy from the light wave. Reasons to argue this the case:
+Orgone Physics and Light - Asimov mentions that it was originally considered that the red shift effect was due to the light wave losing energy as it travelled, therefore shifting frequency toward the red end of the spectrum. This theory was given up when no reason for the light to lose energy could be found (in the empty space view of mainstream physics). Orgone would have this effect however - it would absorb energy from the light wave.
+
+
+Reasons to argue this the case:
 A) Other waves do this.
 B) Electromagnetic energy and orgone strongly interact.
 C) On X ray plates orgone blocks travel of light.
@@ -489,6 +498,8 @@ Sharaf emphasizes how Reich always placed equal emphasis on characterological an
 JO paper contains a good description of Reich's political position.
 It is noted that Reich was worried about movements toward state capitalism in the US and Scandinavia (as this relegates too much power to bureaucrats).
 JO notes that the NY Times criticises The Mass Psychology of Fascism by implying that Reich is against all families (which is not true just the authoritarian one). NY Times also criticises Reich by misquoting him as arguing that all patriarchal societies must inevitably devolve into fascism. Also crass arguments such as 'Nazi women are enjoying sex as much as present day Women Lib Leagues' are put forward by the NY Times.
+
+
 Lacqueur, W "The Mass Psychology of Fascism" NY Times Sunday Book Review, Dec 20, 1970.
 Lehman-Haupt, C. "Again into the Orgone Box," New York Times, Jan 4, 1971.
 148) 114
@@ -533,6 +544,8 @@ The effects of a psychic experience are not determined by psychic content but by
 163) 153
 Orgone Therapy Case Studies
 A patient’s fear had become structuralised as a superficial attitude particularly toward women. He then underwent a very sudden character change to a serious attitude. (In the past his mother would pretend to offer niceness and then suddenly turn vicious toward him). His newly emerged serious feelings were the same as his pre-repression feelings from childhood. (He didn’t recognise them as the same at first because they felt so foreign to him initially, 155).
+
+
 164) 153
 Reich noted that neurotics all have a chronic contraction of the diaphragm.
 165) 164
@@ -566,9 +579,15 @@ Reich uses various analogies to illustrate this.
 Orgone Experiments
 To-T
 Blasband, R.
-Temperature Orgone versus Temperature Control (usually called TO-T). In this paper a useful and interesting discussion of the history of Reich's TO-T studies are given. A useful synopsis of classical physics is also outlined. It is noted that Reich's TO-T experimental data contradicts the second law of thermodynamics (heat is found to gather spontaneously in the ORAC). Reich's underground TO-T experiments are described. TO-T was measured in the ground to avoid thermal currents. Buried ORAC to Earth Temp was measured.
+Temperature Orgone versus Temperature Control (usually called TO-T). In this paper a useful and interesting discussion of the history of Reich's TO-T studies are given. A useful synopsis of classical physics is also outlined.
+
+It is noted that Reich's TO-T experimental data contradicts the second law of thermodynamics (heat is found to gather spontaneously in the ORAC). Reich's underground TO-T experiments are described. TO-T was measured in the ground to avoid thermal currents.
+
+Buried ORAC to Earth Temp was measured.
 Blasband then goes on to describe the past 5 years of regular TO-T measurements taken by the Oranur Research Lab at Bucks County.
-Results
+
+## Results
+
 The new experimental data confirms Reich's claims of a TO-T differential. The lab controlled for thermal lag and electromagnetic effects. They found a consistent differential of between 0.2 and 1.0 Celsius using calibrated thermometers and a variety of indoor and outdoor set-ups.
 
 www.leonsouthgate.com
@@ -591,7 +610,9 @@ Einstein called the orgone, 'A bomb in physics’.
 Orgone Experiment
 Blasband’s Early Studies.
 5 years of TO-T (Temperature in Orgone cabinet Versus Temp in Control cabinet) are reported in 2 pages. One experimental day fully reported. Electromagnetic radiation, thermal properties and seasonal variations are taken into account.
-Results
+
+## Results
+
 The new experimental data confirms Reich's claims of a TO-T differential. The lab controlled for thermal lag and electromagnetic effects. They found a consistent differential of between 0.2 and 1.0 Celsius using calibrated thermometers and a variety of indoor and outdoor set-ups.
 182) 181
 Temperature Orgone versus Temperature Control Early Studies.
@@ -671,6 +692,8 @@ OROP-Hurricane showed very unusual East-West movement, looping and loss of power
 208) 123
 Reich's first hypothesis on origin of armouring: reasoning turning inward against itself.
 My note-this was an 'idea', a logical thesis-later on it was replaced by a bio-energetic view that DOR/deserts precipitate armouring in 'Contact with Space'. However this was only briefly sketched out as Reich was involved in the fraudulent FDA trial. Reich recognised that on some level Freud was right to perceive a destructive tendency inherent in life as desertification paralleled this process in nature.
+
+
 209) 127
 JO Review
 C. Ryecroft (1971) Wilhelm Reich, NY, Viking Press.
@@ -713,21 +736,32 @@ FDA patient tests Can only be described as unscientific, inept testing for mirac
 219) 215
 U.S. Food & Drug Agency Tests
 Reich Blood Test
-Two and a half times as many patients in the cancer group as in the control group had 50% breakdown of red blood cells (RBC) in 5 minutes (physical integrity of RBCs are a parameter of the Reich Blood Test). The two controls with increased breakdown were both radiography staff (X-Rays are an orgone-antagonistic radiation). The FDA did not attempt a statistical analysis (which would have been likely to be significant in supporting Reich’s claims). Objections to technique, inconsistency, and possible misleading diagnosis of participants are noted.
+Two and a half times as many patients in the cancer group as in the control group had 50% breakdown of red blood cells (RBC) in 5 minutes (physical integrity of RBCs are a parameter of the Reich Blood Test). The two controls with increased breakdown were both radiography staff (X-Rays are an orgone-antagonistic radiation). The FDA did not attempt a statistical analysis (which would have been likely to be significant in supporting Reich’s claims).
+
+
+Objections to technique, inconsistency, and possible misleading diagnosis of participants are noted.
 The related issues of T-bacilli (viral-like forms in cancer tissue discovered by Reich), bions (proto-cells discovered by Reich) and illumination processes (of blood cells, a key indicator of vitality) are simply ignored by the FDA.
 220) 218
 U.S. Food & Drug Agency Tests of Orgone Accumulators (ORACs).
 
 ## FDA patient tests.
 
-FDA researcher stated that no X-Ray device was near ORACs when their tests of the ORACs on anaemia were carried out. Why was the same precaution ignored in the mice and other tests? Many of the treatments carried out were of unspecified duration and were poorly reported, if at all. The FDA claimed to have treated 12 cases of anaemia for an hour a day for between 10 and 14 days on average. They did not specify what parameters they were measuring, other treatment variables were not controlled for (medications and other treatments). The experimenters made vague statements that there was no 'clear cut benefit to the patient' and treatment 'did not appear' to be enhanced by the ORAC. Their unsubstantiated and vague statements are unprovable one way or another. Actual data is not released - just opinions.
+FDA researcher stated that no X-Ray device was near ORACs when their tests of the ORACs on anaemia were carried out. Why was the same precaution ignored in the mice and other tests? Many of the treatments carried out were of unspecified duration and were poorly reported, if at all.
+
+The FDA claimed to have treated 12 cases of anaemia for an hour a day for between 10 and 14 days on average. They did not specify what parameters they were measuring, other treatment variables were not controlled for (medications and other treatments). The experimenters made vague statements that there was no 'clear cut benefit to the patient' and treatment 'did not appear' to be enhanced by the ORAC.
+
+
+Their unsubstantiated and vague statements are unprovable one way or another. Actual data is not released - just opinions.
 221) 219
 U.S. Food & Drug Agency Tests of Orgone Accumulators (ORACs).
 
 ## FDA patient tests.
 
 FDA testing of the ORACs effects on cervical infections are described. There is poor description of method in the FDA's reporting. It appears the testers were looking for all bacteria to suddenly disappear and not the effects actually described by Reich (selective immobilisation of pathological bacteria).
-Patients reported a warm sensation when treated (presumably with an orgone ‘shooter’ box/funnel or orgone test tube within the vagina, though this is not stated in the protocol). In two cases all bacterial flora (trichomonas) had disappeared after the third treatment. The comment of 4 patients of a warm www.leonsouthgate.com sensation and the disappearance of bacterial flora in two patients is ignored. It is not stated by the FDA whether the flora seen before and after the treatments is living, dead, moving or immobile.
+Patients reported a warm sensation when treated (presumably with an orgone ‘shooter’ box/funnel or orgone test tube within the vagina, though this is not stated in the protocol). In two cases all bacterial flora (trichomonas) had disappeared after the third treatment. The comment of 4 patients of a warm www.leonsouthgate.com sensation and the disappearance of bacterial flora in two patients is ignored.
+
+
+It is not stated by the FDA whether the flora seen before and after the treatments is living, dead, moving or immobile.
 An invalid test which evades looking into Reich's claims on bacterial immobilisation.
 222) 149-150
 Dr Baker saw Orgonomy as a direct path to health. He thought that patients who recover their orgastic potency can never then turn away from orgonomy.
@@ -786,7 +820,9 @@ Orgone Experiment.
 ## ORAC Mice.
 
 Only 9 animals. Used transplanted tumours. Strong ORACs. Rural location. Clear weather.
-Results
+
+## Results
+
 There was a significant difference in longevity. The Treated group lived 1.6 times longer. Statistics T-Test, P=0.05.
 
 www.leonsouthgate.com
@@ -800,7 +836,9 @@ Investigation of Reich's orgone meter. Investigating kirlian photos-they also re
 Reich's priority in illuminating cancer’s links to emotional disposition (particularly resignation).
 240) 120
 Criticism & Attacks-Sex-pol Essays 1929-1934 (1972) Baxxendale, L (Ed) NY, Vintage Books.
-New left claiming Reich as a Marxist and rewriting his views - Reich was a great revolutionary but a mad scientist. Others such as Rieff, Robinson, Rycroft, Makayev, Cattier (France), Luigi also make similar arguments. Baxxendale is the most comprehensive and cunning. Tries to imply that Reich's rejection of the left was due merely to disillusionment with Stalin and Freud (and not a rejection of left-wing power that centralises government as was actually the case).
+New left claiming Reich as a Marxist and rewriting his views - Reich was a great revolutionary but a mad scientist. Others such as Rieff, Robinson, Rycroft, Makayev, Cattier (France), Luigi also make similar arguments. Baxxendale is the most comprehensive and cunning.
+
+Tries to imply that Reich's rejection of the left was due merely to disillusionment with Stalin and Freud (and not a rejection of left-wing power that centralises government as was actually the case).
 241) 71
 Autoimmune Disorders/Medical
 Bionous changes may make ‘body-own’ cells appears as alien cells to the immune system. (Bionous breakdown of cells can occur when there is to low or high orgone charge).
@@ -810,7 +848,9 @@ My notes - Is such a view a relocation of Freud's death drive into a different r
 243) 135
 JO Review of Burian, R.
 Burian, R. (1972) Psychoanalysis and Marxism - An Intellectual Biography of Wilhelm Reich, Germany, Makol Publishers.
-In the 1970s a growing interest in Reich worried the psychology establishment. The above book in German represents one attempt to put Reich to rest (plus a German edition of Rycroft’s 'Wilhelm Reich' was published). Burian sees Reich as a paranoid narcissistic opportunist who revamped old Freudian knowledge alongside a naive biology. If Reich really is 'forgotten', why devote a whole book to the subject?
+In the 1970s a growing interest in Reich worried the psychology establishment. The above book in German represents one attempt to put Reich to rest (plus a German edition of Rycroft’s 'Wilhelm Reich' was published). Burian sees Reich as a paranoid narcissistic opportunist who revamped old Freudian knowledge alongside a naive biology.
+
+If Reich really is 'forgotten', why devote a whole book to the subject?
 
 ## Jo V7 N2 1973
 
@@ -867,7 +907,9 @@ Food & Drug Administration, Orgone Tests.
 
 ## Dr Lion’s Tests.
 
-Dr Lion contradicts himself saying he won’t examine Reich’s theory he will just stick to what he does know, i.e. making temperature measurements. Lion then goes on to criticise Reich’s theories and outline classical theories in an extremely sloppy manner. He misunderstands and misreads Reich’s accumulating principle giving the impression that he has not read any orgonomic literature. He www.leonsouthgate.com misquotes classical theory too, saying that even if Reich’s theory were correct the boxes would continue to accumulate till temps of thousands of degrees were reached (this ignores basic principles of thermodynamic equalisation).
+Dr Lion contradicts himself saying he won’t examine Reich’s theory he will just stick to what he does know, i.e. making temperature measurements. Lion then goes on to criticise Reich’s theories and outline classical theories in an extremely sloppy manner. He misunderstands and misreads Reich’s accumulating principle giving the impression that he has not read any orgonomic literature.
+
+He www.leonsouthgate.com misquotes classical theory too, saying that even if Reich’s theory were correct the boxes would continue to accumulate till temps of thousands of degrees were reached (this ignores basic principles of thermodynamic equalisation).
 Lion’s 1st To-T (Temperature Orgone versus Temperature Control).
 ORAC Average - 20.18 C, Control Average- 20.27 C, Air temp Average- 20.06 C over two weeks. No mention of how averaging was carried out or what type of average was used.
 No attempts made to balance Control and ORAC - graphs line of ORAC and Control keep crossing.
@@ -908,6 +950,8 @@ Visualisation of Orgone
 No attempts were made to repeat Reich’s actual experiments.
 Inappropriate ‘tests’ of their own design were substituted.
 (Reich used a variation of the telescope, the orgonoscope, to help visualise orgone flickering in the environment. Alternatively, a powerful orgone dark room, situated in a healthy environment, with observers who have been allowed to acclimatise, can be used. Other visual claims of Reich are that there is a West to East flickering flow of energy which can be seen in the sky in appropriate circumstances and that there is a flickering between stars in deep space).
+
+
 The FDA ‘tests’ consisted of attaching a piece of paper with straight lines on it to the inside of an accumulator and illuminating it with an electric bulb. The control consisted of lined paper suspended above a hot plate. Flickering was not observed in front of the paper in the accumulator. A light bulb would in any case obliterate the subtle orgone waves from being seen.
 260) 244
 Food & Drug Administration, Orgone Tests.
@@ -954,7 +998,10 @@ Reich was arrested on Dec 12th 1941 at 2am. He was released on Jan 5th 1942 by t
 271) 30
 Orgone Therapy Case Study
 Ganz, M.
-Interesting case. Obese masochist (diagnosed as an Oral Repressed Hysteric). She had a hospitilisation after mononucleosis complicated by hepatitis. She had a complete anorgonotic shutdown after partial release of armouring (anorgonia is where the orgone energy of the body collapses often due to shock). Interesting especially as patient used mental imagery of bodily movement to help break the paralysis. She recovered completely with further orgone therapy.
+Interesting case. Obese masochist (diagnosed as an Oral Repressed Hysteric). She had a hospitilisation after mononucleosis complicated by hepatitis.
+
+She had a complete anorgonotic shutdown after partial release of armouring (anorgonia is where the orgone energy of the body collapses often due to shock). Interesting especially as patient used mental imagery of bodily movement to help break the paralysis. She recovered completely with further orgone therapy.
+
 Very vigorous genital strivings meeting equally vigorous blocking caused the anorgonia.
 272) 31
 Seven stages of orgone therapy:
@@ -1061,7 +1108,9 @@ Transplanted mammary tumours were used. Treatment lengthened life span by 1/3rd 
 The size of this change would most likely be statistically significant with a better sample size (but was not reported to statistically significant here). Delay in tumour development was a strong variable.
 The groups were a little small (N=14) to justify a full statistical analysis.
 Mice in the Treatment group were much healthier and lively than those in the Control group.
-Conclusion
+
+## Conclusion
+
 Overall a good study, reported in detail, which showed a real effect by the DOR-buster on cancer affected mice.
 297) 174
 The DOR-Buster may 'excite' and 'shoot' energy into the atmosphere as well as 'draw' or ‘pull’.
@@ -1133,6 +1182,8 @@ Reich was adamant about affirming the baby's primary impulses, emphasised mother
 Reich anticipated the research on the infants need to make visual contact with the world.
 Reich also believed that many early illnesses were due to the weakening of the infants bio-energetic system through lack of contact for example in some pneumonias.
 Reich viewed the schizophrenic tendency as being instilled in the perinatal period - a clash between a strong energetic system and a disruptive environment. Essentially very early ocular armouring occurs immobilising the brain. Reich used many of the techniques Le Boyer subsequently advocated in his de-armouring of infants (gentle massage, tickling, closeness to mother, soft environment, soothing sounds).
+
+
 317) 107
 Reich viewed that mother-child contact was the primary process (in children’s therapy) before any other intervention.
 318) 3
@@ -1162,7 +1213,11 @@ Relationship between earth and moon may be mediated by an orgone envelope.
 An ORANUR social effect is queried. There appears to be a higher incidence of crime near Nuclear stations - quoting Hanks, G. (1975) Do Nuclear Plants Increase Violent Crimes Substantially?
 American Zoologist.
 324) 35
-Procedure for time-lapse micro-photography of Bions is described. Two to three pieces of moss or grass placed on a hanging drop slide, water added. Piece of wax placed under four corners of a cover slip which is placed over the slide to exclude air bubbles. Cover slip attached with paraffin to the two longer sides of the slide. One fourth of the slide cavity is not covered by the cover slip. Water is then pooled alongside the two sides not covered by the cover slip. Reservoirs replenished every two hours.
+Procedure for time-lapse micro-photography of Bions is described. Two to three pieces of moss or grass placed on a hanging drop slide, water added. Piece of wax placed under four corners of a cover slip which is placed over the slide to exclude air bubbles.
+
+Cover slip attached with paraffin to the two longer sides of the slide. One fourth of the slide cavity is not covered by the cover slip. Water is then pooled alongside the two sides not covered by the cover slip.
+
+Reservoirs replenished every two hours.
 Also see 556) for details of original technical equipment.
 325) 63
 
@@ -1178,7 +1233,9 @@ Cancer Mice - Orgonotic Functions in the Solunar Cycle.
 
 It was hypothesised that solunar peaks of activity would increase the intensity of the ORAC’s effects.
 Treatment in the solunar phases delayed acceptence of transplanted tumours. Although there were 38 mice in this study no statistical analysis was attempted. There were 14 in the ORAC solunar group and similar numbers in the ORAC non-solunar group and Control group.
-Results
+
+## Results
+
 Low levels of ORAC charging may worsen outcome and increase tumour size. It might be too weak a charge to stimulate immune system sufficiently.
 In both the solunar and non-solunar mice groups once acceptance of tumour was complete further charging increased tumour size. Blasband reported similar problems in medical DorBuster paper (1974).
 The study used transplanted tumours which is an artificial situation medically. Reich used spontaneously occurring tumours which did show an inhibition of tumour size throughout ORAC treatment. Perhaps investigation of a solunar effect is somewhat ambitious at this stage, however this study did show what appears to be an objective effect on tumours via the ORAC.
@@ -1231,7 +1288,9 @@ Orgone Experiment
 Orgone and Plants
 Lane
 Well written paper detailing the exposure of 4 groups of sixteen tomato seeds each. 3 orgone treatment groups and one control - a large number of groups but which did not however affect the final results.
-Results
+
+## Results
+
 Orgone treated plants had three times the yield than controls.
 Seedlings were planted out in ordinary garden soil which introduces an uncontrolled variable. Small groups. No statistical analysis, although there were obvious differences and this was an initial study.
 
@@ -1389,9 +1448,15 @@ Results show that ORAC charging may stimulate plant growth and fruit yield propo
 The orgone groups showed a large, 2-3 times increase compared to control, in all the variables measured. Good choice of variables. Numbers too small for statistical analysis.
 383) 72-87
 The Free School, NY. Founded 1969
-A lively and loving atmosphere of an extended, happy and value-creating family. Their is a great deal of healthy and lively 'contact'. Also emphasised is good food, fruit and physical health checks. 15 minute's loosening exercise including 'eyeblock' work every day. Turning around children who have been given up on and getting great results with children from deprived backgrounds. Still years ahead of its time now.
+A lively and loving atmosphere of an extended, happy and value-creating family. Their is a great deal of healthy and lively 'contact'. Also emphasised is good food, fruit and physical health checks. 15 minute's loosening exercise including 'eyeblock' work every day.
+
+Turning around children who have been given up on and getting great results with children from deprived backgrounds. Still years ahead of its time now.
 384) 117
-Freud was influenced by physiological studies such as those of Helmholtz and Meynert (neuropathology) and by hypnosis (Charcot, Liebault, Bernheim and Breur). Freud believed in a sexual origin of neurosis at this time. He based this on libido theory - emotional illness was caused by undischarged libido or sexual drive energy. This theory was acceptable until around 1926. From 1900 Freud had been steadily moving away from biological concepts-libido became a disembodied concept. In 1926 Freud formally rejected the libido/energetic concept of anxiety and argued instead that neurosis was coded into the psychic structure through the ego's reaction to danger signals. It thus moved from a bodily to a purely psychic basis. Reich came to psychoanalysis in 1919.
+Freud was influenced by physiological studies such as those of Helmholtz and Meynert (neuropathology) and by hypnosis (Charcot, Liebault, Bernheim and Breur). Freud believed in a sexual origin of neurosis at this time. He based this on libido theory - emotional illness was caused by undischarged libido or sexual drive energy.
+
+This theory was acceptable until around 1926. From 1900 Freud had been steadily moving away from biological concepts-libido became a disembodied concept. In 1926 Freud formally rejected the libido/energetic concept of anxiety and argued instead that neurosis was coded into the psychic structure through the ego's reaction to danger signals.
+
+It thus moved from a bodily to a purely psychic basis. Reich came to psychoanalysis in 1919.
 385) 25
 Reich argues in Cancer Biopathy that cancer is a problem of sexual sociology.
 My Notes:
@@ -1400,7 +1465,9 @@ pathological psychic states> armouring> energetic stagnation> www.leonsouthgate.
 386) 40
 Solar and lunar influences on ORAC To-T appear to be digitised or quantised.
 387) 111-112
-Around 1960 Fox and other scientists discovered that heating amino acids to high temperature and then placing them in boiling saline resulted in formation of 'proteinoid microspheres'. These exhibit life like properties-motility, budding, cleavage, growth, membrane selectivity and primitive proliferation. Two particles could form junctions (similar to Reich's radiating bridges). Fox believes that such protocells are precursors to cells and are the basic unit of life.
+Around 1960 Fox and other scientists discovered that heating amino acids to high temperature and then placing them in boiling saline resulted in formation of 'proteinoid microspheres'. These exhibit life like properties-motility, budding, cleavage, growth, membrane selectivity and primitive proliferation. Two particles could form junctions (similar to Reich's radiating bridges).
+
+Fox believes that such protocells are precursors to cells and are the basic unit of life.
 Makes no reference to Reich or bions.
 See International Society for the Study of the Origin of Life.
 Fox, S. and Dose, K. (1972) Molecular Evolution and the Origin of Life, USA, W. H. Freeman.
@@ -1427,7 +1494,11 @@ Shamanism would correspond to this in many regards.
 
 www.leonsouthgate.com
 Invention of Cloudbuster
-In 1952, there was a heavy DOR cloud at Orgonon following the oranur experiment. Reich remembered that when the orgone waves had first been seen above Lake Mooselookmeguntic in 1940 a metal tube had been used to assist viewing the waves. This tube seemed to affect the wave flow. Reich thought that metal tubes might be able to draw the DOR off. Knowing that DOR is very water hungry Reich connected the tubes to water. At first he used one pipe 3 inches in diameter and 15 feet long then 5 pipes 12 feet long earthed into a deep well. Baker was very struck by seeing five holes in an identical pattern being put into a cloud by the this device.
+In 1952, there was a heavy DOR cloud at Orgonon following the oranur experiment. Reich remembered that when the orgone waves had first been seen above Lake Mooselookmeguntic in 1940 a metal tube had been used to assist viewing the waves. This tube seemed to affect the wave flow.
+
+Reich thought that metal tubes might be able to draw the DOR off. Knowing that DOR is very water hungry Reich connected the tubes to water. At first he used one pipe 3 inches in diameter and 15 feet long then 5 pipes 12 feet long earthed into a deep well.
+
+Baker was very struck by seeing five holes in an identical pattern being put into a cloud by the this device.
 394) 73-74
 Superimposition creates quantised qualities consistent with the views of quantum physics.
 Courtney Baker views gravity as a mixture of energy streams carrying bodies along (Reich) and those bodies attracting orgone and having therefore an inherent attraction similar to the mass based attraction of classical physics (Baker).
@@ -1475,7 +1546,10 @@ Every movement of orgone creates more excitation in the field and leads to new m
 403) 69
 Orgone astrophysics assumes every solar system is spinning in motion.
 404) 74-75
-Reich’s gravity theories- Reich replaced the classical mass-attraction gravity theory with the ‘superimpositional streams of energy’ theory (that objects are carried along by superimposing streams of orgone energy). However most orgonomic students have modified Reich’s arguments and see both propositions as being true as increased mass would have increased orgone and thus a greater attraction to other orgone-associated mass. C. Baker argues that although recent experiments have shown gravity to be proportional to mass the orgone argument could still hold true as the causative factor rather than the inert mass with which the orgone is associated. He states one need only assume a certain degree of primary energy function is associated with mass in order to preserve Newton’s laws.
+Reich’s gravity theories- Reich replaced the classical mass-attraction gravity theory with the ‘superimpositional streams of energy’ theory (that objects are carried along by superimposing streams of orgone energy). However most orgonomic students have modified Reich’s arguments and see both propositions as being true as increased mass would have increased orgone and thus a greater attraction to other orgone-associated mass. C.
+
+
+Baker argues that although recent experiments have shown gravity to be proportional to mass the orgone argument could still hold true as the causative factor rather than the inert mass with which the orgone is associated. He states one need only assume a certain degree of primary energy function is associated with mass in order to preserve Newton’s laws.
 405) 92
 Reich felt he discovered the armouring before he became a psychiatrist. He describes the feeling of encountering a ‘wall’ within people.
 406) 92-93
@@ -1618,7 +1692,11 @@ Constancy of the solar wind.
 
 Jeurgens argues that the sun is consistent with an entity which condenses energy from outside.
 Jupiter radiates more heat than it receives -57.
-Interesting criticism of relativity theory and other theories - notes that although special relativity has had some predictive success this indicates there is a physical basis for the observed phenomena. It is argued that relativity theory is an abstract theory more suited to gravitational theory. Itis argued that the physical basis for this theory - the bending of starlight - can have other alternate explanations such as the oblateness of the sun. Physical measurements show a surprising amount of scatter. The suthor argues that electromagnetic energy is a wave motion in a medium - which has now been shown to exist and that Maxwell assumed a medium in calculating the speed of light. Additionally the Michelson-Morley experiment is not of good quality and was conducted in the wrong environment.
+Interesting criticism of relativity theory and other theories - notes that although special relativity has had some predictive success this indicates there is a physical basis for the observed phenomena. It is argued that relativity theory is an abstract theory more suited to gravitational theory. Itis argued that the physical basis for this theory - the bending of starlight - can have other alternate explanations such as the oblateness of the sun.
+
+
+Physical measurements show a surprising amount of scatter. The suthor argues that electromagnetic energy is a wave motion in a medium - which has now been shown to exist and that Maxwell assumed a medium in calculating the speed of light. Additionally the Michelson-Morley experiment is not of good quality and was conducted in the wrong environment.
+
 The kind of ether that experimenters were looking for was wrong, the ether is not static.
 The red shift is not uniform and has led to incorrect assumptions about the universe, there is no reason to assume a big bang - 50.
 442) 72
@@ -1642,7 +1720,11 @@ Psychic inhibition means that genital excitation cannot be completely discharged
 446) 145
 Reich elucidated the concept of social psychiatry in 'People in Trouble' and 'The Murder of Christ'.
 447) 145
-Reich saw Einstein on Jan 13th 1941. Einstein was particularly interested in the temp differential To-T and promised his cooperation. He wrote to Reich on Feb 7th 1941 saying his assistant had stated that convection currents could account for the temp difference. Reich conducted two control experiments to counter this objection one conducted outdoors, the other with a box with similar properties to the ORAC. Einstein never replied to any further contact from Reich. In the NY Times of March 17th 1950 George Drew, a Canadian politician raised concerns about Einstein's assistant Dr Infeld returning to teach in Poland as he had knowledge of atomic secrets and was a communist sympathiser (he had stated that communist governments were 'progressive' and wished to teach in communist controlled universities, he came to Canada and the USA as a refugee.
+Reich saw Einstein on Jan 13th 1941. Einstein was particularly interested in the temp differential To-T and promised his cooperation. He wrote to Reich on Feb 7th 1941 saying his assistant had stated that convection currents could account for the temp difference.
+
+Reich conducted two control experiments to counter this objection one conducted outdoors, the other with a box with similar properties to the ORAC. Einstein never replied to any further contact from Reich. In the NY Times of March 17th 1950 George Drew, a Canadian politician raised concerns about Einstein's assistant Dr Infeld returning to teach in Poland as he had knowledge of atomic secrets and was a communist sympathiser (he had stated that communist governments were 'progressive' and wished to teach in communist controlled universities, he came to Canada and the USA as a refugee.
+
+
 Reich thought that the assistant Eintein referred to may have been Dr Infeld.
 448) 149
 Mr Green, an attorney working for Reich for a while stated he had heard that the pharmaceutical companies were afraid the accumulators might interfere with the sale of their products.
@@ -1670,8 +1752,14 @@ Gravitational pull seemed to increase, making it difficult to pick ones feet off
 453) 161
 FDA Mouse Test
 Dr William Murray of the Jackson Memorial Lab in Bar Harbor, Maine was employed by the FDA to conduct their mouse experiments in 1953. Murray was an administrative head. He took no part in conducting the actual experiments. An assistant with little formal training did the actual lab work with the mice. Dr Murray had no contact with the actual practical handling of the experiment.
-There were two mice types, spontaneous tumours, a strain of DBA mice and tumour transplanted mice. At the time of this report twice as many experimental mice as controls had died (20 experimental, 10 control). Some of the tumours were less compact in the experimental group (as noticed by the assistant). Two Xray machines were sited within 100 feet of the mice making this an ORANUR test in direct contravention of Reich's experimental requirements. Still their experiment supports the ORAC's having a real effect - a negative one, possibly due to the Xrays nearby. The Xrays were run regularly at 4000 roentgens.
-The informant (Dr Blasband as a medical student) suspected that the orgone therapy was not even started until the tumours were far progressed (and then probably averaging half an hour treatment a day or less). Murray was only interested in inspecting the experimental data after the experiment was conducted in his absence. He admitted not reading any of the material on Reich's work the FDA sent him. He was told about the Xray and orgone effect and ignored it or did not comprehend it.
+There were two mice types, spontaneous tumours, a strain of DBA mice and tumour transplanted mice. At the time of this report twice as many experimental mice as controls had died (20 experimental, 10 control). Some of the tumours were less compact in the experimental group (as noticed by the assistant).
+
+Two Xray machines were sited within 100 feet of the mice making this an ORANUR test in direct contravention of Reich's experimental requirements. Still their experiment supports the ORAC's having a real effect - a negative one, possibly due to the Xrays nearby. The Xrays were run regularly at 4000 roentgens.
+
+The informant (Dr Blasband as a medical student) suspected that the orgone therapy was not even started until the tumours were far progressed (and then probably averaging half an hour treatment a day or less). Murray was only interested in inspecting the experimental data after the experiment was conducted in his absence. He admitted not reading any of the material on Reich's work the FDA sent him.
+
+
+He was told about the Xray and orgone effect and ignored it or did not comprehend it.
 
 www.leonsouthgate.com
 454) 171
@@ -1689,7 +1777,10 @@ Orgone Therapy and Repetitive behaviours
 Very interesting case illustrating how people repeat their early experiences, but this time from an orgonomic perspective.
 The patient is unusual - a very high energy depressive. He had a 'doormat' mother and an aggressive father. He ruthlessly suppressed his own energy field in order to survive. He chose two wives who treated him badly (taking on the role of his mother) but who also 'dampened' his energy field (the second very literally). Orgone treatment enables him to completely turn around his life.
 456) 192
-Many groups forming in France, Italy and elsewhere claiming to be 'Reichian'. 'Reichian therapists' spring up in Italy. Many of the Reichian groups are leftist and the French group LOG in particular misreads Reich's book and ignores Reich's rejection of collectivism and socialism. The JO is very critical of the European Reichian groups seeing most as a mix and match soup of 'Reichian' ideas and bio-energetic modalities. The JO believes such groups make desperate attempts to overcome their own contactlessness (208).
+Many groups forming in France, Italy and elsewhere claiming to be 'Reichian'. 'Reichian therapists' spring up in Italy. Many of the Reichian groups are leftist and the French group LOG in particular misreads Reich's book and ignores Reich's rejection of collectivism and socialism. The JO is very critical of the European Reichian groups seeing most as a mix and match soup of 'Reichian' ideas and bio-energetic modalities.
+
+
+The JO believes such groups make desperate attempts to overcome their own contactlessness (208).
 457) 211
 People today have no conception of what is good or evil, or what is health-they can see raving madness or a carcinoma, but lack any awareness of emotional barrenness, resignation, or the existence of a shrinking biopathy.
 458) 211
@@ -1754,7 +1845,9 @@ Seiler, H.
 www.leonsouthgate.com
 (To-T: Temperature Orgone Box versus Temperature Control Box).
 Well controlled vigorous experiment, well reported.
-Paper reported on approximately 1000 readings in two series over a year in an industrialised area of Switzerland. Experiments carried out outdoors. Well thought out control and experimental set up eliminated most mechanical objections including any thermal lag between ORAC and controls. By improving the set up - providing glass covers for the boxes, no negative To-T was seen in the second series (negative To-T can be due to pollution or DOR). A positive To-T (greater than 0.1c difference) was seen for 92% of the time in the first series and for 99.6% in the second series.
+Paper reported on approximately 1000 readings in two series over a year in an industrialised area of Switzerland. Experiments carried out outdoors. Well thought out control and experimental set up eliminated most mechanical objections including any thermal lag between ORAC and controls.
+
+By improving the set up - providing glass covers for the boxes, no negative To-T was seen in the second series (negative To-T can be due to pollution or DOR). A positive To-T (greater than 0.1c difference) was seen for 92% of the time in the first series and for 99.6% in the second series.
 In additional experiments, pyramid and other shaped ORACs were used - no extra effect noted. A heat absorbent black box control was tried - black box absorbed but did not retain a heat gradient such as seen in the ORAC.
 468) 191
 
@@ -1790,7 +1883,9 @@ Reich's concept of an innate, natural and spontaneous morality.
 Reich talks of orgonomy in terms of 'laws'. Central object of research in orgonomy is elucidation of the 'basic natural law'.
 476) 30
 Summary of why Reich did not fight the FDA case from the beginning;
-Reich's basic position was that 30 years of published research had made no impression on the administration. Also It was against USA interests for some of his discoveries to be disclosed in court and that the FDA's intention was merely to stop future work by endless legal entanglements. His other point was that natural scientific law and investigation should be outside judicial remit. Lastly he was willing to risk legal enjoinment of his activities as he had already accomplished his goal - sharing and disseminating his discoveries throughout the world.
+Reich's basic position was that 30 years of published research had made no impression on the administration. Also It was against USA interests for some of his discoveries to be disclosed in court and that the FDA's intention was merely to stop future work by endless legal entanglements. His other point was that natural scientific law and investigation should be outside judicial remit.
+
+Lastly he was willing to risk legal enjoinment of his activities as he had already accomplished his goal - sharing and disseminating his discoveries throughout the world.
 A last factor weighing on Reich's mind was that he believed the case was stacked against him. The FDA case against him was technically worthless but high powered testimonials would be used and the court would go with this rather than the facts.
 477) 33/38
 Reich had a naive optimism in his 'Response' document that he lodged with the judge when he originally did not attend court. When Reich refused to allow a court of law to judge his scientific work an all-inclusive injunction was issued against him on March 19th 1954. This made it illegal for Reich to talk of orgone energy or write about it. It made it dangerous for others to do so (38).
@@ -1865,7 +1960,9 @@ Reich & Freud
 Freud's first paradigm failure was that ‘making the unconscious conscious’ would affect a transition toward health. It was from this that the death instinct theory eventually arose. This was the consequence of rejecting the earlier, energetic and economic view that sexual libido is damned up in the neurotic.
 492) 97
 Reich & Freud
-Freud felt that Josef Breuer was partially the father of psychoanalysis. This was until Josef rejected such parenthood and particularly the theory of infantile sexuality. This led Freud to realise the originality of his paradigm. Freud also thought at this time that genital function disturbances in adults could cause some neurosis. (Freud, unlike Reich, thought that sexuality should be expanded from the genital).
+Freud felt that Josef Breuer was partially the father of psychoanalysis. This was until Josef rejected such parenthood and particularly the theory of infantile sexuality. This led Freud to realise the originality of his paradigm.
+
+Freud also thought at this time that genital function disturbances in adults could cause some neurosis. (Freud, unlike Reich, thought that sexuality should be expanded from the genital).
 Reich's work expanded on Freud's libido, sexual economic and resistance theories but eventually Reich too had to confront the fact that he had entered a wholly new paradigm. Resistance analysis became Character Analysis and libido theory became orgasm theory which led directly to the discovery of an energy which, if real, would connect the emotions directly to the somatic.
 Also Breuer emphasised catharsis more than Freud. Perhaps Reich's emphasis on catharsis reminded the aging Freud of his own rejection by Breuer (FN 101).
 In 1928 Freud told a young admirer that the real Freud is dead. This echoes what Reich said about Freud's latter resignation.
@@ -1930,7 +2027,9 @@ Reich ‘resorts’ to publishing case histories that show results in ‘inordin
 Also note that later the FDA omitted mention of the case histories, published by Reich, which showed negative or ambiguous results.
 511) 175
 FDA
-The FDA knew about Reich’s statement as to the antagonism of orgone and X-rays/radioactive materials. They use this as a criticism in their original ‘complaint’. They state that orgone doesn’t exist therefore it is fraudulent to say it will interact negatively with X-rays and radioactive materials. Later in their tests there seemed to be X-rays and radioactive materials near to wherever the FDA kept ORACs for testing (rendering their poorly designed tests completely invalid).
+The FDA knew about Reich’s statement as to the antagonism of orgone and X-rays/radioactive materials. They use this as a criticism in their original ‘complaint’. They state that orgone doesn’t exist therefore it is fraudulent to say it will interact negatively with X-rays and radioactive materials.
+
+Later in their tests there seemed to be X-rays and radioactive materials near to wherever the FDA kept ORACs for testing (rendering their poorly designed tests completely invalid).
 512) 168-174
 FDA
 Extract from the FDA’s original complaint.
@@ -1951,14 +2050,21 @@ Baker, Dew, Ganz and Lance.
 Paper examined the microscope part of the RBT only - the disintegration rates of Red Blood Cells (RBCs). The autoclavation and blood culture aspects of the RBT were not examined.
 The RBT test was developed from Reich’s understanding that each RBC is an independent orgone energy vesicle, which mirrors the health of the whole - 184. It is a test of energetic vitality.
 The paper is a well written, academic writing. It outlines in detail a workable protocol for examining the microscope part of the RBT. It is scientifically thought out and parameters are well controlled for reproducibility and reliability of the results. The main parameter examined statistically is the 1% time.
-This is the time taken for the RBC to begin bionous disintegration (breakdown of the cell into the smaller vesicles termed bions in orgonomy). The parameter is well standardised in the protocols. The 1% time is derived by examining the bionous breakdown rate at even intervals and then extrapolating backwards to the beginning of the process - out of 100 cells the 1% breakdown would be equivalent to when the first cell starting breaking down. Breakdown rates have changed significantly since Reich's time which is possibly due to the oranur overcharge of our current atmosphere.
+This is the time taken for the RBC to begin bionous disintegration (breakdown of the cell into the smaller vesicles termed bions in orgonomy). The parameter is well standardised in the protocols. The 1% time is derived by examining the bionous breakdown rate at even intervals and then extrapolating backwards to the beginning of the process - out of 100 cells the 1% breakdown would be equivalent to when the first cell starting breaking down.
+
+
+Breakdown rates have changed significantly since Reich's time which is possibly due to the oranur overcharge of our current atmosphere.
 In the report 26 patients from 3 groups - normals (11) borderlines (5) and pathological (10) had their RBT’s examined.
-Results - All normals had positive 1% times, all borderlines (except 1) had positive 1%’s. All pathologics had negative 1%’s (except one). The exceptions had classified into their groups due to clinical diagnosis but were doing well on observation, the test was therefore still 100% accurate energetically it appears - 215. The median average score for the normals was +47.6 and for the pathologics was –47.2.
+Results - All normals had positive 1% times, all borderlines (except 1) had positive 1%’s. All pathologics had negative 1%’s (except one). The exceptions had classified into their groups due to clinical diagnosis but were doing well on observation, the test was therefore still 100% accurate energetically it appears - 215.
+
+The median average score for the normals was +47.6 and for the pathologics was –47.2.
 
 ## Statistical Tests
 
 A one-tailed T-Test was carried out between the normals and pathologics which showed that the difference between then two groups was highly statistically significant, to a confidence level of P=0.01.
-Conclusion
+
+## Conclusion
+
 A solid experiment supports the validity of the Reich Blood Test.
 
 ## Other Notes
@@ -1972,7 +2078,9 @@ Reich ignored his own advice - that sometimes one has to use the methods of the 
 517) 244
 Synopsis of JO Review
 Talese, G. (1980) Thy Neighbours Wife, NY, Dell Publishing.
-Talese offers an extended review of sexuality to the ‘revolution’ of the 60’s. He links Reich’s concepts of genitality to a prurient ‘make love, not war’ ethos of 1960 students. Reich’s sexual ideas are, due to Talese’s own character, wrongly associated with the liberal left and the anything-goes sexual liberalisation of the 60’s. Neo-Reichians such as represented by the Esalen Institute are not distinguished from serious students of orgonomy.
+Talese offers an extended review of sexuality to the ‘revolution’ of the 60’s. He links Reich’s concepts of genitality to a prurient ‘make love, not war’ ethos of 1960 students. Reich’s sexual ideas are, due to Talese’s own character, wrongly associated with the liberal left and the anything-goes sexual liberalisation of the 60’s.
+
+Neo-Reichians such as represented by the Esalen Institute are not distinguished from serious students of orgonomy.
 Talese may have started the widely re-quoted myth that Reich was a victim of McCarthyist communist witch-hunts. Reich was rather a victim of the communists and their friends in bureaucracy and big business. Reich’s persecutors began their campaigns in the late 1940’s, before McCarthy’s era.
 518) 245
 Calfornian Neo-Reichians in the 1970/80s Includes a commune of ‘Reichian’ homosexuals, an armed radical ‘Reichian’ - Marxist group, numerous bio-energetic courses offered and practitioners using ‘Reich’ as part of their armoury of treatments.
@@ -2036,7 +2144,10 @@ The FBI gave up their case - it appeared obvious Reich was not an active communi
 The FBI and the INS could not substantiate their claims. The INS continued to attempt to find a reason to deport Reich for 8 years.
 The FDA's original complaint was pornographic in its overtone and centred on Reich being a sex-cult leader. This was so obviously off the mark that they gave up the case only to reopen it years later on charges of the ORAC being fraudulent.
 529) 230-231
-Freud was one of the few neurologists who presented cogent arguments against the exclusive localisation of mental/psychic phenomena within the structure of the cerebral cortex. Konia quotes Freud from 'On Aphasia, A Critical Study’ and notes that Freud had the insight to recognise the common practise of confusing a cellular or other physical process with a mental process. They cannot be substituted for each other. The one can mirror the other but they are not the same.
+Freud was one of the few neurologists who presented cogent arguments against the exclusive localisation of mental/psychic phenomena within the structure of the cerebral cortex. Konia quotes Freud from 'On Aphasia, A Critical Study’ and notes that Freud had the insight to recognise the common practise of confusing a cellular or other physical process with a mental process. They cannot be substituted for each other.
+
+
+The one can mirror the other but they are not the same.
 530) 232
 A speech disturbance results from a disturbance of the unitary speech function. Konia considers the speech centres of the left cortical hemisphere as a continuous part of an energetic flow that results in speech.
 531) 233
@@ -2090,7 +2201,9 @@ A bio-electric current - outward from core to periphery or inward from periphery
 Biological Orgone energy is posited as the Common Functioning Principle (CFP) of the two Variations; Psyche and Soma.
 Psyche and Soma are not identical in themselves only identical with respect to a deeper function.
 Reich identifies this deeper function with the underlying orgone field.
-Reich also discovered the schizophrenic split - when perception and biological excitation lead separate existences. There is a disintegration of conscious psychic functions. Physically there is a severe armouring of the brain with insufficient armouring of the body. The schizophrenic experiences himself as many separate parts and not holistically. The patient’s ‘currents’ and other organ sensations are perceived as coming from outside himself.
+Reich also discovered the schizophrenic split - when perception and biological excitation lead separate existences. There is a disintegration of conscious psychic functions. Physically there is a severe armouring of the brain with insufficient armouring of the body.
+
+The schizophrenic experiences himself as many separate parts and not holistically. The patient’s ‘currents’ and other organ sensations are perceived as coming from outside himself.
 Reich’s Final Period
 Beginning about 1947.
 Reich elucidated three flows of orgone, the cosmic energy flow. This splits off into the bio-energetic flow (by capturing orgone into a membrane). From this arises part-perception or plasmatic perception.
@@ -2101,7 +2214,9 @@ Natural Processes as the CFP of the variations:
 2) Subjective Reasoning on the Basis of Orgonotic Self Perception.
 
 www.leonsouthgate.com
-Konia describes bions (pre-cellular entities discovered by Reich) as non-living systems. He says we can’t assume that perception exists at these levels of organisation. (This would seem to contradict Reich’s ideas that all living plasma perceives). He then states perception must exist even at protozoal level as perception and excitation of plasmatic matter is inseparable. He gives 5 characteristics of plasma movement and perception:
+Konia describes bions (pre-cellular entities discovered by Reich) as non-living systems. He says we can’t assume that perception exists at these levels of organisation. (This would seem to contradict Reich’s ideas that all living plasma perceives). He then states perception must exist even at protozoal level as perception and excitation of plasmatic matter is inseparable.
+
+He gives 5 characteristics of plasma movement and perception:
 1) Movement confined in a membrane.
 2) Spontaneous movement.
 3) Relatively slow.
@@ -2112,7 +2227,9 @@ Functionalism (which Konia refers to as an essential means of understanding cons
 539) 106
 JO Review of Biography of A.S. Neill
 Croall (1983) Neill of Summerhill - The Permanent Rebel, NY, Pantheon.
-Reviewer states the work lacks depth because of superficial treatment of Reich’s influence on Neill’s life. Reich painted as paranoid because Neill picked up on Reich’s dislike of crude jokes. Biographer crudely dismisses Reich’s scientific work but does recognise the cathartic effect on Neill’s memory of his therapy with Reich. Also notes that Neill’s first autobiography could not have been written without Reich’s influence.
+Reviewer states the work lacks depth because of superficial treatment of Reich’s influence on Neill’s life. Reich painted as paranoid because Neill picked up on Reich’s dislike of crude jokes. Biographer crudely dismisses Reich’s scientific work but does recognise the cathartic effect on Neill’s memory of his therapy with Reich.
+
+Also notes that Neill’s first autobiography could not have been written without Reich’s influence.
 
 ## Jo V18 N2 1984
 
@@ -2157,7 +2274,10 @@ In all the experimental sets the procedure may have been complicated by setting 
 ## Experiment 2
 
 Transplanted tumours (injected tumour pulp). 16 mice split into 3 groups - 8 controls plus 2 groups of Orgone treatment (ORAC group T1, Stronger ORAC group T2).
-The tumours were allowed to set in for a week to ten days. Statistically significant results in tumour size were reported. The mice in the T1 group had much larger tumours than those in the T2 and the www.leonsouthgate.com Control group. T2 and Control group were not different in tumour size. No longevity differences between any of the groups Many groups were used with a small number of subjects. The tumours being allowed to set in may have added another variable.
+The tumours were allowed to set in for a week to ten days. Statistically significant results in tumour size were reported. The mice in the T1 group had much larger tumours than those in the T2 and the www.leonsouthgate.com Control group.
+
+T2 and Control group were not different in tumour size. No longevity differences between any of the groups Many groups were used with a small number of subjects. The tumours being allowed to set in may have added another variable.
+
 Weather was quite good, a few DORish days. The additional ORAC used in T2 group, Experiment 2, may have been contaminated by previous studies (oranised) state the authors. (Oranur is an overcharged energy resulting from orgone being exposed to ionising radiation). Experiment 2's results may therefore be unreliable.
 
 ## Experiment 3
@@ -2179,10 +2299,14 @@ Median average lifespan of the orgone mice was 11 weeks, approximately 1/3 longe
 549) 161
 FDA Trial
 Dirty Tricks & the Psychiatric Assessment
-Dr Hubbard a consultant psychiatrist for Danbury federal prison, Connecticut, examined Reich. In a report dated March 28th 1957 he stated that Reich, although having most of his personality intact had paranoid ideation and delusions of grandiosity and persecution. He thought Reich had enough psychotic thinking to perhaps warrant a label of paranoid schizophrenic. Reich should not therefore stand accused of any crime and should be treated in a mental institute. He thought Silvert would 'recover' away from Reich's influence.
+Dr Hubbard a consultant psychiatrist for Danbury federal prison, Connecticut, examined Reich. In a report dated March 28th 1957 he stated that Reich, although having most of his personality intact had paranoid ideation and delusions of grandiosity and persecution. He thought Reich had enough psychotic thinking to perhaps warrant a label of paranoid schizophrenic.
+
+Reich should not therefore stand accused of any crime and should be treated in a mental institute. He thought Silvert would 'recover' away from Reich's influence.
 
 www.leonsouthgate.com
-Reich was then transferred to Lewisburg prison Pennsylvania. It was here he was examined by Lacovara, Senior surgeon and chief of psychiatric service at the prison. Here they stated that although Reich has bizarre ideation he is capable of distinguishing right from wrong and acting accordingly and his personality is essentially intact. They covered themselves by saying yes he could break down psychotically under stress. Thus they overturned Hubbard's diagnosis and found Reich legally sane.
+Reich was then transferred to Lewisburg prison Pennsylvania. It was here he was examined by Lacovara, Senior surgeon and chief of psychiatric service at the prison. Here they stated that although Reich has bizarre ideation he is capable of distinguishing right from wrong and acting accordingly and his personality is essentially intact.
+
+They covered themselves by saying yes he could break down psychotically under stress. Thus they overturned Hubbard's diagnosis and found Reich legally sane.
 Dr Hubbard, Baker reports, was upset by this and phoned Lewisburg where he was told that essentially they agreed with his diagnosis but they wanted to avoid a re-litigation.
 550) 162
 Prison - Reich did not mention his heart condition. However the prison hospital examination found a harsh systolic murmour - nothing was done about this and no ECG was done. This was a complete neglect of duty.
@@ -2190,7 +2314,9 @@ Prison - Reich did not mention his heart condition. However the prison hospital 
 Reich stated that his main reason for not fighting the FDA in court was to establish the principle that basic research must remain free of commercial or political interests. Reich believed that in principle, and from the historical perspective, he had won his case. (Reich’s main concern was the transmission of his discoveries to the world). From Prison statement.
 552) 163
 Prison and Stolen Books
-Reich wrote two books in prison, 'Poems and Prayers' which he gave to Aurora. The other was called either 'Creation' or 'The Silent Observer'. Baker states that Reich gave this last one to the prison psychologist and it has since never been located. Reich was also close to the protestant chaplain at this time so could have entrusted work to him though this is not specified. He spent much time in the library where he read Emerson's Essays and a biography of Lincoln. (Lewisburg Prison, Pennsylvania, 1957).
+Reich wrote two books in prison, 'Poems and Prayers' which he gave to Aurora. The other was called either 'Creation' or 'The Silent Observer'. Baker states that Reich gave this last one to the prison psychologist and it has since never been located.
+
+Reich was also close to the protestant chaplain at this time so could have entrusted work to him though this is not specified. He spent much time in the library where he read Emerson's Essays and a biography of Lincoln. (Lewisburg Prison, Pennsylvania, 1957).
 553) 164
 A cloudbusting 'gun' used in US sci-fi film 'Earth Vs Flying Saucers', presumably 1957.
 554) 166
@@ -2232,7 +2358,9 @@ www.leonsouthgate.com
 Love is an expression of full contact - Konia.
 562) 232
 Perception & Armouring
-In general there is a rigidity of perception, sometimes a perceptual intolerance in schizophrenics Masochism - intolerance of biological charge/fear of 'bursting'. Other person who inflicts the pain becomes responsible for the release, freeing the sufferer of responsibility. Double bind - the person dreads orgastic discharge as to him it is annihilation - but - he desires it too. He therefore demands someone else obtain relief for him.
+In general there is a rigidity of perception, sometimes a perceptual intolerance in schizophrenics Masochism - intolerance of biological charge/fear of 'bursting'. Other person who inflicts the pain becomes responsible for the release, freeing the sufferer of responsibility. Double bind - the person dreads orgastic discharge as to him it is annihilation - but - he desires it too.
+
+He therefore demands someone else obtain relief for him.
 Ideas of death - cloaked orgasm wishes (melting) and pleasurable release.
 Ideas of falling - armoured perception of energy moving to core or in lower segments.
 Ideas of drowning - cervical armouring.
@@ -2246,7 +2374,9 @@ JO Review:
 Jacoby, R. (1983) The Repression of Psychoanalysis, NY, Basic Books.
 An examination of the second generation of analysts and their role in the suppression of psychoanalysis as an agent of social change.
 Jacoby is generally accurate in his historical details and sympathetic to Reich's contributions.
-Concentrates on Fenichel and others but does review Reich's influence on Fenichel and other prominent psychoanalysts. Fenichel battled to preserve classical analysis from a sublimation which eroded its social and sexual roles in the US. He believed Reich went too far toward a biological sexual reductionism. Jacoby notes the radical beginnings of Edith Jacobson and Annie Reich. Jacoby terms Reich's scientific work as mystical.
+Concentrates on Fenichel and others but does review Reich's influence on Fenichel and other prominent psychoanalysts. Fenichel battled to preserve classical analysis from a sublimation which eroded its social and sexual roles in the US. He believed Reich went too far toward a biological sexual reductionism.
+
+Jacoby notes the radical beginnings of Edith Jacobson and Annie Reich. Jacoby terms Reich's scientific work as mystical.
 Fenichel rejected the bioelectrical work of Reich and urged the Marxist analysts to 'silently reject' it.
 565) 252
 ACO Activities in early 1980’s.
@@ -2270,7 +2400,9 @@ Dor-buster (DB) and Seedlings Blasband, R.
 Well reported and conducted study. Experiments examining different types of DB set-up on the growth of seedlings were reported.
 The procedure was complex with quite a few experimental groups (6 experimental groups with 20 seedlings each, 5 types of DB treatment employed, 1 control group of 20 seedlings for each DB experiment).
 Statistics reported - Median averages, Standard Deviation's and Confidence Intervals (C.I.) reported.
-Results
+
+## Results
+
 The DB had a statistically significant influence on the growth of plants with a C.I. of P = 0.03.
 569) 231
 Cosmos
@@ -2433,6 +2565,8 @@ Dry air, dusty haze and fogs over seas, scorched land with fog above it and El N
 Physics
 The well known Michelson and Morley interferometer (light measurement) experiment, showed a fringe shift of 0.004 to 0.015 of a fringe width. The predicted value was 0.04. As Miller pointed out relativity theory requires a completely null result. The displacement values, though small, occurred in a systematic manner and the values plotted a sine curve (indicating a real effect).
 The Michelson and Morley experiment indicated that static aether may need revising as a concept but it did not dismiss aether either - contrary to what is widely (mis)reported of this short experiment pp49. The experiment was conducted in a least suitable environment for detecting an earth-entrained possibly moving aether (a basement). The metal shielding used around equipment might also reflect aether from an orgonomic viewpoint (Miller suspected this effect and controlled for it).
+
+
 On the other hand, Miller's well-controlled and extensively repeated interferometer work suggested a dynamic streamed aether which moves faster than the earth’s rotation - pp51.
 
 ## Orgone physics
@@ -2467,6 +2601,8 @@ By October 1988 Demeo had worked in over 30 different Cloudbusting operations. 5
 596) 130-131
 Criticism
 Gardner, M. (1952) Fads and Fallacies in the Name of Science, NY (first published 1952 under a different title.) Gardner is one of the most vehement published critics of Reich and is a CSICOP member. Most of his criticism is personal diatribe and invective and not worth answering academically, however he makes one argument, that no one outside of 'orgonomy circles' has ever confirmed any of Reich's findings-presumably confirming Reich's work puts a scientist within the circle he criticises. However, Demeo lists and briefly describes those whose work independently supports the orgone concept;
+
+
 Miller, Arp, Piccardi, Brown, Burr, Alfven, Moss, Nordenstrom, Kevran, Becker and Sheldrake.
 Of these researchers only Moss mentions orgone at all.
 597) 81
@@ -2522,7 +2658,9 @@ FDA reference, Lion, K. 'Investigations on the Orgone Accumulator’, FDA docume
 Can only be described as an appallingly awful unscientific sham. FDA have kept no original data.
 Graphs are eligible, no way of finding absolute data from the graphs as the scales are missing. The only measurements taken appeared to be done at random intervals. There appeared to be random extreme temperature fluctuations - doors appeared to be opened at various intervals.
 The environment was mildly radioactive according to Dr Lion's own reports elsewhere. Lion himself wore a radium glow wristwatch which yielded high CPM's (Geiger Muller Machine, Counts Per Minute). The background count of his lab, according to Dr Lion, was between 40 and 70 CPM suggesting low level radioactive contamination.
-The actual orgone test was conducted during winter-the worst time possible. His son recalls that Dr Lion was called upon to 'prove Dr Reich....a fake', in other words, not to investigate scientifically. The FDA either never had or have lost any legible data with absolute values on them. Dr Lion's family destroyed Dr Lion's notes upon his death. It is known that the graph lines of the ORAC, control and room temperature repeatedly cross each other suggesting a poorly conducted 'experiment'.
+The actual orgone test was conducted during winter-the worst time possible. His son recalls that Dr Lion was called upon to 'prove Dr Reich....a fake', in other words, not to investigate scientifically. The FDA either never had or have lost any legible data with absolute values on them.
+
+Dr Lion's family destroyed Dr Lion's notes upon his death. It is known that the graph lines of the ORAC, control and room temperature repeatedly cross each other suggesting a poorly conducted 'experiment'.
 609) 242
 It is the schitzophrenic's inability to make prolonged contact that stops a 'transference' taking place thus rendering traditional analysis difficult.
 
@@ -2659,6 +2797,8 @@ Emotions-Ideas
 Children
 Koopman, B.
 Very good case history. 2.5 yr old traumatised child with small amount brain damage and severe developmental difficulties (isolating, speech and behaviour problems). Done extremely well in short space of time, facilitated starting speech therapy. Orgonomic mobilisation of his jaw-and release of the rage he was holding there started a blossoming process that gave good results very quickly despite neurological deficits.
+
+
 637) 68
 Emotional plague
 Emotional Plague results in powerful structural compulsions often along the lines of the following;
@@ -2786,7 +2926,10 @@ OROP
 Dry lightning storm, 10,000 strikes created many fires very quickly. Authors wonder if this was an 'oranur discharge' - an attempt of the environment to discharge excess energy. During the OROP dark clouds and fog appear around the Cloudbuster. The day after the OROP thick clouds appear where before there was none. Major increase in humidity and decrease in temperature noted.
 However no rain in phases 1 or 2 of the OROP. In next phase fog dissipated immediately around the Cloudbuster. Rains started with the clouds directly over the Cloudbusters. The drought was eventually broken by taking energy out of the high pressure systems. This was done during a period of EL Nino associated high sea temperatures.
 666) 56-61
-Discoveries of Reich and perinatal/childcare Oral orgasm Importance of ocular contact Tissue Pulsation Constitutional orgonity 57-Synopsis of perinatal and infant work in ACO. Following Reich's initial efforts to study infants from an orgonomic viewpoint the ACO setting up a working group of physicians. They would establish contact and trust with the family pre-natally. The child would then be followed through for a year. The emotional and energetic relationships, armouring patterns and orgasm reflex were of interest especially. Two cases are presented which demonstrated the relationship between maternal armouring and delivery.
+Discoveries of Reich and perinatal/childcare Oral orgasm Importance of ocular contact Tissue Pulsation Constitutional orgonity 57-Synopsis of perinatal and infant work in ACO. Following Reich's initial efforts to study infants from an orgonomic viewpoint the ACO setting up a working group of physicians. They would establish contact and trust with the family pre-natally.
+
+The child would then be followed through for a year. The emotional and energetic relationships, armouring patterns and orgasm reflex were of interest especially. Two cases are presented which demonstrated the relationship between maternal armouring and delivery.
+
 Reich's paper on armouring in newborn in response to its mother (Armoring in the Newborn Infant,
 
 ## Oeb, 3, 2, 1951).
@@ -2808,6 +2951,8 @@ Study 1 showed a statistically significant effect at decreasing tumour size amon
 
 In both studies the mice were implanted with tumours (this strain develops cancer spontaneously if left to age but in this experiment they were inoculated).
 Numbers were 9 in first experiment series and 8 in the second (split into orgone versus control groups). There were changes from study 1 to study 2 in terms of the parameters measured (lifespan not reported in first series, water intake and weight recorded in second series). The study methods were not yet standardised between the two experimental series especially distance from the irradiating device.
+
+
 A very interesting initial study of an oranur device which appears to show good treatment effects in cancer mice.
 668) 69
 Orgone Experiments
@@ -2851,7 +2996,10 @@ Blasband notes that many have taken from orgonomy but few have given to it.
 www.leonsouthgate.com
 Reich said it took a certain ‘something’ to enable a person to work valuably in orgonomy.
 678) 158
-Reich criticised the formalised parliamentary systems of his time as being weak and 'work-alien', he warned that fascism could be the result of faking democracy and repeatedly stressed the need to make the masses responsible for their own fate. Reich was probably talking primarily about the weak over-formalised democracies in Europe immediately prior to WW2. However there is some debate over whether Reich was also criticising formal representative systems in general. Reich saw himself as a true democratic person and believed in the natural expression of life, free speech, freedom of science and mass responsibility.
+Reich criticised the formalised parliamentary systems of his time as being weak and 'work-alien', he warned that fascism could be the result of faking democracy and repeatedly stressed the need to make the masses responsible for their own fate. Reich was probably talking primarily about the weak over-formalised democracies in Europe immediately prior to WW2. However there is some debate over whether Reich was also criticising formal representative systems in general.
+
+
+Reich saw himself as a true democratic person and believed in the natural expression of life, free speech, freedom of science and mass responsibility.
 679) 224
 Micro-biology, bions and pleo-morphism - discoveries outside of orgonomy.
 Eusinophilic bodies described in Kaposi's sarcoma plus variety of bacterial cocci and minute rods may be bionous breakdown.
@@ -2878,7 +3026,9 @@ Orgone Psychiatric Therapy
 Chavis, H.
 Orgonomic first aid in hospital for anorexic. Patient was unable to swallow, mouth would only open 1cm. Dissipating the rage allowed eating to take place. All other interventions had failed.
 684) 229
-Konia describes galactic jet expulsions and argues they may contain pre-atomic matter. Some jets apparently do not have atomic spectra. He also argues that the similar angular velocity (spin speed) and the inward movement of stars, plus the formation of stars in the spiral arms and their blue colour all support Reich's view of galactic morphology (creation processes). Konia argues that astrophysics would make more sense if the energetic processes were placed primary to the matter processes.
+Konia describes galactic jet expulsions and argues they may contain pre-atomic matter. Some jets apparently do not have atomic spectra. He also argues that the similar angular velocity (spin speed) and the inward movement of stars, plus the formation of stars in the spiral arms and their blue colour all support Reich's view of galactic morphology (creation processes).
+
+Konia argues that astrophysics would make more sense if the energetic processes were placed primary to the matter processes.
 The understanding of galactic emissions is limited by mechanistic perspectives-283.
 685) 257
 Orgone Psychiatric Therapy
@@ -2944,8 +3094,14 @@ Transplanted Tumours
 Trotta, Marer (Brazil)
 50 mice were injected with sarcoma cells and split into orgone treatment and control groups. There were two orgone groups, one using a 6 layer ORAC for one hour and one using a one layer with 10 layer lid for 3-4 hours daily. Both groups were treated 6 days a week.
 Although there were two orgone groups, which was a complication, they were treated as one group as the effects were similar. A well presented paper with significant results. Perhaps the environmental conditions in Brazil were also more conducive (but were not described).
-Results
-Orgone group showed enhanced immunulogical activity especially 2/3 hours post treatment. It took 2-3 weeks for differences between the groups to become apparent. Tumours behaved as though they were necrosed with TNF (Tumour Necrosing Factor) from the inside out. Orgone group had a 9 week survival time compared to 4 in the control group. Most treated mice showed a complete evacuation of www.leonsouthgate.com the tumour leaving an open wound. The difference between the groups was tested statistically via T-Test and was significant at a Confidence Interval of P = 0.02. The autopsy showed that the orgone mice may have died from tumour lysis effects on the liver and kidney (This supports Reich's main concern with orgone treatment of tumours).
+
+## Results
+
+Orgone group showed enhanced immunulogical activity especially 2/3 hours post treatment. It took 2-3 weeks for differences between the groups to become apparent. Tumours behaved as though they were necrosed with TNF (Tumour Necrosing Factor) from the inside out.
+
+Orgone group had a 9 week survival time compared to 4 in the control group. Most treated mice showed a complete evacuation of www.leonsouthgate.com the tumour leaving an open wound. The difference between the groups was tested statistically via T-Test and was significant at a Confidence Interval of P = 0.02.
+
+The autopsy showed that the orgone mice may have died from tumour lysis effects on the liver and kidney (This supports Reich's main concern with orgone treatment of tumours).
 697) 52
 Orgone Psychiatric Therapy
 Case History
@@ -3016,7 +3172,10 @@ Diabetes as chronic tissue anorgonia and 'melting down' of the tissue into the u
 Orgone Psychiatric Therapy
 Sands, J.
 Interesting case history of a young adolescent in orgone therapy. Seriously disturbed 13 yr old with moderate learning difficulties, distorted body image, lack of confidence, increasingly violent behaviour.
-Diagnosed with ADHD and learning difficulties, some abnormal EEG patterns when asleep. ADHD type drugs do not help. The main intervention appeared to be simply establishing ocular contact. Not possible to establish a full diagnosis as orgone diagnosis not based on behaviour but character attitudes. Patient had ocular type patterns, possibly a phallic type ocular pattern such as paranoid schizophrenic. He makes substantial improvements in 16 sessions.
+Diagnosed with ADHD and learning difficulties, some abnormal EEG patterns when asleep. ADHD type drugs do not help. The main intervention appeared to be simply establishing ocular contact.
+
+Not possible to establish a full diagnosis as orgone diagnosis not based on behaviour but character attitudes. Patient had ocular type patterns, possibly a phallic type ocular pattern such as paranoid schizophrenic. He makes substantial improvements in 16 sessions.
+
 714) 181
 Peptic ulcers and gallstones can be sequlae of orgone treatment (can occur as a reaction to the treatment - usually with subsequent resolution).
 715) 256
@@ -3034,7 +3193,9 @@ www.leonsouthgate.com
 717) 14-23
 Cloudbusters
 CORE report OROP.
-It was meteorology's equivalent of a wall collapsing said a newspaper report. Operations in 1988 and 1989 break through a large high pressure DOR system for a while, then in 1991, a big OROP ran by Demeo with 4 Cloudbusters changes the Pacific High. This is an enormous high pressure system that can cover the whole east coast and is a cause of drought. Atomic bomb testing, weakening of storm systems and sunspot activity may also contribute to the stuckness of the Pacific High.
+It was meteorology's equivalent of a wall collapsing said a newspaper report. Operations in 1988 and 1989 break through a large high pressure DOR system for a while, then in 1991, a big OROP ran by Demeo with 4 Cloudbusters changes the Pacific High. This is an enormous high pressure system that can cover the whole east coast and is a cause of drought.
+
+Atomic bomb testing, weakening of storm systems and sunspot activity may also contribute to the stuckness of the Pacific High.
 718) 35
 Orgone Psychiatric Therapy
 Enormous energy is required to maintain an 'affect' block'.
@@ -3044,7 +3205,10 @@ ORAC & Hygrometry
 Konia
 Interesting study. Moderately well reported. It lacked a statistical analysis - a T-Test may well have established the large differences between the groups more clearly.
 A small orgone box with a long shooter hose (attached 1 inch wide 6 foot long tube). Control apparatus made from plastic but identical otherwise. Two calibrated hygrometers placed in either apparatus (one within the orgone shooter, the other within the control apparatus but not specified exactly where, presumably in the tube).
-Both boxes were placed outside in a sheltered spot. In good weather there was a marked positive difference between orgone and control of approximately 6-7% increase in relative humidity. Also there was a marked negative differential between orgone and control. There also appears to be a weather predictive element with the humidity differential often dropping 24 hours before inclement weather. The humidity differential had an opposite curve to the ambient humidity and exposure to a free flow of air seemed important. Corking the air flow reduced the differential but did not stop it.
+Both boxes were placed outside in a sheltered spot. In good weather there was a marked positive difference between orgone and control of approximately 6-7% increase in relative humidity. Also there was a marked negative differential between orgone and control.
+
+There also appears to be a weather predictive element with the humidity differential often dropping 24 hours before inclement weather. The humidity differential had an opposite curve to the ambient humidity and exposure to a free flow of air seemed important. Corking the air flow reduced the differential but did not stop it.
+
 Authors comment on negative To-T that the hygrometer is an important way of understanding this phenomenon. They speculate that an increase in DOR is a possible cause of increased negative
 
 ## To-T - 12.
@@ -3177,6 +3341,7 @@ A complex paper with many findings.
 Experiment 1 - 259 mice over 4 generations Experiment 2 - 79 mice.
 An ORAC effect was found as the ORAC group died of lymphoblastic leukaemia (LL) significantly less than the control group (N=260 P=0.0005). Overall there was no major survival differences between ORAC and control mice however. Possible reasons for this are outlined below.
 There was some lifespan differences in subgroups though these sometimes favoured the control group (male mice dying of causes other than LL lived longer in the control group, male mice dying of LL lived longer in the orgone group/Experiment 1). ORAC mice were dying of LL at an age when the control mice were dying of other causes. ORAC appeared to inhibit tumour formation rather than destroy tumours - autopsy results were quite different between the groups.
+
 
 ## Possible reasons for mixed results
 
@@ -3320,7 +3485,10 @@ What Maguire had done 'bordered on treason' Reich thought.
 Main legal arguments against enforcing the injunction were that ORACs and literature were not able to be brought back, that the case exceeded the jurisdiction of the court and violated the 4th amendment.
 Reich's court address stated that the injunction was impossible to follow. His non-appearance at the first court was because he didn't know how to proceed, and there was issues of national security involved. Reich said that Maguire was dishonest, falsely representing and involved in a conspiracy to deprive US of orgonomy. Somebody (Russia) wanted his functional equations he thought.
 Bizarre comment by the judge that he would not have allowed the 'judgement' of orgonomy even had Reich contested the original decree. Appears to be legal manoeuvring to avoid it appearing that the court would have sat in judgement on scientific matters - 51.
-The FDA maintained that all of Reich's work constituted advertising. The notion that a man would write books which jeopardise his life from both the red and black forms of fascism merely as advertising for products not yet invented which never made any significant money and costs tens of thousands to research borders on the insane. However as a dishonest discrediting attempt it is in keeping with FDA methods. The FDA spent most of its budget in the early years investigating Reich.
+The FDA maintained that all of Reich's work constituted advertising. The notion that a man would write books which jeopardise his life from both the red and black forms of fascism merely as advertising for products not yet invented which never made any significant money and costs tens of thousands to research borders on the insane. However as a dishonest discrediting attempt it is in keeping with FDA methods.
+
+
+The FDA spent most of its budget in the early years investigating Reich.
 774) 69
 Reich’s assumption is that the realm of the mind is much narrower than the realm of biophysical functioning.
 Reich had a conviction that psyche and soma are functionally identical.
@@ -3341,7 +3509,9 @@ F. As a consequence of DOR, armouring provides better protection from a DOR infe
 Note: There is the Saharasian theory of Demeo that armouring, a secondary pattern, is related to the emergence of deserts.
 Whether life has an innate tendency toward armouring is not fully resolved.
 1001) 112
-Kelley tries to get Cloudbusting research projects funded without success. Notes that a Mr Charles Longcroft, a member of the British Royal Meteorological Society tried to obtain support for a project in England without success. He did two successful trials with a Cloudbuster. One time the Cloudbuster was vandalised when left drawing - it withdrew energy from a tree. Where it was pointed the leaves went brown and died.
+Kelley tries to get Cloudbusting research projects funded without success. Notes that a Mr Charles Longcroft, a member of the British Royal Meteorological Society tried to obtain support for a project in England without success. He did two successful trials with a Cloudbuster.
+
+One time the Cloudbuster was vandalised when left drawing - it withdrew energy from a tree. Where it was pointed the leaves went brown and died.
 
 ## Cp V2 N1 1962
 
@@ -3356,7 +3526,10 @@ Reviews Mark L. Gallert's 'New Light on Therapeutic Energies, Philadelphia, Foun
 
 ## ORAC-like discoveries.
 
-George Starr White invented a device similar to the medical DOR-buster, he experimented with the effects of metal upon plants and claimed a 'cosmo-electric-energy'. Also Raymond Rife's microscope may have visualised the T-Baccilli cancer 'virus' (Rife brought u-v radiation into visible range). Charles W. Littlefield looked at mineral salt evaporation and saw a life-force and bion-like creation. L. E.
+George Starr White invented a device similar to the medical DOR-buster, he experimented with the effects of metal upon plants and claimed a 'cosmo-electric-energy'. Also Raymond Rife's microscope may have visualised the T-Baccilli cancer 'virus' (Rife brought u-v radiation into visible range). Charles W.
+
+Littlefield looked at mineral salt evaporation and saw a life-force and bion-like creation. L. E.
+
 Eaman's cooperative healing: life force can be conducted from one body area to another using copper wires.
 
 ## Cp V2/3 1962
@@ -3407,13 +3580,18 @@ Anna Freud uses Reichian terminology when describing methods of ego defence whic
 Freud, A. (1946) The Ego and the Mechanisms of Defence, NY, International Universities Press: 36.
 1013) 58
 H. E. Sullivan's muscular tension theory appears to have borrowed from Reich's armour theory.
-Sullivan describes how the skeletal muscles take on tension and attempt to discharge in reaction to pain in infancy. Although tension is not the same as anxiety in Sullivan's theory it is necessary for it's experience. However, it is still a simplified version of Reich's armour theory. Reich’s theory takes an energetic perspective and looks at how the blocked energetic excitation splits up to form both the suppressing block and the original energy striving for expression. Reich defined anxiety as the "sensation of constriction, of a stasis." Character Analysis, Nonnday Press, NY, 1963: 213.
+Sullivan describes how the skeletal muscles take on tension and attempt to discharge in reaction to pain in infancy. Although tension is not the same as anxiety in Sullivan's theory it is necessary for it's experience. However, it is still a simplified version of Reich's armour theory.
+
+Reich’s theory takes an energetic perspective and looks at how the blocked energetic excitation splits up to form both the suppressing block and the original energy striving for expression. Reich defined anxiety as the "sensation of constriction, of a stasis." Character Analysis, Nonnday Press, NY, 1963: 213.
 From P. Mullahy (1948) Oedipus Myth and Complex, Hermitage Press, NY.
 1014) 62
 Reich notes that complexity of thought is peculiar to the armoured person. Such a person hates when love is appropriate, loves when hate is appropriate and fears when it should do either.
 WR Ether God and Devil, Orgone Institute Press NY 1949.: 57.
 1015) 61
-Reich had a concept of the primacy of orgastic discharge as he believed all neurosis was rooted finally in a stasis of biosexual energy and that all neurotics were orgastically impotent. Fenichel also noted that impotence and frigidity are chief characteristics of neurosis and that, 'Sexual inhibitions constitute the most frequent symptoms occurring in every type of neurosis.' O. Fenichel (1945) The Psychoanalytic Theory of Neurosis, NY, W. W. Norton & Co: 169.
+Reich had a concept of the primacy of orgastic discharge as he believed all neurosis was rooted finally in a stasis of biosexual energy and that all neurotics were orgastically impotent. Fenichel also noted that impotence and frigidity are chief characteristics of neurosis and that, 'Sexual inhibitions constitute the most frequent symptoms occurring in every type of neurosis.' O. Fenichel (1945) The Psychoanalytic Theory of Neurosis, NY, W.
+
+
+W. Norton & Co: 169.
 
 www.leonsouthgate.com
 However, Fenichel didn't note the function of the orgasm, its relationship to armouring and energy flow or the difference between orgastic and mechanical impotence.
@@ -3423,7 +3601,9 @@ Reich's work preceded Fenichel's.
 ## Cp V4 N1 1964
 
 1016) 6
-Dr A. Schmale & H. Iker presented a paper to the American Psychosomatic Society meeting in Rochester (either 1963 or 64, exact reference not available). They reported on their finding that they were able to predict before biopsy 31 out of 40 women suspected of cervical cancer on the basis of feelings of hopelessness which they called 'giving up syndrome'. Reich is in no way credited despite it being him who outlined the resignation syndrome inherent in cancer patients in great detail in the 1940's.
+Dr A. Schmale & H. Iker presented a paper to the American Psychosomatic Society meeting in Rochester (either 1963 or 64, exact reference not available).
+
+They reported on their finding that they were able to predict before biopsy 31 out of 40 women suspected of cervical cancer on the basis of feelings of hopelessness which they called 'giving up syndrome'. Reich is in no way credited despite it being him who outlined the resignation syndrome inherent in cancer patients in great detail in the 1940's.
 Also along the same lines were the NY Academy of sciences report on psychologcal aspects of cancer in their Science Newsletter of April 17th 1965 - again no mention of Reich.
 1017) 11
 Freud based many principles on drive reduction. The pleasure principle works to reduce a negative the irritation of tension. Pleasure reduces tension. Freud acknowledged the flaws in this scheme but never abandoned the central idea. Such a notion places repression as a necessary process (to control the unrestrained release of tension).
@@ -3478,12 +3658,16 @@ Orgone Experiment
 Wound Healing in Mice
 Baker, Dew, Ganz, Lance.
 Part 1 of a two part paper describing 7 years of experimentation with wound healing and mice.
-1600 mice have been used in the period. The mice, a standard lab strain (CAF 1/J) are anaesthetised, have a wound put in place on the back and healing is measured using wound perimeter and area measurements. Great effort was made to standardise the process and to exclude various effects such as a diurnal and seasonal variations upon healing. The evolution of their protocols and measuring processes are described in detail See 1027) for further details.
+1600 mice have been used in the period. The mice, a standard lab strain (CAF 1/J) are anaesthetised, have a wound put in place on the back and healing is measured using wound perimeter and area measurements. Great effort was made to standardise the process and to exclude various effects such as a diurnal and seasonal variations upon healing.
+
+The evolution of their protocols and measuring processes are described in detail See 1027) for further details.
 1024) 24-33
 Orgone Experiment
 Bion Migration
 Baker, Dew
-Very detailed description of bion observations and their behavioural characteristics under carefully controlled conditions. Only representative slides and patterns are described, numbers of observations and any formal statistical analysis are not entered into. A 'descriptive' study. Authors state that they have confirmed under strict conditions Reich’s claims concerning both the existence of bions from heated iron and carbon sources and that bions migrate when an electrical current is applied to them.
+Very detailed description of bion observations and their behavioural characteristics under carefully controlled conditions. Only representative slides and patterns are described, numbers of observations and any formal statistical analysis are not entered into. A 'descriptive' study.
+
+Authors state that they have confirmed under strict conditions Reich’s claims concerning both the existence of bions from heated iron and carbon sources and that bions migrate when an electrical current is applied to them.
 They also found that the migration behaviour is linked to the vitality of the samples. The laboratory conditions described and the electrical procedures appear to be of a high standard. Only the bionised samples showed particle migration. Bion behaviour appears to be non-mechanical.
 1025) 50
 Leading oncologist agrees with Reich that tumour is representative of the 'end-stage' of a cancer process.
@@ -3500,7 +3684,9 @@ Their RBT results, the GMA score and two bionous breakdown scores (the 1% time a
 
 www.leonsouthgate.com
 The strongest finding of the study was that a GMA score of 7 or less is associated with mild to severe pathology in 98% of cases examined.
-There was no clear hypothesis or statistical analysis. In addition there was many categories based on clinical diagnosis which is interesting but forms too small a group to draw anything more than preliminary conclusions. For example, in the carcinoma category (N=8) and lymphoma category (N=5) the 1% time dramatically improves following conventional treatment. Also of note is that the bionous breakdown time, especially the 1% time can remain in the normal range when severe pathology is present perhaps due to the organism maintaining a high energy charge despite the mechanical presence of illness.
+There was no clear hypothesis or statistical analysis. In addition there was many categories based on clinical diagnosis which is interesting but forms too small a group to draw anything more than preliminary conclusions. For example, in the carcinoma category (N=8) and lymphoma category (N=5) the 1% time dramatically improves following conventional treatment.
+
+Also of note is that the bionous breakdown time, especially the 1% time can remain in the normal range when severe pathology is present perhaps due to the organism maintaining a high energy charge despite the mechanical presence of illness.
 However it is still a strong study due to a rigorous method and good overall numbers.
 The main finding was that the GMA score correlates well with pathology in nearly all of the 128 cases studied.
 1027) 7-24
@@ -3508,15 +3694,24 @@ Orgone Experiment
 Wound Healing in Mice II
 Baker, Dew, Ganz, Lance
 Dozens of different designs set ups are tried and experimental procedures vary and evolve. There is a high degree of statistical significance for the ORAC and Medical DB having an effect upon healing, In one of the series of experiments, the C series, comprising 381 animals treated once and measuring the percentage of the wound healed at 96 hours there was a 10-12% increase in wound healing amongst the treated groups with a high statistical significance of P= 0.002. ANOVA statistical tests were used.
+
+
 Other findings of the experiments were that there is a clear pulsation process in wound healing and relationship to seasonal and diurnal variations.
-The experimental runs were hampered by many changes in protocol and overly large numbers of test and control groups. Five variations upon the DOR-buster were tested and one cylindrical ORAC device. It is attempted to convey seven years of experimental evolution in two papers. It would benefit from clear research goals and hypothesis setting. However, strong evidence for an effect of the ORAC and MDB upon organisms is presented.
+The experimental runs were hampered by many changes in protocol and overly large numbers of test and control groups. Five variations upon the DOR-buster were tested and one cylindrical ORAC device. It is attempted to convey seven years of experimental evolution in two papers.
+
+It would benefit from clear research goals and hypothesis setting. However, strong evidence for an effect of the ORAC and MDB upon organisms is presented.
 The number of studies overall was 40, 4 of these used the ORAC, most were studying MDB effects.
 1028) 51-53
 Orgone Psychotherapy
 Dr Braid, Et Al, Discussion
-Psychiatrist reinterprets all a patients perceptions which in turn increases her eye block, she became more depressed and finally psychotic. Physical work upon her ocular segment grounds her successfully within three weeks. She was diagnosed catatonic schizophrenic but work on an ocular block and shallow breathing had powerful effects in normalising her. Medication is described as an 'external armouring' (schizophrenics lack sufficient body armour).
+Psychiatrist reinterprets all a patients perceptions which in turn increases her eye block, she became more depressed and finally psychotic. Physical work upon her ocular segment grounds her successfully within three weeks. She was diagnosed catatonic schizophrenic but work on an ocular block and shallow breathing had powerful effects in normalising her.
+
+Medication is described as an 'external armouring' (schizophrenics lack sufficient body armour).
 1029) 55
-National conference on parenting November 16-17 Allentown, PA, lent support to many of Reich's assertions particularly concerning the importance of early contactful intervention with parents. Reich's views of course predated the feeling in the conference that emotional child health cannot be www.leonsouthgate.com understood through studying neurotic adults. The researchers had not yet grasped Reich's view of the importance of the emotional state of the researcher in studying children particularly. Some of the researchers made reference to Reich.
+National conference on parenting November 16-17 Allentown, PA, lent support to many of Reich's assertions particularly concerning the importance of early contactful intervention with parents. Reich's views of course predated the feeling in the conference that emotional child health cannot be www.leonsouthgate.com understood through studying neurotic adults. The researchers had not yet grasped Reich's view of the importance of the emotional state of the researcher in studying children particularly.
+
+
+Some of the researchers made reference to Reich.
 1030) 58
 Fox, S. Dose, K. (1977) Molecular Evolution and the Origin of Life, NY, Marcel Dekker.
 Another case of the careful editing out of Reich's work. Fox presents 2 decades of careful well researched evidence and arguments for the existence of 'proteinoid microspheres'. These are formed through cooking a mixture of amino acids. These spontaneously form polymers and micro-particles.
@@ -3525,7 +3720,9 @@ They call their view on life origins as 'constructionist'. The parallels to bion
 1031) 56
 Dr Chorbajian in Washington Post Magazine Jan 1985 reports on a device for reducing jaw tension which in turn improves athletes performance. His theory is that jaw tension diverts energy from other muscles but it also confirms Reich's views that reducing armouring in one segment helps the overall integration of the body thus increasing performance.
 1032) 58-59
-Number of studies of schizophrenia have confirmed the presence of eye movement disorders. These disorders are not due to other causes and have a significant association with schizophrenics and their offspring. A less strong association is noted with Manic-depression. This confirms Reich's views (see Character Analysis) that the schizophrenic process immobilises parts of the brain, probably the base and other areas including nerves.
+Number of studies of schizophrenia have confirmed the presence of eye movement disorders. These disorders are not due to other causes and have a significant association with schizophrenics and their offspring. A less strong association is noted with Manic-depression.
+
+This confirms Reich's views (see Character Analysis) that the schizophrenic process immobilises parts of the brain, probably the base and other areas including nerves.
 
 ## Aios V3 N1 1986
 
@@ -3534,10 +3731,15 @@ Orgone Experiments
 Reich Blood Test (RBT) in Cancer Mice
 Baker, Dew
 Well written article, clearly laid out. 17 cancer mice of the C3H/OUJ variety were studied. These mice produce spontaneous mammary tumours in the females at 6 months old.
-The study was well conducted, though not blinded. It examined 57 RBTs. These tests consisted of the 1% time (a bionous breakdown index), the GMA (General and Microscopic Appearance plus post-autoclave appearance of red blood cells), the Delta 49 (a bionous breakdown index), tumour size, animal weight and percentage of the unusual C shaped red blood cell that appeared to be special to this mouse breed. The animals were fairly evenly split between tumour and non-tumour specimens.
+The study was well conducted, though not blinded. It examined 57 RBTs. These tests consisted of the 1% time (a bionous breakdown index), the GMA (General and Microscopic Appearance plus post-autoclave appearance of red blood cells), the Delta 49 (a bionous breakdown index), tumour size, animal weight and percentage of the unusual C shaped red blood cell that appeared to be special to this mouse breed.
+
+
+The animals were fairly evenly split between tumour and non-tumour specimens.
 The study groups comprised normal and tumour groups. The tumour group was further split into well and sick by their obvious clinical appearance.
 There is a good statistical section which outlines how the 1% time, the GMA, the percentage of C shaped eyrthrocytes cells and the tumour size all differentiated well between normal/non-tumour, well and sick groups with high degrees of statistical significance.
-In other words, the test differentiated between health and sickness with a high degree of certainty. For example the GMA part of the test differentiated between well and sick with a Confidence Interval of www.leonsouthgate.com P=0.0001. The 1% time was also significantly different between the groups. The 1% Time, GMA (particularly ‘cohesiveness of blood’ and ‘red blood cell energy-field width’) showed the strongest value as variables.
+In other words, the test differentiated between health and sickness with a high degree of certainty. For example the GMA part of the test differentiated between well and sick with a Confidence Interval of www.leonsouthgate.com P=0.0001. The 1% time was also significantly different between the groups.
+
+The 1% Time, GMA (particularly ‘cohesiveness of blood’ and ‘red blood cell energy-field width’) showed the strongest value as variables.
 All the statistical tests were of the ANOVA type.
 One problem with the study included lack of cross-correlation between parts of the test with biological and clinical parameters (although there may be energetic reasons for this). A second problem was that the mice cancer model here does not correspond to the human one (their tumour growths appeared to be parasitic energetically rather than secondary to the 'shrinking/resignation process' Reich noted in humans with cancer).
 However as a test of whether certain parts of the RBT reliably correspond to the cancer process it is a good scientific study. The study had a fairly small number of animals (17). However, at the level of study for which this paper is aimed, an initial scientific examination, it is a good paper.
@@ -3571,7 +3773,10 @@ Joseph Newman developed a machine that appeared to permit a conversion of mass t
 The US patent office refused to authorise a patent despite the evidence of 30 expert witnesses and its own 'Special Master'. They instead wanted to hand over the device to the National Bureau of Standards to test in secret with the allowance that they may destroy it if need be.
 The struggle was taken up by a congressman, Rep. Livingstone.
 1036f) 54-55
-Very good description of the main points of Nordenstrum’s very careful and almost universally ignored work. He progressed from investigating corona's around XRay photos of lung tumours to funding an electrical potential between tumour masses and their surrounds and by changing this potential, a means to dehydrate and remove the tumour mass. He treated 80 inoperable cancer patients with surprising results, published 3 papers in journals and self published a book, however his work has been almost totally ignored. The AIOS paper notes 4 similarities with Reich's work;
+Very good description of the main points of Nordenstrum’s very careful and almost universally ignored work. He progressed from investigating corona's around XRay photos of lung tumours to funding an electrical potential between tumour masses and their surrounds and by changing this potential, a means to dehydrate and remove the tumour mass. He treated 80 inoperable cancer patients with surprising results, published 3 papers in journals and self published a book, however his work has been almost totally ignored.
+
+
+The AIOS paper notes 4 similarities with Reich's work;
 1. Bioelectric potentials between areas of the body
 2. Blood vessels/cells carry a bioelectrical energy (noted a bioelectrical circulation)
 3. Discovered that the source of energy in damaged tissue is the damaged cells themselves.
@@ -3617,7 +3822,9 @@ Orgone Experiments
 Bioelectricity and Emotions
 Braid et al www.leonsouthgate.com Very good summary article on Reich's bio-electrical research with some new study data of its own presented (7 person case study).
 Reich used liquid KCl electrodes which were not available to the researchers. Reich used human subjects attached to an oscillograph (an early model employing vacuum tubes). The oscillogrpah was attached to a photosensitive permanent recording strip.
-Reich used two electrodes, a reference and differential electrode. The reference electrode was attached to an non-erogenous site on the body. The skin was carefully abraded to the point of producing serous fluid. This was in order for the measurement to reflect potential electrical differences between the inside of the body and the external. As evidence for this Reich abraded both sites and found the potential between the sites usually then became zero.
+Reich used two electrodes, a reference and differential electrode. The reference electrode was attached to an non-erogenous site on the body. The skin was carefully abraded to the point of producing serous fluid.
+
+This was in order for the measurement to reflect potential electrical differences between the inside of the body and the external. As evidence for this Reich abraded both sites and found the potential between the sites usually then became zero.
 Reich undertook experiments whereby subjects predicted pleasure and pain responses in a separate room. These were found to correlate with the electrical potential measurements, a positive deflection, or increase in electrical charge for pleasure and negative deflection or decrease in electrical charge for pain.
 Sugar/salt experiments were also conducted. The subjects were tested for their bio-electrical response (confirming Reich's hypothesis). Erogenous zones were found to have potentials up to 200 mV. Non-erogenous zones were found to have a resting potential of about 20 mV.
 Large deflections positively accompany sexual thoughts or pleasurable excitations. Armoured people tend to have lesser bio-electrical responses.
@@ -3631,6 +3838,8 @@ Modern dermal studies tend to study electrical resistance between superficial po
 Reich was the first to see that the defences are organised in a coherent manner. (In 'Beyond Freud' book this is overlooked and Reich's work attributed to Anna Freud and others).
 1062) 69
 Royal Raymond Rife measured his internally produced cancer virus at 1/15 of a micron. Reich estimated the T-baccilli at 4/10 of a micron. Both men isolated a cancer causing virus-sized particle from breast tumours, isolated and cultured the particles and injected them into rodents causing tumours to appear. both thought that the particle was produced internally and spontaneously due to changes in internal conditions.
+
+
 See 69-70 for 9 pleomorphic and Rife related references between 1914 and 1953 in full. In brief see Rosenow, E.C. Journal of Infectious Diseases 1914,1918, Evans, A. Pub. Health Reports 1927, www.leonsouthgate.com Hadley, Delves, Klimak, Filterable stages of bacteria, Kendall, A.I who published with Rife.
 See also: Rife, R.R. History of the Development of a Successful Treatment for Cancer and Other Viruses, Bacteria and Fungi, Allied Industries, Report No. Dev-1042, Dec-1, 1953.
 1063) 37
@@ -3638,8 +3847,14 @@ Good case history illustrating the medical effects of an orgone therapy case; ch
 1064) 28
 Criticism of orgone therapy-sometimes using a defence analysis too early on can weaken severely armoured patients. Character analysis sometimes overlooks that empathy rather than de-armouring can be more important in early treatment of severe ocular armouring Assessing ego control is important as without an awareness of ego psychology poorly integrated characters can be weakened.
 1065) 28-29
-Two funny orgone therapy stories, one lady stuck in a hate-dependency relationship had stored the anger in her shoulder-girdle, when this was released she was frightened she might murder her husband (who was supportive of the therapy). She had good ego control. She phoned the therapist in the middle of the night to say she had cut her husbands wrist. The therapist spoke to the husband who was laughing-she had given him a tiny symbolic cut-their relationship improved a lot.
-Second case, a life-long submissive male ranted and raged for the first time ever on the therapy couch. The experience of being able to express anger felt so good he went and deliberately picked a fight on the subway afterwards. The patient floored the guy he had been winding up to a fight with two punches and then apologised and offered him a couple of punches on himself to get even for his punches. The person refused! This patient's behaviour is however very unusual. Being able to express anger therapeutically leads to less violence and more control at home.
+Two funny orgone therapy stories, one lady stuck in a hate-dependency relationship had stored the anger in her shoulder-girdle, when this was released she was frightened she might murder her husband (who was supportive of the therapy). She had good ego control. She phoned the therapist in the middle of the night to say she had cut her husbands wrist.
+
+The therapist spoke to the husband who was laughing-she had given him a tiny symbolic cut-their relationship improved a lot.
+Second case, a life-long submissive male ranted and raged for the first time ever on the therapy couch. The experience of being able to express anger felt so good he went and deliberately picked a fight on the subway afterwards. The patient floored the guy he had been winding up to a fight with two punches and then apologised and offered him a couple of punches on himself to get even for his punches.
+
+
+The person refused! This patient's behaviour is however very unusual. Being able to express anger therapeutically leads to less violence and more control at home.
+
 1066) 26
 Neck and back are often made rigid into 'one' in armoured adults, (to surrender in the neck area is dangerous in a hostile world). On occasion an exercise to break through cervical armouring can relieve mild to moderate asthmatic attacks-repeated utterance of satisfied 'ahh' sounds with an open throat
 1067) 53
@@ -3650,7 +3865,10 @@ Experimental animals had more rights than children in the US (newborn males did 
 Bechamp coined the term zymase not Pasteur. Would history punish Bechamp for discovering 'microzymas' (similar to bions/T-baccilli) by excluding him?
 1069) 69/91
 Pleomorphism
-The filterable versus unfilterable argument regarding virus and bacterial forms. Modern biology holds that every bacteria has a set form. It cannot evolve from another form for example a virus. However a www.leonsouthgate.com number of researchers have shown that some bacteria can have a viral 'stage' in their life-cycle. It is called the filterable versus non-filterable argument because viruses are filterable and bacteria are non-filterable. See particularly;
+The filterable versus unfilterable argument regarding virus and bacterial forms. Modern biology holds that every bacteria has a set form. It cannot evolve from another form for example a virus.
+
+However a www.leonsouthgate.com number of researchers have shown that some bacteria can have a viral 'stage' in their life-cycle. It is called the filterable versus non-filterable argument because viruses are filterable and bacteria are non-filterable. See particularly;
+
 Rosenow, E. C. (1914) Transmutations Within the Streptococcus-Pneumococcuss-Pneumococcus
 Group, Journal of Infectious Diseases, 14:1, Jan 1914. (presumably US journal).
 Rosenow, E. And Wheeler, G. (1918) The Etiology of Epidemic Poliomyelitis, Journal of Infectious Diseases, 22: 281-312.
@@ -3706,14 +3924,20 @@ A modest initial study is described. Reich detailed a substance he believed to b
 ## Aios V9 N1 1999
 
 1075) 30
-Discussion between orgone therapists-noted that therapeutic effectiveness is not defined by theoretical orientation. That some people are exceptionally good therapists for a reason hard to define. Another orgone therapist notes that it is about energetic contact and talks of the similarities with faith healers and native Indian healing. Reich talked of the interactions of energy fields between therapist and client.
+Discussion between orgone therapists-noted that therapeutic effectiveness is not defined by theoretical orientation. That some people are exceptionally good therapists for a reason hard to define. Another orgone therapist notes that it is about energetic contact and talks of the similarities with faith healers and native Indian healing.
+
+Reich talked of the interactions of energy fields between therapist and client.
 1076) 4-5
 
 www.leonsouthgate.com
 Interesting discussion of orgone and chemistry and atoms as pulsating bodies. Puts forward the CFP equation that Orgone energy is the CFP of the variations matter and DOR and that both are consequences of orgone superimposition. In other words it is the DOR as by-product argument mentioned also somewhere in Offshoots journal?
 Orene and melanor (black noxious material found on rocks in desert development and oranur affected areas) are also discussed.
 1077) 22-25
-Some interesting criticisms of orgone therapy and orgonomy from within. Reich never viewed the character types as set or complete. Reich thought that most people couldn’t in fact be pigeon holed-the character types are just guides. The character types are based on Freud’s psychosexual stages of development. If Freud’s theory proves incomplete this invalidates character theory to some extent. A recurrent criticism is the emphasis on attacking resistances and armour at the possible expense of empathic contact. Also criticism is made of orgonomic movement-an energetic theory of life development has not been attempted. Few have tried to continue Reich’s work in the study of healthy children
+Some interesting criticisms of orgone therapy and orgonomy from within. Reich never viewed the character types as set or complete. Reich thought that most people couldn’t in fact be pigeon holed-the character types are just guides.
+
+The character types are based on Freud’s psychosexual stages of development. If Freud’s theory proves incomplete this invalidates character theory to some extent. A recurrent criticism is the emphasis on attacking resistances and armour at the possible expense of empathic contact.
+
+Also criticism is made of orgonomic movement-an energetic theory of life development has not been attempted. Few have tried to continue Reich’s work in the study of healthy children
 
 ## Aios V7 N1 1990
 
@@ -3768,8 +3992,13 @@ Experiment needed a second control-there was no control for the effects of soaki
 Over a 10 year period the FDA spent over $2 million, 4% of its total budget on the confiscation of just 300 ORACs. These were in private hands. There had been no complaints from individuals.
 1082) 10
 Reich and UFO's
-Reich long believed that UFOs might be interplanetary ships. He thought they would be powered by orgone because the ships behave in ways no mechanically powered vehicle can emulate. Some of the ways the UFO's move is similar to the orgone motor. They can change directions at high speeds without a jolt (silence and high speed are other characteristics). Reich thought that there would not be enough fuel for such journeys so UFO's might use orgone accumulated in space and then trigger it with Oranur. The exhaust of such ships would therefore be drought producing DOR.
+Reich long believed that UFOs might be interplanetary ships. He thought they would be powered by orgone because the ships behave in ways no mechanically powered vehicle can emulate. Some of the ways the UFO's move is similar to the orgone motor.
+
+They can change directions at high speeds without a jolt (silence and high speed are other characteristics). Reich thought that there would not be enough fuel for such journeys so UFO's might use orgone accumulated in space and then trigger it with Oranur. The exhaust of such ships would therefore be drought producing DOR.
+
 Also there is a criticism of Boadella's and even Neill's comments that Reich may have become paranoid and detached from reality. (Due to believing that 'spacemen' were causing DOR and deserts, or that the US air force shared his concerns, or that Reich was said to have had a meeting with President Eisenhower). This was a claim Reich never made incidentally. A witness claimed to have observed a meeting but she later retracted her statement - possibly after meeting government officials.
+
+
 1083) 13
 The Communist Manual of Psychopolitical Warfare
 The person to be destroyed must given the stigma of madness. Label of paranoid-anyone who attacks communism is paranoid by definition. Use the courts, laws, constitution, medical societies.
@@ -3822,7 +4051,13 @@ Stronger growth in all groups due possibly to better organic treatment/biodynami
 Total yield, no. of fruits, average weight of fruits, average weight, average yield p/plant and av. no.
 fruits per plant are given for a three part harvest and total results. The two treated groups, B and O have total yields twice or three times that of C-1. O group is a third higher than C-2. However soaking in bion water has only a slight improvement on soaking in tap water. No statistical significance analysis.
 1091) 8
-Writer notes that Reich’s life was relatively free of harassment until August 1946 when Mass Psychology of Fascism (MPF) was published. It was reviewed by the communist and leading intellectual, Frederic Wertham in The New Republic magazine, a leftist publication. Wertham called on all liberals and communists to attack Reich and silence him. Mildred Brady then took up Wertham's 'call-to-arms' some 6 months later. The MPF had reached number one on the non-fiction NY library list and there must have been worries about the books influence upon the American left. Moscow had officially burnt the MPF book earlier. Brady's husband was a member of the communist party and it is reported that Brady was more extreme in her views than her husband. Brady deliberately falsified information in her article such as that Reich claimed the ORACs granted orgastic potency. It was a defamation for political purposes but was then picked up on by the pharmaceutical, medical industry and the popular media. Reprints in;
+Writer notes that Reich’s life was relatively free of harassment until August 1946 when Mass Psychology of Fascism (MPF) was published. It was reviewed by the communist and leading intellectual, Frederic Wertham in The New Republic magazine, a leftist publication. Wertham called on all liberals and communists to attack Reich and silence him.
+
+Mildred Brady then took up Wertham's 'call-to-arms' some 6 months later. The MPF had reached number one on the non-fiction NY library list and there must have been worries about the books influence upon the American left. Moscow had officially burnt the MPF book earlier.
+
+Brady's husband was a member of the communist party and it is reported that Brady was more extreme in her views than her husband. Brady deliberately falsified information in her article such as that Reich claimed the ORACs granted orgastic potency. It was a defamation for political purposes but was then picked up on by the pharmaceutical, medical industry and the popular media.
+
+Reprints in;
 Journal of the American Medical Association
 Bulletin of the Menninger Clinic
 Consumer Reports
@@ -3895,8 +4130,14 @@ Fromm examined the question of the relationship of character to social environme
 1103) 61
 Reich's Autopsy Report Suppressed
 Reich had a heart attack in October 1951. He took about a month to recover. He had a heart murmur and some congestive failure.
-Reich after he was sentenced attempted to arrange a cardiac appointment with Dr Paul White but he was unavailable. Reich didn't want anyone else. Reich had a full medical by the prison doctor which apparently didn't reveal the heart problem. The authorities wouldn't allow Eva Reich, a doctor, to either view their medical report or to speak to the prison doctor (? Dr Witkin, Eva was not certain of the name).
-Eva did manage to speak to the pathologist who performed the autopsy on Reich (Dr Christman, Sunbury hospital, PA). He told Eva Reich and Aurora Karrer Reich www.leonsouthgate.com that he had found the aortic valve leaflets were immobile with only a 2mm gap between the edges of the valve. The coronory ostia were narrowed by calcification. Right sided heart failure, liver enlargement. Basal pneumonia, patchy broncho-pneumonia, pitting ankle oedema. Reich had calcific aortic stenosis with regurgitation - this should have been detected at the beginning of Reich's sentence with the mandatory cardiological exam. Reich's sentence should have been suspended.
+Reich after he was sentenced attempted to arrange a cardiac appointment with Dr Paul White but he was unavailable. Reich didn't want anyone else. Reich had a full medical by the prison doctor which apparently didn't reveal the heart problem.
+
+The authorities wouldn't allow Eva Reich, a doctor, to either view their medical report or to speak to the prison doctor (? Dr Witkin, Eva was not certain of the name).
+Eva did manage to speak to the pathologist who performed the autopsy on Reich (Dr Christman, Sunbury hospital, PA). He told Eva Reich and Aurora Karrer Reich www.leonsouthgate.com that he had found the aortic valve leaflets were immobile with only a 2mm gap between the edges of the valve. The coronory ostia were narrowed by calcification.
+
+Right sided heart failure, liver enlargement. Basal pneumonia, patchy broncho-pneumonia, pitting ankle oedema. Reich had calcific aortic stenosis with regurgitation - this should have been detected at the beginning of Reich's sentence with the mandatory cardiological exam.
+
+Reich's sentence should have been suspended.
 
 ## In brief
 
@@ -3910,7 +4151,9 @@ sided heart failure mentioning only the coronary openings.
 1104) 41
 Criticism
 Lasch, C. (1984) The Minimal Self: Psychic Survival in Troubled Times, NY, W.W. Norton.
-Reich is grouped with Neo-Freudians such as Fromm, Horney, Zilburg. These thinkers differ from Reich in that they emphasize cultural rather than biological determinants of personality. He views Reich's work second hand through Marcuse and Norman Brown and states that Reich's scientific work was 'simple minded' thus avoiding the need to actually read it. Lasch can offer no more than a rehash of Freud's standpoint in Civilisation and its Discontents for how man should rework his inner self to survive the current crisis. A psychological pseudo-solution.
+Reich is grouped with Neo-Freudians such as Fromm, Horney, Zilburg. These thinkers differ from Reich in that they emphasize cultural rather than biological determinants of personality. He views Reich's work second hand through Marcuse and Norman Brown and states that Reich's scientific work was 'simple minded' thus avoiding the need to actually read it.
+
+Lasch can offer no more than a rehash of Freud's standpoint in Civilisation and its Discontents for how man should rework his inner self to survive the current crisis. A psychological pseudo-solution.
 1105) 30
 Orgone Experiment
 Orgone and Plants
@@ -3985,7 +4228,10 @@ Orgone Experiment
 www.leonsouthgate.com
 Plants
 Espanca
-Experiments using similar protocol to previous Espanca studies. 4 groups using seeds from orgone treated plants and non-orgone treated plants which in turn were either treated with an ORAC or control. There seems to be some generational effect from the orgone treatment with the seeds from treated plants faring better. A significant increase with orgone charging was also seen in both orgone parent and control parent seeds. Simply presented and well written. Small groups but a useful pilot study.
+Experiments using similar protocol to previous Espanca studies. 4 groups using seeds from orgone treated plants and non-orgone treated plants which in turn were either treated with an ORAC or control. There seems to be some generational effect from the orgone treatment with the seeds from treated plants faring better. A significant increase with orgone charging was also seen in both orgone parent and control parent seeds.
+
+
+Simply presented and well written. Small groups but a useful pilot study.
 
 ## Oo N14 1987
 
@@ -4017,20 +4263,30 @@ Senf 1989
 
 www.leonsouthgate.com
 Senf (1989) conducted the first study of Reichian interventions applied to acupuncture points. He studied the effects of directing orgone energy toward acupuncture points. He devised an accumulating tube that was adapted from Reich’s accumulating cabinets. Points were treated with the tube (according to a Chinese Medical diagnosis) for a short period whilst the subjects had their eyes closed.
-The study reported a sensory and emotional reaction - 85% of the subjects linked the possible irradiation of the points to sensory and other changes. Senf (1989) also investigated withdrawing orgone energy from points using an adaptation of Reich’s ideas on negative energy removal. He constructed an energy removal tube that was directed at sedation acupuncture points. The volunteers mostly reported a sensation of a cool breeze.
+The study reported a sensory and emotional reaction - 85% of the subjects linked the possible irradiation of the points to sensory and other changes. Senf (1989) also investigated withdrawing orgone energy from points using an adaptation of Reich’s ideas on negative energy removal. He constructed an energy removal tube that was directed at sedation acupuncture points.
+
+The volunteers mostly reported a sensation of a cool breeze.
 The study did not have a control group or a quantifiable measurement of any changes but nonetheless showed some fascinating results and the need for further study.
 1119) 22
 Orgone Experiment
 Orgone & Medical Parameters
-Gebauer and Muschenich (1987) The researchers carried out a double blind placebo controlled experiment with ORACs. The theoretical part of the work was part of a thesis for the University of Marburg, Germany. This work provided a meta-study of the previous temperature differential, electroscopic discharge rate changes and changes in air humidity claimed within previous Orgone cabinet studies. A book detailing their work is available (Muschenich 1995).
+Gebauer and Muschenich (1987) The researchers carried out a double blind placebo controlled experiment with ORACs. The theoretical part of the work was part of a thesis for the University of Marburg, Germany. This work provided a meta-study of the previous temperature differential, electroscopic discharge rate changes and changes in air humidity claimed within previous Orgone cabinet studies.
+
+A book detailing their work is available (Muschenich 1995).
 In the experimental part of the studies 15 volunteers had 20 thirty minute sessions, 10 of which were in an eight layered orgone accumulating cabinet (constructed according to Reich’s plans) and 10 of which were in an identical looking placebo cabinet (constructed only of organic materials). The placebo cabinet was identical to the test cabinet in size, shape and insulating properties. An additional 5 subjects were allocated who had all their sessions in one box- 3 subjects were in the experimental group and 2 in the placebo.
+
+
 Before each session all the subjects sat in a relaxation chair for 15 minutes and baseline physiological data was recorded.
 After the sessions a questionnaire was given to provide extra control against suggestive factors.
 Clothing of subjects, position of cabinets and sequence of sessions (experimental/placebo) were also controlled.
 The experimenters and subjects were both blinded. The experimental or placebo cabinet was randomly allocated. The subjects had no knowledge concerning the experiment.
-Results
+
+## Results
+
 The study rejected its Null Hypothesis (There is no change between the physiological effects of the Orgone and Placebo cabinets) with a Significance Level of P < 0.01. Parasympathetic stimulation of the body, sensations of heat, an increase in the internal body temperature and regulation of arterial pressure was reported.
-All subjects except one showed a preference for the accumulating cabinet. Warmth, tingling and pleasant sensations were commonly reported. One subject appeared resistant to changes in the Orgone cabinet. This subject preferred the Placebo cabinet. A meteorological association with physical effects was claimed and a temperature differential of approximately 1-degree between Orgone and Placebo cabinet internal atmospheric temperature was reported.
+All subjects except one showed a preference for the accumulating cabinet. Warmth, tingling and pleasant sensations were commonly reported. One subject appeared resistant to changes in the Orgone cabinet.
+
+This subject preferred the Placebo cabinet. A meteorological association with physical effects was claimed and a temperature differential of approximately 1-degree between Orgone and Placebo cabinet internal atmospheric temperature was reported.
 Electro-Cardio-Gram (ECG) recordings were found to have an unexplained high variance statistically.
 
 www.leonsouthgate.com
@@ -4041,11 +4297,16 @@ The 5 people who used only one of the cabinets were too small a subgroup to esta
 1120) 26
 Reich’s Oranur Experiment
 Very good description of the oranur experiment and its effects.
-Reich used 20 millicuries of Phosphurus 32 and 2.26 millicuries of Cobalt 60 but in an exceedingly high charge orgone lab. The subsequent Oranur reaction spread for miles and the subjective effects were similar to what was reported in first hand reports of the Three Mile Island incident. However official scientists at the 3 mile incident denied that such effects were possible at the levels claimed to be released, for example people heard loud explosive roaring type noises in the absence of physical explosions, there was a steel blue 'oranur' sky and a metallic taste and tree's died from the tips downwards (a DOR effect). Also occurring were irritated watery eyes, strange smells (iodine-like), respiratory inflammation, menstrual disruption, skin rashes and pain in joints.
+Reich used 20 millicuries of Phosphurus 32 and 2.26 millicuries of Cobalt 60 but in an exceedingly high charge orgone lab. The subsequent Oranur reaction spread for miles and the subjective effects were similar to what was reported in first hand reports of the Three Mile Island incident. However official scientists at the 3 mile incident denied that such effects were possible at the levels claimed to be released, for example people heard loud explosive roaring type noises in the absence of physical explosions, there was a steel blue 'oranur' sky and a metallic taste and tree's died from the tips downwards (a DOR effect).
+
+
+Also occurring were irritated watery eyes, strange smells (iodine-like), respiratory inflammation, menstrual disruption, skin rashes and pain in joints.
 1121) 39
 Cancer
 Reich's journals documented often dramatic changes in various conditions such as anemia, diabetes mellitus, carcinoma & wound healing.
 Heikko Lassak in West Germany led a group of doctors who experimented with the use of the ORAC in treating patients. Their work was presented at numerous lectures in German and Scandinavian universities. As ORAC design instruction became available to more people in the mid-80's Lassak documents that he was being contacted by many people in person and by letter who were reporting predominately positive experiences with the ORAC.
+
+
 Working free of charge with ORACs and orgone psychotherapy Lassak worked with 17 terminal cancer patients from 1988-1991 approximately. He found a clear reduction in pain in 2/3rds of the patients after 20 ORAC treatments. All of the patients experienced an increase in vitality. Most of the patients had their prognosis extended by their specialists.
 In 9 of the severely disabled terminal cancer cases analgesia was not required at all - to the amazement of their specialists..
 When the patients were in the ORAC they often described a 'new' type of 'good' pain. Several times patients described a pain localised around a certain area which turned out to be an undiagnosed metastases.
@@ -4053,12 +4314,16 @@ In three cases a shrinking of tumours was radiologically diagnosed.
 Reich Blood Test and another type of live blood analysis showed marked changes.
 Lassak notes the live blood analysis and radiological treatment of Dr Joseph Issels which is successful due to its energetic monitoring of the effect of the radiation.
 Lassak notes that the patients he treated were in an older age group and warns against treating young people with acute myeloid leukaemia. Sometimes in younger people cancer can be an energetically 'excess' condition. But the main point to remember is that ORAC treatment can result in auto-intoxication - the kidneys and liver are faced with much tumour debris and T-Bacilli (cancer-associated proto-virus).
+
+
 Chronic medical conditions with associated pain often show a great reduction or alleviation of pain.
 
 www.leonsouthgate.com
 1122) 49
 DORbuster
-Brenner, an MD reports on the use of the DOR-buster with three cases of infectious disease. Brenner uses a slightly unusual but strong DOR-buster. (It had plastic tubes coated inside with metal). A non-healing wound and a recurrent respiratory condition were treated (the DOR-buster may have worked by unlocking a deeply blocked and armoured ocular segment). Recurring cutaneous infections were also treated. All symptoms reacted dramatically to the DOR-buster.
+Brenner, an MD reports on the use of the DOR-buster with three cases of infectious disease. Brenner uses a slightly unusual but strong DOR-buster. (It had plastic tubes coated inside with metal). A non-healing wound and a recurrent respiratory condition were treated (the DOR-buster may have worked by unlocking a deeply blocked and armoured ocular segment).
+
+Recurring cutaneous infections were also treated. All symptoms reacted dramatically to the DOR-buster.
 1223) 54
 ORAC treatments
 Demeo reports on observations of using the ORAC.
@@ -4074,7 +4339,10 @@ The device is effective in bringing about a rapid change for the better in a med
 See also JO 22 V1 1988.
 1225) 62
 Cloudbusting/OROPS
-In 1986 the south east section of the USA had been devastated by drought. The national forest service spent 120 million dollars on ending the drought (presumably by cloudseeding methods) in the Yellowstone park area alone in 1 year. Two to fifteen thousand dollars will fund a cloudbusting operation. Demeo claims to have ended the great drought of 1986. The cloudbusting caused a gentle drizzle to start which gathered pace and ended the drought. This is unusual for drought ending rains which are normally more violent-though the opposite is often the case in engineered rainfall.
+In 1986 the south east section of the USA had been devastated by drought. The national forest service spent 120 million dollars on ending the drought (presumably by cloudseeding methods) in the Yellowstone park area alone in 1 year. Two to fifteen thousand dollars will fund a cloudbusting operation.
+
+Demeo claims to have ended the great drought of 1986. The cloudbusting caused a gentle drizzle to start which gathered pace and ended the drought. This is unusual for drought ending rains which are normally more violent-though the opposite is often the case in engineered rainfall.
+
 Also printed in a magazine concerned with nature and human issues called 'Wildfire' 1988 Issue, Spokane, WA, USA. 'An Interview with James Demeo'.
 1226) 63
 
@@ -4110,6 +4378,8 @@ Shanahan
 Electron microscope photographs of bions forming from sterile iron dust preparations showing double cell walls, fissioning, bridging (possibly conjugation), nucleated features and organelles. Glowing hot iron dust was immersed into a sterilised solution of brain-heart and JCl nutrient solution with sterile protocol and examined at 20,000 power magnification by Stephen Shanahan of Melbourne university.
 1235) 84-88
 More on official denial of oranur symptoms The authorities labelled all unusual phenomena after the Three Mile Island nuclear incident as 'psychological'. People reported seeing red water, a glowing purple/red cloud over Three Mile island, mechanics working outside 6 miles away (who officially would have received too low a dose to cause symptoms) reported sunburn and a metal taste. Others reported that the taste grew worse inside mobile homes (this is because an oranur reaction gets worse in aluminium buildings which act as ORACs).
+
+
 1236) 16
 Biology and chemistry Alkali behaves like potassium (expansion). Acid like calcium (contraction).
 My note - blood is slightly alkaline in health.
@@ -4120,7 +4390,9 @@ The communist Daily Worker (Arbeijderbladet, Copenhagen, December 1st 1933 calle
 1239) 115
 Cloudbusting
 OROP Namibia 1992-1993.
-The entire southern part of Africa was facing food shortages in the wake of severe drought. Demeo and his team worked in two bursts November 1992 and February 1993 with the knowledge of the Namibian government. A critical drought situation since 1989 was averted. A graph is presented which shows that the major precipitation as measured by an official Namibian measuring station followed almost immediately after the cloudbusting operations.
+The entire southern part of Africa was facing food shortages in the wake of severe drought. Demeo and his team worked in two bursts November 1992 and February 1993 with the knowledge of the Namibian government. A critical drought situation since 1989 was averted.
+
+A graph is presented which shows that the major precipitation as measured by an official Namibian measuring station followed almost immediately after the cloudbusting operations.
 
 ## Forest healing OROP (Waldheilung) 1989-1993
 
@@ -4134,11 +4406,16 @@ T.M. Lai and D. D. Eberl of a U.S. Geological survey team in Denver, Colorado re
 A mixture of soil and water was kept in an ORAC. P availability was measured. This increased by up to 30% as compared to control. Adding organic matter and K to the soil increased the effect. Different ORAC materials had an effect on the process.
 1241) 116
 Homeopathy and Dor-busting
-Roland Plocher, a German researcher has developed a cross between homeopathy and dor-busting which appears to be very effective in revitalising dead ponds and lakes. A thin sheet of aluminium two feet square is coated with a white powder. Using a device similar to a film projector, homeopathic information is impregnated into the powder. The information coated aluminium sheet is rolled up and put into groups of plastic tubes. These are weighted with a concrete block and then immersed into a lake or river. The river or lake receives the revitalised life-energy information and comes back to life.
+Roland Plocher, a German researcher has developed a cross between homeopathy and dor-busting which appears to be very effective in revitalising dead ponds and lakes. A thin sheet of aluminium two feet square is coated with a white powder. Using a device similar to a film projector, homeopathic information is impregnated into the powder.
+
+The information coated aluminium sheet is rolled up and put into groups of plastic tubes. These are weighted with a concrete block and then immersed into a lake or river. The river or lake receives the revitalised life-energy information and comes back to life.
+
 He has worked with many farmers and others in Switzerland and Germany. Swiss police took him, unofficially, at gunpoint over the Swiss border, removed his belongings and told him never to return.
 1242) 143
 Brownian motion
-Robert Brown described Brownian motion in 1827 when he saw subtle pulsating movements of tiny pollen grains in a microscope. Brown thought the motion was due to subtle forces. In 1905 after Brown’s death it was Einstein who argued that Brown's particles were moving because of being buffeted by larger molecules in the solution. It has been argued that this is like saying a battle ship is buffeted by lots of tiny basketballs.
+Robert Brown described Brownian motion in 1827 when he saw subtle pulsating movements of tiny pollen grains in a microscope. Brown thought the motion was due to subtle forces. In 1905 after Brown’s death it was Einstein who argued that Brown's particles were moving because of being buffeted by larger molecules in the solution.
+
+It has been argued that this is like saying a battle ship is buffeted by lots of tiny basketballs.
 My note - See British orgone researcher Peter Jones for more on this subject, energetics and microscopy.
 1243) 144-145
 Earthquake weather, rivers of high altitude liquid in atmosphere, clouds forming at mountain tops, high altitude winds, storms on Jupiter and Neptune, Jupiter's aurora and glowing hydrogen in space all support Reich's theories argues Demeo.
@@ -4152,15 +4429,23 @@ www.leonsouthgate.com
 It is little known that when Reich's above ideas were discussed in Freud's inner circle they so greatly disturbed Freud that Freud then wrote, 'Civilisation and its Discontents' in reaction to it. To quote Freud, "The human animal, with its insatiable needs, must always remain an enemy to organised society, which exists largely to tamp down sexual and aggressive desires".
 Reich then wrote Mass Psychology of Fascism in 1933 (a collection of his previous observations on social pathology). This was the same year Hitler gained power. The Gestapo put Reich on its death lists and began burning his books.
 1245) 55
-Leon Jaroff, senior editor of TIME magazine in 1970 was also a member of CSICOP (Committee for the Scientific Investigation of the Paranormal, which has conducted unscientific witchhunts of people like Beneveniste and has frequently attacked Reich. Time magazine was a safe house for communists in the 1940s and journalists with agendas such as Whittaker Chambers an editor at Time in the 1940's and friend of Soviet super-spy, Alger Hiss. When Chambers testified against Hiss other far-left members of Time's staff such as Leon Svirsky became incensed. A close friend of Svirsky, Martin Gardner became the Godfather of CSICOP and headed many attacks upon Reich. Svirsky joined the staff of Scientific American.
+Leon Jaroff, senior editor of TIME magazine in 1970 was also a member of CSICOP (Committee for the Scientific Investigation of the Paranormal, which has conducted unscientific witchhunts of people like Beneveniste and has frequently attacked Reich. Time magazine was a safe house for communists in the 1940s and journalists with agendas such as Whittaker Chambers an editor at Time in the 1940's and friend of Soviet super-spy, Alger Hiss. When Chambers testified against Hiss other far-left members of Time's staff such as Leon Svirsky became incensed.
+
+
+A close friend of Svirsky, Martin Gardner became the Godfather of CSICOP and headed many attacks upon Reich. Svirsky joined the staff of Scientific American.
 CSICOP has various Marxist-humanist founding members such as Paul Edwards who himself had orgone therapy and credited it with giving him 'greater insight into the mind-body problem than anyone else'. However Edwards thinks of Reich as a crank due to his biophysical claims (and probably his anti-communist politics also).
-CSICOP is connected to Prometheus books by communist sympathiser Paul Kurtz (friend of Corliss Lamont and publisher of Wolfgang Leonhard's Marxist books. The 'human sexuality' section of Prometheus books was edited by CSICOP fellow Dr Vern Bullough and includes books which are borderline advocates for peadophilia such as West's and Woodhouse's pseudo-scientific book claiming to be a scientific study of peadophilia. The section also contains advocacy of zoophilia. It is no wonder that CSICOP hates Reich with such a passion. Reich stated that such sexuality was deeply sick and a reflection of the same anti-sexual anti-heterosexual forces as the extremist moraliser.
+CSICOP is connected to Prometheus books by communist sympathiser Paul Kurtz (friend of Corliss Lamont and publisher of Wolfgang Leonhard's Marxist books. The 'human sexuality' section of Prometheus books was edited by CSICOP fellow Dr Vern Bullough and includes books which are borderline advocates for peadophilia such as West's and Woodhouse's pseudo-scientific book claiming to be a scientific study of peadophilia. The section also contains advocacy of zoophilia.
+
+
+It is no wonder that CSICOP hates Reich with such a passion. Reich stated that such sexuality was deeply sick and a reflection of the same anti-sexual anti-heterosexual forces as the extremist moraliser.
 1246) 79-87
 Orgone Experiment
 Bions
 Grad
 Dr Bernard Grad PhD in biology and professor at McGill University Canada present a paper in which he repeated Reich's Experiment XX. In this an autoclaved microscopically clear aqueous extract of soil (bion water) is frozen and then thawed, flakes of microscopic size with living form were obtained.
-Grad claims that he also finds this to be true and that in addition he found other cell-like and spore-like forms. Eventually Grad calls these forms PFs or Primordial Forms. With changes in chemical content of the bion water Grad found more stable and complex forms could be precipitated, calcium chloride and ammonium carbonate was used amongst many other preparations. The addition of complex proteins also resulted in more complex forms being produced. Additionally, Grad found that some chemical reactions were sufficient in themselves to produce bionous type vesicles.
+Grad claims that he also finds this to be true and that in addition he found other cell-like and spore-like forms. Eventually Grad calls these forms PFs or Primordial Forms. With changes in chemical content of the bion water Grad found more stable and complex forms could be precipitated, calcium chloride and ammonium carbonate was used amongst many other preparations.
+
+The addition of complex proteins also resulted in more complex forms being produced. Additionally, Grad found that some chemical reactions were sufficient in themselves to produce bionous type vesicles.
 Various photographs are presented of the proto-organisms.
 As well as being published here Grad has presented his work at Pleomorphic biology conferences.
 1247) 88-94
@@ -4169,18 +4454,26 @@ Orgone Experiment
 www.leonsouthgate.com
 Bions
 Snyder
-Snyder an MSc biology graduate writes under a pseudonym to protect his academic career. Snyder also confirms Reich's Experiment XX. He finds additionally that by varying the type of material used to produce the bion-water, earth, hay or grass distinct morphological differences in the resulting microstructures can be produced. Snyder presents thirteen high quality micro-photographs of the differing bion preparations, discusses the previous bion experiments since Reich and presents a preliminary X-Ray analysis of the chemical elements of bion water.
+Snyder an MSc biology graduate writes under a pseudonym to protect his academic career. Snyder also confirms Reich's Experiment XX. He finds additionally that by varying the type of material used to produce the bion-water, earth, hay or grass distinct morphological differences in the resulting microstructures can be produced.
+
+Snyder presents thirteen high quality micro-photographs of the differing bion preparations, discusses the previous bion experiments since Reich and presents a preliminary X-Ray analysis of the chemical elements of bion water.
 1248) 95
 Orgone Experiment
 Bions
 Kong and Kim
 Kong (Dong Chul) and Kim (Hyun-Won) of Yonsei University in South Korea have repeated the little known research of North Korean Bong Ham Kim who claimed to have found an anatomical fluid system that represented the meridian system, the Bonghan duct or Kyungrak system. In this system there are bionously created enitities called Sanals. The author of the paper have confirmed the existence of the system and the Sanals and present electron and light microscopy photographs of the Sanals organising into cells.
+
+
 1249) 100-113
 Orgone Experiments
 Bions
 Demeo
-Demeo conducts well controlled experiments in which he repeats bion creation from iron dust with positive results. He also repeats Experiment XX. The repeat of Reich's experiment XX is particularly well controlled with the preparations beings intensively boiled, auto-claved, and filtrated at 0.2 microns. Many of the forms that Reich claimed were seen such as spore and yeast like particles and even pseudo-ameoba type cells. Many of the vesicles were much larger than the 0.4 micron filter size.
+Demeo conducts well controlled experiments in which he repeats bion creation from iron dust with positive results. He also repeats Experiment XX. The repeat of Reich's experiment XX is particularly well controlled with the preparations beings intensively boiled, auto-claved, and filtrated at 0.2 microns.
+
+Many of the forms that Reich claimed were seen such as spore and yeast like particles and even pseudo-ameoba type cells. Many of the vesicles were much larger than the 0.4 micron filter size.
 Demeo also presents very interesting photographs of the Reich Blood Test. Demeo makes the note that unlike other pleomorphic pioneers such as Naessens and Enderlein (somatids and protids) or the Indian researcher's jeewanu (Bahadur) only Reich informs us of how the natural organisation of protozoa in nature in soils and ponds parallels the process of cancer formation in mammals. Only Reich found the connection between pre-life particles and biological energy.
+
+
 1250) 155
 Courtney Baker lists 10 ways orgone has been measured;
 •
@@ -4192,15 +4485,22 @@ Baker details an experimental device which converts orgone energy into a measura
 Orgone Experiment
 Orgone and Dowsing
 Nikolaidis
-A Greek researcher investigates dowsing and orgonomic devices. Reich thought that dowsing was an energetic excitement between the dowser and the dowsed object steered through the rods. He conducted some rough experimentation to investigate this finding the dowsing rods were attracted to ORACs as well as to water. Reich noted that the dowser he met in the USA was more attuned to energy functions than he was at the time.
+A Greek researcher investigates dowsing and orgonomic devices. Reich thought that dowsing was an energetic excitement between the dowser and the dowsed object steered through the rods. He conducted some rough experimentation to investigate this finding the dowsing rods were attracted to ORACs as well as to water.
+
+Reich noted that the dowser he met in the USA was more attuned to energy functions than he was at the time.
 Nikolaidas a mechanical engineer has found that ORACs, Cloudbusters, Dor-busters have definite fields which can be detected through dowsing, his basic observations are as follows;
 All orgonomic devices react to the dowsing rodsThe reaction is stronger in rural areas • Is related to weather Depends on the size of orgone field and varies according to time of day Orgone flow creates a strong energy field The size of a cloudbuster's energy field is related to the speed and quantity of the flow of water it is grounded in Energy charge remains in the area where an orgone device has been operating even after it is removed-this is called 'after-image' in dowsing circles.
 1252) 168-175
 Orgone Experiment
 Orgone and Mung Bean Sprouts
 Demeo
-Well controlled, scientific experiment on sprouting mung beans. The experimental beans were placed in a small ORAC of 13 orgone ply which was placed within another 25 ply large ORAC, all of which was within an orgone dark room in rural area (USA). The control enclosure was made of plastic and cardboard linings, sealed for light and placed within a wooden hut to create near identical conditions to the orgone dark room (which is also made from a wooden hut as the basis). A light meter was used to monitor light conditions, temperature equality between the two enclosures had been established prior to the experimental run, thermal mass properties were equalised between the enclosures.
-Quantity of water given was recorded and equal. Seeds were kept in glass petri-dishes and covered to the same height. Measurements of growth were taken once daily at the same time for both groups Descriptive Statistics The histograms show a good bell curve for the distributions of both orgone and control seedlings. All 5 parameters measured showed an increase in the orgone group particularly the average seedling www.leonsouthgate.com lengths which showed a 34% increase in length.
+Well controlled, scientific experiment on sprouting mung beans. The experimental beans were placed in a small ORAC of 13 orgone ply which was placed within another 25 ply large ORAC, all of which was within an orgone dark room in rural area (USA). The control enclosure was made of plastic and cardboard linings, sealed for light and placed within a wooden hut to create near identical conditions to the orgone dark room (which is also made from a wooden hut as the basis).
+
+
+A light meter was used to monitor light conditions, temperature equality between the two enclosures had been established prior to the experimental run, thermal mass properties were equalised between the enclosures.
+Quantity of water given was recorded and equal. Seeds were kept in glass petri-dishes and covered to the same height. Measurements of growth were taken once daily at the same time for both groups Descriptive Statistics The histograms show a good bell curve for the distributions of both orgone and control seedlings.
+
+All 5 parameters measured showed an increase in the orgone group particularly the average seedling www.leonsouthgate.com lengths which showed a 34% increase in length.
 
 ## Analytical Statistics
 
@@ -4209,7 +4509,10 @@ This experiment has been undertaken three times between 1998 and 2000 with simil
 There was a small temperature fluctuations of less than a degree between the two groups. These fluctuations did not favour a particular group. However Demeo conducted his own temp study. In an additional well controlled and conducted, statistically analysed study, Demeo showed that no significant differences in growth of mung beans can be found at either +0.25 C or +1.5C temperature differential.
 1253) 183-211
 OROP
-Description of a highly successful 5 year desert greening project undertaken in Eritrea partly with government funding (this was withdrawn at one point in response to criticism from European and US 'sceptics' but recommenced when drought again reared itself. Large precipitations occurred shortly after operations. Cloudbusting years showed very different weather patterns to the year in which operations were suspended (1996). The combined analysis for 1995, 1997 and 1998 shows a 20% average increase in precipitation in the 15 days after operations as against before it.
+Description of a highly successful 5 year desert greening project undertaken in Eritrea partly with government funding (this was withdrawn at one point in response to criticism from European and US 'sceptics' but recommenced when drought again reared itself. Large precipitations occurred shortly after operations. Cloudbusting years showed very different weather patterns to the year in which operations were suspended (1996).
+
+
+The combined analysis for 1995, 1997 and 1998 shows a 20% average increase in precipitation in the 15 days after operations as against before it.
 Downstream effects in Lake Nasser were reported as 'unbelievable'. In Lakes Bring New Chance for Life in Sahara the Dallas Morning News Dec 5th 2000 has this to say (unaware of the OROPS) "A change of biblical proportions is washing across the Sahara desert. For the first time in 6,000 years, new lakes have risen from the sands of southern Egypt."
 The exceptional rains occurred during phase two of the 1998 cloudbuster operations using three different cloudbusters.
 The cloudbuster is used to augment natural patterns of rainfall proof of its effectiveness is measured by onset of rains after a period of drought prevailing for months or years, rains at high quantities, persistence of rain, clearing of atmospheric haze (which Reich thought was composed of stagnated energy called DOR and merely particulates.
@@ -4244,8 +4547,7 @@ ABREVIATIONS
 CB-Cloudbuster, ORAC-Orgone Accumulator, MDB or DB-Medical Dorbuster. DOR-Deadly
 Orgone, OROPs-Orgone Operations (weather modification). OR-Orgone, NUR-Nuclear, CFP-Common Functioning Principle. RBT-Reich Blood Test.
 The entries are taken from Section 1 but are arranged by subject.
-ARMOURING – Page 169 ANXIETY - Page 175 ATTACKS – Page 176 BAKER – Page 180 BIO-ELECTRICITY – Page 182 BIONS- Page 184 CANCER- Page 189 CHARACTER- Page 196 CHILDREN- Page 202 CLOUDBUSTERS – Page 207 COMMUNISM- Page 217 CONSCIOUSNESS- Page 220
-EXPERIMENTS- Page 228
+ARMOURING – Page 169 ANXIETY - Page 175 ATTACKS – Page 176 BAKER – Page 180 BIO-ELECTRICITY – Page 182 BIONS- Page 184 CANCER- Page 189 CHARACTER- Page 196 CHILDREN- Page 202 CLOUDBUSTERS – Page 207 COMMUNISM- Page 217 CONSCIOUSNESS- Page 220 EXPERIMENTS- Page 228
 
 ## Fda- 260
 
@@ -4256,13 +4558,15 @@ FDA & TESTS- Page 267
 
 ## Medical Notes- 279
 
-MYSTICISM – Page 338
+## MYSTICISM – Page 338
+
 
 ## Orgasm Formula- 342
 
 ## Orgastic Potency- 343
 
-ORACs – Page 286 ORGONE THERAPY – Page 292
+## ORACs – Page 286 ORGONE THERAPY – Page 292
+
 
 ## Psychologisation- Page 303
 
@@ -4372,7 +4676,9 @@ Dr Chorbajian in Washington Post Magazine Jan 1985 reports on a device for reduc
 Liberal/Socialist-Brain Armouring Dominates.
 Conservative-Body Armouring Dominates.
 1032) 58-59
-Number of studies of schizophrenia have confirmed the presence of eye movement disorders. These disorders are not due to other causes and have a significant association with schizophrenics and their offspring. A less strong association is noted with Manic-depression. This confirms Reich's views (see Character Analysis) that the schizophrenic process immobilises parts of the brain, probably the base and other areas including nerves.
+Number of studies of schizophrenia have confirmed the presence of eye movement disorders. These disorders are not due to other causes and have a significant association with schizophrenics and their offspring. A less strong association is noted with Manic-depression.
+
+This confirms Reich's views (see Character Analysis) that the schizophrenic process immobilises parts of the brain, probably the base and other areas including nerves.
 36) 175
 Author notes that Mesmer, who discovered aspects of life energy, was also aware of muscular armouring.
 58) 42
@@ -4380,6 +4686,7 @@ Ea are free from gravity-would they therefore be free of armouring? (Blasband).
 208) 123
 Reich's first hypothesis on origin of armouring: reasoning turning inward against itself.
 My note-this was an 'idea', a logical thesis-later on it was replaced by a bio-energetic view that DOR/deserts precipitate armouring in 'Contact with Space'. However this was only briefly sketched out as Reich was involved in the fraudulent FDA trial. Reich recognised that on some level Freud was right to perceive a destructive tendency inherent in life as desertification paralleled this process in nature.
+
 
 www.leonsouthgate.com
 670) 106
@@ -4465,7 +4772,9 @@ American College of Physicians asked him to resign due to 'practising cult of or
 Orgone energy clinic closed by NY authorities.Cott and Duvall investigated.
 240) 120
 Criticism & Attacks-Sex-pol Essays 1929-1934 (1972) Baxxendale, L (Ed) NY, Vintage Books.
-New left claiming Reich as a Marxist and rewriting his views - Reich was a great revolutionary but a mad scientist. Others such as Rieff, Robinson, Rycroft, Makayev, Cattier (France), Luigi also make similar arguments. Baxxendale is the most comprehensive and cunning. Tries to imply that Reich's rejection of the left was due merely to disillusionment with Stalin and Freud (and not a rejection of left-wing power that centralises government as was actually the case).
+New left claiming Reich as a Marxist and rewriting his views - Reich was a great revolutionary but a mad scientist. Others such as Rieff, Robinson, Rycroft, Makayev, Cattier (France), Luigi also make similar arguments. Baxxendale is the most comprehensive and cunning.
+
+Tries to imply that Reich's rejection of the left was due merely to disillusionment with Stalin and Freud (and not a rejection of left-wing power that centralises government as was actually the case).
 268) 13
 Norwegian authorities went to Malinowski in London, Bonnet in Paris, Du Teil in Nice rather than approach Reich at his lab directly.
 276) 65-78
@@ -4502,13 +4811,25 @@ Reich argued that psychological health is based on sexual health and that childr
 It is little known that when Reich's above ideas were discussed in Freud's inner circle they so greatly disturbed Freud that Freud then wrote, 'Civilisation and its Discontents' in reaction to it. To quote Freud, "The human animal, with its insatiable needs, must always remain an enemy to organised society, which exists largely to tamp down sexual and aggressive desires".
 Reich then wrote Mass Psychology of Fascism in 1933 (a collection of his previous observations on social pathology). This was the same year Hitler gained power. The Gestapo put Reich on its death lists and began burning his books.
 1245) 55
-Leon Jaroff, senior editor of TIME magazine in 1970 was also a member of CSICOP (Committee for the Scientific Invesitgation of the Paranormal, which has conducted unscientific witchhunts of people like Beneveniste and has frequently attacked Reich. Time magazine was a safe house for communists in the 1940s and journalists with agendas such as Whittaker Chambers an editor at Time in the 1940's and friend of Soviet super-spy, Alger Hiss. When Chambers testified against Hiss other far-left members of Time's staff such as Leon Svirsky became incensed. A close friend of Svirsky, Martin Gardner became the Godfather of CSICOP and headed many attacks upon Reich. Svirsky joined the staff of Scientific American.
+Leon Jaroff, senior editor of TIME magazine in 1970 was also a member of CSICOP (Committee for the Scientific Invesitgation of the Paranormal, which has conducted unscientific witchhunts of people like Beneveniste and has frequently attacked Reich. Time magazine was a safe house for communists in the 1940s and journalists with agendas such as Whittaker Chambers an editor at Time in the 1940's and friend of Soviet super-spy, Alger Hiss. When Chambers testified against Hiss other far-left members of Time's staff such as Leon Svirsky became incensed.
+
+
+A close friend of Svirsky, Martin Gardner became the Godfather of CSICOP and headed many attacks upon Reich. Svirsky joined the staff of Scientific American.
 CSICOP has various Marxist-humanist founding members such as Paul Edwards who himself had orgone therapy and credited it with giving him 'greater insight into the mind-body problem than anyone else'. However Edwards thinks of Reich as a crank due to his biophysical claims (and probably his anti-communist politics also).
-CSICOP is connected to Prometheus books by communist sympathiser Paul Kurtz (friend of Corliss Lamont and publisher of Wolfgang Leonhards Marxist books. The 'human sexuality' section of Prometheus books was edited by CSICOP fellow Dr Vern Bullough and includes books which are borderline advocates for peadophilia such as West's and Woodhouse's pseudo-scientific book claiming to be a scientific study of peadophilia. The section also contains advocacy of zoophilia. It is no wonder that CSICOP hates Reich with such a passion. Reich stated that such sexuality was deeply sick and a reflection of the same anti-sexual anti-heterosexual forces as the extremist moraliser.
+CSICOP is connected to Prometheus books by communist sympathiser Paul Kurtz (friend of Corliss Lamont and publisher of Wolfgang Leonhards Marxist books. The 'human sexuality' section of Prometheus books was edited by CSICOP fellow Dr Vern Bullough and includes books which are borderline advocates for peadophilia such as West's and Woodhouse's pseudo-scientific book claiming to be a scientific study of peadophilia. The section also contains advocacy of zoophilia.
+
+
+It is no wonder that CSICOP hates Reich with such a passion. Reich stated that such sexuality was deeply sick and a reflection of the same anti-sexual anti-heterosexual forces as the extremist moraliser.
 1226) 63
 National Science Foundation heard about Demeo's PHD work on cloudbusting and put pressure on Kansas university to pull the project-this led Demeo to his Saharasia thesis eventually.
 1091) 8
-Writer notes that Reich’s life was relatively free of harassment until August 1946 when Mass Psychology of Fascism (MPF) was published. It was reviewed by the communist and leading intellectual, Frederic Wertham in The New Republic magazine, a leftist publication. Wertham called on all liberals and communists to attack Reich and silence him. Mildred Brady then took up Wertham's 'call-to-arms' some 6 months later. The MPF had reached number one on the non-fiction NY library list and there must have been worries about the books influence upon the American left. Moscow had officially burnt the MPF book earlier. Brady's husband was a member of the communist party and it is reported that Brady was more extreme in her views than her husband. Brady deliberately falsified information in her article such as that Reich claimed the ORACs granted orgastic potency. It was a defamation for political purposes but was then picked up on by the pharmaceutical, medical industry and the popular media. Reprints in;
+Writer notes that Reich’s life was relatively free of harassment until August 1946 when Mass Psychology of Fascism (MPF) was published. It was reviewed by the communist and leading intellectual, Frederic Wertham in The New Republic magazine, a leftist publication. Wertham called on all liberals and communists to attack Reich and silence him.
+
+Mildred Brady then took up Wertham's 'call-to-arms' some 6 months later. The MPF had reached number one on the non-fiction NY library list and there must have been worries about the books influence upon the American left. Moscow had officially burnt the MPF book earlier.
+
+Brady's husband was a member of the communist party and it is reported that Brady was more extreme in her views than her husband. Brady deliberately falsified information in her article such as that Reich claimed the ORACs granted orgastic potency. It was a defamation for political purposes but was then picked up on by the pharmaceutical, medical industry and the popular media.
+
+Reprints in;
 Journal of the American Medical Association
 Bulletin of the Menninger Clinic
 Consumer Reports
@@ -4574,7 +4895,9 @@ Orgone Experiments
 Bio-electricity and Emotions
 Braid et al Very good summary article on Reich's bio-electrical research with some new study data of its own presented (7 person case study).
 Reich used liquid KCl electrodes which were not available to the researchers. Reich used human subjects attached to an oscillograph (an early model employing vacuum tubes). The oscillograph was attached to a photosensitive permanent recording strip.
-Reich used two electrodes, a reference and differential electrode. The reference electrode was attached to an non-erogenous site on the body. The skin was carefully abraded to the point of producing serous fluid. This was in order for the measurement to reflect potential electrical differences between the inside of the body and the external. As evidence for this Reich abraded both sites and found the potential between the sites usually then became zero.
+Reich used two electrodes, a reference and differential electrode. The reference electrode was attached to an non-erogenous site on the body. The skin was carefully abraded to the point of producing serous fluid.
+
+This was in order for the measurement to reflect potential electrical differences between the inside of the body and the external. As evidence for this Reich abraded both sites and found the potential between the sites usually then became zero.
 Reich undertook experiments whereby subjects predicted pleasure and pain responses in a separate room. These were found to correlate with the electrical potential measurements, a positive deflection, or increase in electrical charge for pleasure and negative deflection or decrease in electrical charge for pain.
 Sugar/salt experiments were also conducted. The subjects were tested for their bio-electrical response (confirming Reich's hypothesis). Erogenous zones were found to have potentials up to 200 mV. Non-erogenous zones were found to have a resting potential of about 20 mV.
 Large deflections positively accompany sexual thoughts or pleasurable excitations. Armoured people tend to have lesser bio-electrical responses.
@@ -4601,7 +4924,11 @@ Org-protozoa (protozoa developed from bion processes). Named after the orgasm fo
 285) 22
 T-baccilli only grow in a low energy environment.
 324) 35
-Procedure for time-lapse micro-photography of Bions is described. Two to three pieces of moss or grass placed on a hanging drop slide, water added. Piece of wax placed under four corners of a cover slip which is placed over the slide to exclude air bubbles. Cover slip attached with paraffin to the two longer sides of the slide. One fourth of the slide cavity is not covered by the cover slip. Water is then pooled alongside the two sides not covered by the cover slip. Reservoirs replenished every two hours.
+Procedure for time-lapse micro-photography of Bions is described. Two to three pieces of moss or grass placed on a hanging drop slide, water added. Piece of wax placed under four corners of a cover slip which is placed over the slide to exclude air bubbles.
+
+Cover slip attached with paraffin to the two longer sides of the slide. One fourth of the slide cavity is not covered by the cover slip. Water is then pooled alongside the two sides not covered by the cover slip.
+
+Reservoirs replenished every two hours.
 Also see 556) for details of original technical equipment.
 332) 156
 Bions are preliminary not complete forms because they are hard to culture.
@@ -4700,7 +5027,9 @@ Comparative sizes, bions, T-bacilli, microbes are detailed. See other notes for 
 379) 14
 Du Teil in his letter to the French Academy of Science requesting lab assistance to investigate Reich's claims, states that the bions would lead to a materialistic solution with life viewed as 'purposeful organisation' and assigned basically to the realm of mind.
 387) 111-112
-Around 1960 Fox and other scientists discovered that heating amino acids to high temperature and then placing them in boiling saline resulted in formation of 'proteinoid microspheres'. These exhibit life like properties-motility, budding, cleavage, growth, membrane selectivity and 'primitive' proliferation. Two particles could form junctions (similar to Reich's radiating bridges). Fox believes that such protocells are precursors to cells and are the basic unit of life.
+Around 1960 Fox and other scientists discovered that heating amino acids to high temperature and then placing them in boiling saline resulted in formation of 'proteinoid microspheres'. These exhibit life like properties-motility, budding, cleavage, growth, membrane selectivity and 'primitive' proliferation. Two particles could form junctions (similar to Reich's radiating bridges).
+
+Fox believes that such protocells are precursors to cells and are the basic unit of life.
 Makes no reference to Reich or bions.
 See International Society for the Study of the Origin of Life.
 Fox, S. and Dose, K. (1972) Molecular Evolution and the Origin of Life, USA, W. H. Freeman.
@@ -4724,7 +5053,9 @@ Orgone Experiment.
 ## ORAC Mice.
 
 Only 9 animals. Used transplanted tumours. Strong ORACs. Rural location. Clear weather.
-Results
+
+## Results
+
 There was a significant difference in longevity. The Treated group lived 1.6 times longer. Statistics T-Test, P=0.05.
 (My Note: the results may be more significant than the above because of difficulty obtaining significance in such a small group size).
 Autopsy results are particularly graphic and support the statistical significance. Control mice have dirty, degraded internals but Treatment mice look clean internally.
@@ -4746,7 +5077,9 @@ Transplanted mammary tumours were used. Treatment lengthened life span by 1/3rd 
 The size of this change would most likely be statistically significant with a better sample size (but was not reported to statistically significant here). Delay in tumour development was a strong variable.
 The groups were a little small (N=14) to justify a full statistical analysis.
 Mice in the Treatment group were much healthier and lively than those in the Control group.
-Conclusion
+
+## Conclusion
+
 Overall a good study, reported in detail, which showed a real effect by the DOR-buster on cancer affected mice.
 326) 81-89
 Orgone Experiment
@@ -4756,7 +5089,9 @@ Cancer Mice - Orgonotic Functions in the Solunar Cycle.
 
 It was hypothesised that solunar peaks of activity would increase the intensity of the ORAC’s effects.
 Treatment in the solunar phases delayed acceptence of transplanted tumours. Although there were 38 mice in this study no statistical analysis was attempted. There were 14 in the ORAC solunar group and similar numbers in the ORAC non-solunar group and Control group.
-Results
+
+## Results
+
 Low levels of ORAC charging may worsen outcome and increase tumour size. It might be too weak a charge to stimulate immune system sufficiently.
 In both the solunar and non-solunar mice groups once acceptance of tumour was complete further charging increased tumour size. Blasband reported similar problems in medical DorBuster paper (1974).
 The study used transplanted tumours which is an artificial situation medically. Reich used spontaneously occurring tumours which showed an inhibition of tumour size throughout ORAC treatment. Perhaps investigation of a solunar effect is somewhat ambitious at this stage, however this study did show what appears to be an objective effect on tumours via the ORAC.
@@ -4805,8 +5140,14 @@ Transplanted Tumours
 Trotta, Marer (Brazil)
 50 mice were injected with sarcoma cells and split into orgone treatment and control groups. There were two orgone groups, one using a 6 layer ORAC for one hour and one using a one layer with 10 layer lid for 3-4 hours daily. Both groups were treated 6 days a week.
 Although there were two orgone groups, which was a complication, they were treated as one group as the effects were similar. A well presented paper with significant results. Perhaps the environmental conditions in Brazil were also more conducive (but were not described).
-Results
-Orgone group showed enhanced immunulogical activity especially 2/3 hours post treatment. It took 2-3 weeks for differences between the groups to become apparent. Tumours behaved as though they were necrosed with TNF (Tumour Necrosing Factor) from the inside out. Orgone group had a 9 week survival time compared to 4 in the control group. Most treated mice showed a complete evacuation of the tumour leaving an open wound. The difference between the groups was tested statistically via T-Test and was significant at a Confidence Interval of P = 0.02. The autopsy showed that the orgone mice may have died from tumour lysis effects on the liver and kidney (This supports Reich's main concern with orgone treatment of tumours).
+
+## Results
+
+Orgone group showed enhanced immunulogical activity especially 2/3 hours post treatment. It took 2-3 weeks for differences between the groups to become apparent. Tumours behaved as though they were necrosed with TNF (Tumour Necrosing Factor) from the inside out.
+
+Orgone group had a 9 week survival time compared to 4 in the control group. Most treated mice showed a complete evacuation of the tumour leaving an open wound. The difference between the groups was tested statistically via T-Test and was significant at a Confidence Interval of P = 0.02.
+
+The autopsy showed that the orgone mice may have died from tumour lysis effects on the liver and kidney (This supports Reich's main concern with orgone treatment of tumours).
 
 ## 711) 182 Fn
 
@@ -4826,6 +5167,7 @@ Experiment 1 - 259 mice over 4 generations Experiment 2 - 79 mice.
 An ORAC effect was found as the ORAC group died of lymphoblastic leukemia (LL) significantly less than the control group (N=260 P=0.0005). Overall there was no major survival differences between ORAC and control mice however. Possible reasons for this are outlined below.
 There was some lifespan differences in subgroups though these sometimes favoured the control group (male mice dying of causes other than LL lived longer in the control group, male mice dying of LL lived longer in the orgone group/Experiment 1). ORAC mice were dying of LL at an age when the control mice were dying of other causes. ORAC appeared to inhibit tumour formation rather than destroy tumours - autopsy results were quite different between the groups.
 
+
 ## Possible reasons for mixed results
 
 Choice of LL perhaps not a good one as this condition is a mixture of energetic excess and undercharge. There is a cancer process going on - which is an undercharged process plus there is an energetic excess in the leukaemia - the overcharged red blood cells which easily break down into T-Bacilli. Adding orgone to this picture is complicated.
@@ -4833,12 +5175,17 @@ Although lifespan was not improved in this study a definite effect by the ORAC o
 748) 238
 Desert areas as 'metastatising cancer upon the face of the Earth' (John Schleining-CORE member).
 1016) 6
-Dr A. Schmale & H. Iker presented a paper to the American Psychosomatic Society meeting in Rochester (either 1963 or 64, exact reference not available). They reported on their finding that they were able to predict before biopsy 31 out of 40 women suspected of cervical cancer on the basis of feelings of hopelessness which they called 'giving up syndrome'. Reich is in no way credited despite it being him who outlined the resignation syndrome inherent in cancer patients in great detail in the 1940's.
+Dr A. Schmale & H. Iker presented a paper to the American Psychosomatic Society meeting in Rochester (either 1963 or 64, exact reference not available).
+
+They reported on their finding that they were able to predict before biopsy 31 out of 40 women suspected of cervical cancer on the basis of feelings of hopelessness which they called 'giving up syndrome'. Reich is in no way credited despite it being him who outlined the resignation syndrome inherent in cancer patients in great detail in the 1940's.
 Also along the same lines were the NY Academy of sciences report on psycholigcal aspects of cancer in their Science Newsletter of April 17th 1965 - again no mention of Reich.
 1025) 50
 Leading oncologist’s view that tumours are representative of the 'end-stage' of a cancer process which supports Reich’s claims.
 1036f) 54-55
-Very good description of the main points of Nordenstrum’s very careful and almost universally ignored work. He progressed from investigating corona's around XRay photos of lung tumours to funding an electrical potential between tumour masses and their surrounds and by changing this potential, a means to dehydrate and remove the tumour mass. He treated 80 inoperable cancer patients with surprising results, published 3 papers in journals and self published a book, however his work has been almost totally ignored. The AIOS paper notes 4 similarities with Reich's work;
+Very good description of the main points of Nordenstrum’s very careful and almost universally ignored work. He progressed from investigating corona's around XRay photos of lung tumours to funding an electrical potential between tumour masses and their surrounds and by changing this potential, a means to dehydrate and remove the tumour mass. He treated 80 inoperable cancer patients with surprising results, published 3 papers in journals and self published a book, however his work has been almost totally ignored.
+
+
+The AIOS paper notes 4 similarities with Reich's work;
 1. Bioelectric potentials between areas of the body
 2. Blood vessels/cells carry a bioelectrical energy (noted a bioelectrical circulation)
 3. Discovered that the source of energy in damaged tissue is the damaged cells themselves.
@@ -4848,6 +5195,8 @@ Nordenstrum did not postulate a life energy but it appears he discovered a life-
 Cancer
 Reich's journals documented often dramatic changes in various conditions such as anemia, diabetes mellitus, carcinoma & wound healing.
 Heikko Lassak in West Germany led a group of doctors who experimented with the use of the ORAC in treating patients. Their work was presented at numerous lectures in German and Scandinavian universities. As ORAC design instruction became available to more people in the mid-80's Lassak documents that he was being contacted by many people in person and by letter who were reporting predominately positive experiences with the ORAC.
+
+
 Working free of charge with ORACs and orgone psychotherapy Lassak worked with 17 terminal cancer patients from 1988-1991 approximately. He found a clear reduction in pain in 2/3rds of the patients after 20 ORAC treatments. All of the patients experienced an increase in vitality. Most of the patients had their prognosis extended by their specialists.
 In 9 of the severely disabled terminal cancer cases analgesia was not required at all - to the amazement of their specialists..
 When the patients were in the ORAC they often described a 'new' type of 'good' pain. Several times patients described a pain localised around a certain area which turned out to be an undiagnosed metastases.
@@ -4855,6 +5204,8 @@ In three cases a shrinking of tumours was radiologically diagnosed.
 Reich Blood Test and another type of live blood analysis showed marked changes.
 Lassak notes the live blood analysis and radiological treatment of Dr Joseph Issels which is successful due to its energetic monitoring of the effect of the radiation.
 Lassak notes that the patients he treated were in an older age group and warns against treating young people with acute myeloid leukaemia. Sometimes in younger people cancer can be an energetically 'excess' condition. But the main point to remember is that ORAC treatment can result in auto-intoxication - the kidneys and liver are faced with much tumour debris and T-Bacilli (cancer-associated proto-virus).
+
+
 Chronic medical conditions with associated pain often show a great reduction or alleviation of pain.
 558) 215
 Cancer in Orgonomic View discussed by Brenner.
@@ -4889,7 +5240,9 @@ In this review the author notes that Balint subtly misinforms. Balint states Rei
 Emotional atmosphere relates to structure and function of individual-therefore the term 'familial' could be used literally as biopathies have not been shown to be genetically determined.
 107) 252-253
 Reich noted some personal factors affecting Freud.
-He was destroyed by the very organisation he founded, Reich believed. Freud’s organisation withdrew from sexuality and especially Reich’s orgasm formula. Psychoanalysis was effectively destroyed. Reich predicted that psychoanalysis would become little more than idle chatter at dinner parties. Reich believed Freud became terribly resigned and had a marriage to a woman he neither loved or was attracted to.
+He was destroyed by the very organisation he founded, Reich believed. Freud’s organisation withdrew from sexuality and especially Reich’s orgasm formula. Psychoanalysis was effectively destroyed.
+
+Reich predicted that psychoanalysis would become little more than idle chatter at dinner parties. Reich believed Freud became terribly resigned and had a marriage to a woman he neither loved or was attracted to.
 
 www.leonsouthgate.com
 110) 40-41
@@ -4903,6 +5256,8 @@ Character armour is sequestered DOR.
 163) 153
 Orgone Therapy Case Studies
 A patient’s fear had become structuralised as a superficial attitude particularly toward women. He then underwent a very sudden character change to a serious attitude. (In the past his mother would pretend to offer niceness and then suddenly turn vicious toward him). His newly emerged serious feelings were the same as his pre-repression feelings from childhood. (He didn’t recognise them as the same at first because they felt so foreign to him initially, 155).
+
+
 168) 158
 Orgone Therapy
 Patient grasped Reich’s sex economic principles due to his changed character structure.
@@ -4989,7 +5344,9 @@ In Reich's early Freudo-Marxist period he was critical of conservatism but he ha
 Conservative character precedes the liberal character (211).
 346) 188
 Baker - on the birth of character analysis.
-Bakers describes how Reich’s technique was more active than Freudian psychoanalysis. He prioritised dealing with negative transference and described the attitudes and expressions of the www.leonsouthgate.com patient rather than engage in analytic free association. His techniques produced stronger emotional responses and gave quicker results. He dealt with character defences rather than symptoms alone.
+Bakers describes how Reich’s technique was more active than Freudian psychoanalysis. He prioritised dealing with negative transference and described the attitudes and expressions of the www.leonsouthgate.com patient rather than engage in analytic free association. His techniques produced stronger emotional responses and gave quicker results.
+
+He dealt with character defences rather than symptoms alone.
 This was the biggest step forward in analysis's development at this stage (1920's). The Freudian goal at this time was merely to make the unconscious conscious-with no evidence that this would effect an improvement. Reich's work lent a structure to analysis and also defined health - see 361).
 473) 238
 Most terrorist leaders come from middle class intellectual strata. This is because they have a defence structure filled with guilt, subversion, rebellion and blanket hatred of authority. An intellectually defensive structure. This was written in 1982.
@@ -4999,7 +5356,10 @@ Adage- 'The nazi's kill you for their own good. The communists kill you for your
 Orgone Psychiatric Therapy
 Sands, J.
 Interesting case history of a young adolescent in orgone therapy. Seriously disturbed 13 yr old with moderate learning difficulties, distorted body image, lack of confidence, increasingly violent behaviour.
-Diagnosed with ADHD and learning difficulties, some abnormal EEG patterns when asleep. ADHD type drugs do not help. The main intervention appeared to be simply establishing ocular contact. Not possible to establish a full diagnosis as orgone diagnosis not based on behaviour but character attitudes. Patient had ocular type patterns, possibly a phallic type ocular pattern such as paranoid schizophrenic. He makes substantial improvements in 16 sessions.
+Diagnosed with ADHD and learning difficulties, some abnormal EEG patterns when asleep. ADHD type drugs do not help. The main intervention appeared to be simply establishing ocular contact.
+
+Not possible to establish a full diagnosis as orgone diagnosis not based on behaviour but character attitudes. Patient had ocular type patterns, possibly a phallic type ocular pattern such as paranoid schizophrenic. He makes substantial improvements in 16 sessions.
+
 724) 45
 Although Freud discovered the defensive function of the psyche it was Reich who showed its full clinical significance and implications.
 
@@ -5019,11 +5379,15 @@ Reich was adamant about affirming the baby's primary impulses, emphasised mother
 Reich anticipated the research on the infants need to make visual contact with the world.
 Reich also believed that many early illnesses were due to the weakening of the infants bio-energetic system through lack of contact for example in some pneumonias.
 Reich viewed the schizophrenic tendency as being instilled in the perinatal period - a clash between a strong energetic system and a disruptive environment. Essentially very early ocular armouring occurs immobilising the brain. Reich used many of the techniques Le Boyer subsequently advocated in his de-armouring of infants (gentle massage, tickling, closeness to mother, soft environment, soothing sounds).
+
+
 317) 107
 Reich viewed that mother-child contact was the primary process (in children’s therapy) before any other intervention.
 383) 72-87
 The Free School, NY. Founded 1969
-A lively and loving atmosphere of an extended, happy and value-creating family. Their is a great deal of healthy and lively 'contact'. Also emphasised is good food, fruit and physical health checks. 15 minute's loosening exercise including 'eye-block' work every day. Turning around children who have been given up on and getting great results with children from deprived backgrounds. Still years ahead www.leonsouthgate.com of its time now.
+A lively and loving atmosphere of an extended, happy and value-creating family. Their is a great deal of healthy and lively 'contact'. Also emphasised is good food, fruit and physical health checks. 15 minute's loosening exercise including 'eye-block' work every day.
+
+Turning around children who have been given up on and getting great results with children from deprived backgrounds. Still years ahead www.leonsouthgate.com of its time now.
 544) 199
 Reich had a keen interest in finding what is normal in the child. As Reich noted in our society what constitutes normal healthy functioning of a child is completely unknown.
 617) 79-92
@@ -5032,6 +5396,8 @@ An ‘integrated’ school-looks at the balance between freedom, self-regulation
 Children
 Koopman, B.
 Very good case history. 2.5 yr old traumatised child with small amount brain damage and severe developmental difficulties (isolating, speech and behaviour problems). Done extremely well in short space of time, facilitated starting speech therapy. Orgonomic mobilisation of his jaw-and release of the rage he was holding there started a blossoming process that gave good results very quickly despite neurological deficits.
+
+
 659) 257
 Reich described how contactful infants and babies really are.
 656) 181
@@ -5040,7 +5406,10 @@ Konia, C.
 Vivid memories of the hateful face of her mother plus memories of her own birth emerging as pelvic armour is dissolved (and of her mother's resentment towards her).
 Same patient describes the terrible 'loss of life' and aloneness of her childhood, which appeared to be aimed at removing all feelings from life.
 666) 56-61
-Discoveries of Reich and perinatal/childcare Oral orgasm Importance of ocular contact Tissue Pulsation Constitutional orgonity 57-Synopsis of perinatal and infant work in ACO. Following Reich's initial efforts to study infants from an orgonomic viewpoint the ACO setting up a working group of physicians. They would establish contact and trust with the family pre-natally. The child would then be followed through for a year. The emotional and energetic relationships, armouring patterns and orgasm reflex were of interest especially. Two cases are presented which demonstrated the relationship between maternal armouring and delivery.
+Discoveries of Reich and perinatal/childcare Oral orgasm Importance of ocular contact Tissue Pulsation Constitutional orgonity 57-Synopsis of perinatal and infant work in ACO. Following Reich's initial efforts to study infants from an orgonomic viewpoint the ACO setting up a working group of physicians. They would establish contact and trust with the family pre-natally.
+
+The child would then be followed through for a year. The emotional and energetic relationships, armouring patterns and orgasm reflex were of interest especially. Two cases are presented which demonstrated the relationship between maternal armouring and delivery.
+
 Reich's paper on armouring in newborn in response to its mother (Armouring in the Newborn Infant,
 
 ## Oeb, 3, 2, 1951).
@@ -5061,7 +5430,10 @@ Second paper-orgone therapy of a child with elective mutism-usually very hard to
 Orgone Psychiatric Therapy
 Sands, J.
 Interesting case history of a young adolescent in orgone therapy. Seriously disturbed 13 yr old with moderate learning difficulties, distorted body image, lack of confidence, increasingly violent behaviour.
-Diagnosed with ADHD and learning difficulties, some abnormal EEG patterns when asleep. ADHD type drugs do not help. The main intervention appeared to be simply establishing ocular contact. Not possible to establish a full diagnosis as orgone diagnosis not based on behaviour but character attitudes. Patient had ocular type patterns, possibly a phallic type ocular pattern such as paranoid schizophrenic. He makes substantial improvements in 16 sessions.
+Diagnosed with ADHD and learning difficulties, some abnormal EEG patterns when asleep. ADHD type drugs do not help. The main intervention appeared to be simply establishing ocular contact.
+
+Not possible to establish a full diagnosis as orgone diagnosis not based on behaviour but character attitudes. Patient had ocular type patterns, possibly a phallic type ocular pattern such as paranoid schizophrenic. He makes substantial improvements in 16 sessions.
+
 727) 79
 Reich's concern with children began around 1936 - study groups were began in 1940 to differentiate health from sickness.
 Children reared with an illusion of freedom in liberal households have trouble tolerating tension.
@@ -5085,7 +5457,10 @@ A. S. Neil and Reich were both proponents of self-regulated child care with many
 Reich had a concept of non-interference with peer related sexual activities.
 Description of the permissive, dis-integrative character of young people - 71.
 1029) 55
-National conference on parenting November 16-17 Allentown, PA, lent support to many of Reich's assertions particularly concerning the importance of early contactful intervention with parents. Reich's views of course predated the feeling in the conference that emotional child health cannot be understood through studying neurotic adults. The researchers had not yet grasped Reich's view of the importance of the emotional state of the researcher in studying children particularly. Some of the researchers made reference to Reich.
+National conference on parenting November 16-17 Allentown, PA, lent support to many of Reich's assertions particularly concerning the importance of early contactful intervention with parents. Reich's views of course predated the feeling in the conference that emotional child health cannot be understood through studying neurotic adults. The researchers had not yet grasped Reich's view of the importance of the emotional state of the researcher in studying children particularly.
+
+
+Some of the researchers made reference to Reich.
 33) 144
 Orgonomic Psychiatric Treatment
 Hair-pulling - very interesting case. Child - very difficult classically. Responded very well to dissolution of occipital and ocular armouring (even though parents remained punitive).
@@ -5130,7 +5505,10 @@ Reich said that the Cloudbuster and the Spacegun are like twin brothers to the O
 90) 171
 Statistically significant changes in barometric pressure were associated with the use of a CloudBuster in Israel. (In a report from the Israeli meteorologist G. Assaf to the Oranur research Lab Nov 24th 1968).
 97) 164
-US goverment refused Reich a Visa to travel to Israel (where he intended to help Walter Hoppe carry out an Orgone Cloudbusting Operation or OROP). Also any interest from the Israeli government (in cloudbusting) was cut short by the US court action against Reich. Israeli Prime Minister Moshe Sharrett asked the Israeli embassy to visit Orgonon but the visit never materialised (possibly due to the US court action). Also (p.162) Prime minister Ben-Gurion sent a physicist to Hoppe to find out more about orgonomy.
+US goverment refused Reich a Visa to travel to Israel (where he intended to help Walter Hoppe carry out an Orgone Cloudbusting Operation or OROP). Also any interest from the Israeli government (in cloudbusting) was cut short by the US court action against Reich. Israeli Prime Minister Moshe Sharrett asked the Israeli embassy to visit Orgonon but the visit never materialised (possibly due to the US court action).
+
+
+Also (p.162) Prime minister Ben-Gurion sent a physicist to Hoppe to find out more about orgonomy.
 100) 184
 Cloudbuster appears to influence the electroscope researcher notes.
 113) 68
@@ -5253,7 +5631,9 @@ Cloudbusters
 CORE report OROP.
 
 www.leonsouthgate.com
-It was meteorology's equivalent of a wall collapsing said a newspaper report. Operations in 1988 and 1989 break through a large high pressure DOR system for a while, then in 1991, a big OROP ran by Demeo with 4 Cloudbusters changes the Pacific High. This is an enormous high pressure system that can cover the whole east coast and is a cause of drought. Atomic bomb testing, weakening of storm systems and sunspot activity may also contribute to the stuckness of the Pacific High.
+It was meteorology's equivalent of a wall collapsing said a newspaper report. Operations in 1988 and 1989 break through a large high pressure DOR system for a while, then in 1991, a big OROP ran by Demeo with 4 Cloudbusters changes the Pacific High. This is an enormous high pressure system that can cover the whole east coast and is a cause of drought.
+
+Atomic bomb testing, weakening of storm systems and sunspot activity may also contribute to the stuckness of the Pacific High.
 736) 175-190
 Cloudbusters/OROP
 American mid-west-CORE responded to invite of a California growers association during a drought.
@@ -5285,7 +5665,9 @@ www.leonsouthgate.com
 On another occasion Reich Cloudbusted so a plane could take off from a local airport - 30.
 1001) 112
 Cloudbusting
-Kelley tries to get Cloudbusting research projects funded without success. Notes that a Mr Charles Longcroft, a member of the British Royal Meteorological Society tried to obtain support for a project in England without success. He did two successful trials with a Cloudbuster. One time the Cloudbuster was vandalised when left drawing - it withdrew energy from a tree. Where it was pointed the leaves went brown and died.
+Kelley tries to get Cloudbusting research projects funded without success. Notes that a Mr Charles Longcroft, a member of the British Royal Meteorological Society tried to obtain support for a project in England without success. He did two successful trials with a Cloudbuster.
+
+One time the Cloudbuster was vandalised when left drawing - it withdrew energy from a tree. Where it was pointed the leaves went brown and died.
 17) 37
 Reich's CloudBuster on local TV twice
 479) 40
@@ -5335,7 +5717,10 @@ Demeo claims to have ended the great drought of 1986. The cloudbsuting caused a 
 Also printed in a magazine concerned with nature and human issues called 'Wildfire' 1988 Issue, Spokane, WA, USA. 'An Interview with James Demeo'.
 1253) 183-211
 OROP
-Description of a highly successful 5 year desert greening project undertaken in Eritrea partly with government funding (this was withdrawn at one point in response to criticism from European and US 'sceptics' but recommenced when drought again reared itself. Large precipitations occurred shortly after operations. Cloudbusting years showed very different weather patterns to the year in which operations were suspended (1996). The combined analysis for 1995, 1997 and 1998 shows a 20% average increase in precipitation in the 15 days after operations as against before it.
+Description of a highly successful 5 year desert greening project undertaken in Eritrea partly with government funding (this was withdrawn at one point in response to criticism from European and US 'sceptics' but recommenced when drought again reared itself. Large precipitations occurred shortly after operations. Cloudbusting years showed very different weather patterns to the year in which operations were suspended (1996).
+
+
+The combined analysis for 1995, 1997 and 1998 shows a 20% average increase in precipitation in the 15 days after operations as against before it.
 
 www.leonsouthgate.com
 Downstream effects in Lake Nasser were reported as 'unbelievable'. In Lakes Bring New Chance for Life in Sahara the Dallas Morning News Dec 5th 2000 has this to say (unaware of the OROPS) "A change of biblical proportions is washing across the Sahara desert. For the first time in 6,000 years, new lakes have risen from the sands of southern Egypt."
@@ -5354,14 +5739,20 @@ My note-there is the possibility that the craft and actions experienced by Reich
 Orgone Experiment
 Orgone and Dowsing
 Nikolaidis
-A Greek researcher investigates dowsing and orgonomic devices. Reich thought that dowsing was an energetic excitement between the dowser and the dowsed object steered through the rods. He conducted some rough experimentation to investigate this finding the dowsing rods were attracted to ORACs as well as to water. Reich noted that the dowser he met in the USA was more attuned to energy functions than he was at the time.
+A Greek researcher investigates dowsing and orgonomic devices. Reich thought that dowsing was an energetic excitement between the dowser and the dowsed object steered through the rods. He conducted some rough experimentation to investigate this finding the dowsing rods were attracted to ORACs as well as to water.
+
+Reich noted that the dowser he met in the USA was more attuned to energy functions than he was at the time.
 Nikolaidas a mechanical engineer has found that ORACs, Cloudbusters, Dor-busters have definite fields which can be detected through dowsing, his basic observations are as follows;
 
 www.leonsouthgate.com
 All orgonomic devices react to the dowsing rods The reaction is stronger in rural areas  Is related to weather  Depends on the size of orgone field and varies according to time of day  Orgone flow creates a strong energy field  The size of a cloudbuster's energy field is related to the speed and quantity of the flow of water it is grounded in  Energy charge remains in the area where an orgone device has been operating even after it is removed-this is called 'after-image' in dowsing circles.
 393) 36
 Invention of Cloudbuster
-In 1952, there was a heavy DOR cloud at Orgonon following the oranur experiment. Reich remembered that when the orgone waves had first been seen above Lake Mooselookmeguntic in 1940 a metal tube had been used to assist viewing the waves. This tube seemed to affect the wave flow. Reich thought that metal tubes might be able to draw the DOR off. Knowing that DOR is very water hungry Reich connected the tubes to water. At first he used one pipe 3 inches in diameter and 15 feet long then 5 pipes 12 feet long earthed into a deep well. Baker was very struck by seeing five holes in an identical pattern being put into a cloud by the latter device.
+In 1952, there was a heavy DOR cloud at Orgonon following the oranur experiment. Reich remembered that when the orgone waves had first been seen above Lake Mooselookmeguntic in 1940 a metal tube had been used to assist viewing the waves. This tube seemed to affect the wave flow.
+
+Reich thought that metal tubes might be able to draw the DOR off. Knowing that DOR is very water hungry Reich connected the tubes to water. At first he used one pipe 3 inches in diameter and 15 feet long then 5 pipes 12 feet long earthed into a deep well.
+
+Baker was very struck by seeing five holes in an identical pattern being put into a cloud by the latter device.
 498) 35
 Reich came to believe that the Cloudbuster might be answer to mass therapy as DOR tends to produce and increase armouring Reich also stressed the need to learn how to bring up healthy children by allowing them to satisfy their instinctual needs.
 (Baker recounting a doctors meeting with Reich where he discussed social psychiatry).
@@ -5381,7 +5772,9 @@ Soviet scientist builds what appears to be very similar to orgone field meter (D
 432) 255
 The west has willful blindness toward the destructiveness of communist nations.
 447) 145
-Reich saw Einstein on Jan 13th 1941. Einstein was particularly interested in the temp differential To-T and promised his cooperation. He wrote to Reich on Feb 7th 1941 saying his assistant had stated that convection currents could account for the temp difference. Reich conducted two control experiments to counter this objection one conducted outdoors, the other with a box with similar properties to the ORAC. Einstein never replied to any further contact from Reich.
+Reich saw Einstein on Jan 13th 1941. Einstein was particularly interested in the temp differential To-T and promised his cooperation. He wrote to Reich on Feb 7th 1941 saying his assistant had stated that convection currents could account for the temp difference.
+
+Reich conducted two control experiments to counter this objection one conducted outdoors, the other with a box with similar properties to the ORAC. Einstein never replied to any further contact from Reich.
 In the NY Times of March 17th 1950 George Drew, a Canadian politician raised concerns about Einstein's assistant Dr Infeld returning to teach in Poland as he had knowledge of atomic secrets and was a communist sympathiser. (He had stated that communist governments were 'progressive' and wished to teach in communist controlled universities).
 Reich thought that the assistant Eintein referred to was Dr Infeld.
 469) 215
@@ -5407,7 +5800,13 @@ Also FDA higher officials tried to get others to do the burning so as not to imp
 The Communist Manual of Psychopolitical WarfareThe person to be destroyed must be given the stigma of madness. Label of paranoid-anyone who attacks communism is paranoid by definition. Use the courts, laws, constitution, medical societies.
 Avoid murder unless within the safety of an institution. If activities are uncovered label it as a hoax, pour scorn on the person who should be branded insane.
 1091) 8
-Writer notes that Reich’s life was relatively free of harassment until August 1946 when Mass Psychology of Fascism (MPF) was published. It was reviewed by the communist and leading intellectual, Frederic Wertham in The New Republic magazine, a leftist publication. Wertham called on all liberals and communists to attack Reich and silence him. Mildred Brady then took up Wertham's 'call-to-arms' some 6 months later. The MPF had reached number one on the non-fiction NY library list and their must have been worries about the books influence upon the American left. Moscow had officially burnt the MPF book earlier. Brady's husband was a member of the communist party and it is reported that Brady was more extreme in her views than her husband. Brady deliberately falsified information in her article such as that Reich claimed the ORACs granted orgastic potency. It was a defamation for political purposes but was then picked up on by the pharmaceutical, medical industry and the popular media. Reprints in;
+Writer notes that Reich’s life was relatively free of harassment until August 1946 when Mass Psychology of Fascism (MPF) was published. It was reviewed by the communist and leading intellectual, Frederic Wertham in The New Republic magazine, a leftist publication. Wertham called on all liberals and communists to attack Reich and silence him.
+
+Mildred Brady then took up Wertham's 'call-to-arms' some 6 months later. The MPF had reached number one on the non-fiction NY library list and their must have been worries about the books influence upon the American left. Moscow had officially burnt the MPF book earlier.
+
+Brady's husband was a member of the communist party and it is reported that Brady was more extreme in her views than her husband. Brady deliberately falsified information in her article such as that Reich claimed the ORACs granted orgastic potency. It was a defamation for political purposes but was then picked up on by the pharmaceutical, medical industry and the popular media.
+
+Reprints in;
 
 www.leonsouthgate.com
 Journal of the American Medical Association
@@ -5519,7 +5918,10 @@ Consciousness
 Dew states that there is no need to use the intangible concept of ‘spirit’ when there is the objective orgone.
 My note - orgone as a purely physical energy has difficulty explaining non-local phenomena.
 529) 230-231
-Freud was one of the few neurologists who presented cogent arguments against the exclusive localisation of mental/psychic phenomena within the structure of the cerebral cortex. Konia quotes Freud from 'On Aphasia, A Critical Study’ and notes that Freud had the insight to recognise the common practise of confusing a cellular or other physical process with a mental process. They cannot be substituted for each other. The one can mirror the other but they are not the same.
+Freud was one of the few neurologists who presented cogent arguments against the exclusive localisation of mental/psychic phenomena within the structure of the cerebral cortex. Konia quotes Freud from 'On Aphasia, A Critical Study’ and notes that Freud had the insight to recognise the common practise of confusing a cellular or other physical process with a mental process. They cannot be substituted for each other.
+
+
+The one can mirror the other but they are not the same.
 
 www.leonsouthgate.com
 530) 232
@@ -5548,7 +5950,9 @@ A bio-electric current - outward from core to periphery or inward from periphery
 Biological Orgone energy is posited as the Common Functioning Principle (CFP) of the two Variations; Psyche and Soma.
 Psyche and Soma are not identical in themselves only identical with respect to a deeper function.
 Reich identifies this deeper function with the underlying orgone field.
-Reich also discovered the schizophrenic split - when perception and biological excitation lead separate existences. There is a disintegration of conscious psychic functions. Physically there is a severe armouring of the brain with insufficient armouring of the body. The schizophrenic experiences himself as many separate parts and not holistically. The patient’s ‘currents’ and other organ sensations are perceived as coming from outside himself.
+Reich also discovered the schizophrenic split - when perception and biological excitation lead separate existences. There is a disintegration of conscious psychic functions. Physically there is a severe armouring of the brain with insufficient armouring of the body.
+
+The schizophrenic experiences himself as many separate parts and not holistically. The patient’s ‘currents’ and other organ sensations are perceived as coming from outside himself.
 
 www.leonsouthgate.com
 Reich’s Final Period
@@ -5559,7 +5963,9 @@ Konia notes that Reich expressed the idea that the subjective perceptual functio
 Natural Processes as the CFP of the variations:
 1) Objective Logic of Orgone Energy.
 2) Subjective Reasoning on the Basis of Orgonotic Self Perception.
-Konia describes bions (pre-cellular entities discovered by Reich) as non-living systems. He says we can’t assume that perception exists at these levels of organisation. (This would seem to contradict Reich’s ideas that all living plasma perceives). He then states perception must exist even at protozoal level as perception and excitation of plasmatic matter are inseparable. He gives 5 characteristics of plasma movement and perception:
+Konia describes bions (pre-cellular entities discovered by Reich) as non-living systems. He says we can’t assume that perception exists at these levels of organisation. (This would seem to contradict Reich’s ideas that all living plasma perceives). He then states perception must exist even at protozoal level as perception and excitation of plasmatic matter are inseparable.
+
+He gives 5 characteristics of plasma movement and perception:
 1) Movement confined in a membrane.
 2) Spontaneous movement.
 3) Relatively slow.
@@ -5623,15 +6029,23 @@ Cloudbuster influenced electroscope in experimental run.
 Orgone Experiments
 To-T
 Blasband, R.
-Temperature Orgone versus Temperature Control (usually called TO-T). In this paper a useful and interesting discussion of the history of Reich's TO-T studies are given. A useful synopsis of classical physics is also outlined. It is noted that Reich's TO-T experimental data contradicts the second law of thermodynamics (heat is found to gather spontaneously in the ORAC). Reich's underground TO-T experiments are described. TO-T was measured in the ground to avoid thermal currents. Buried ORAC to Earth Temp was measured.
+Temperature Orgone versus Temperature Control (usually called TO-T). In this paper a useful and interesting discussion of the history of Reich's TO-T studies are given. A useful synopsis of classical physics is also outlined.
+
+It is noted that Reich's TO-T experimental data contradicts the second law of thermodynamics (heat is found to gather spontaneously in the ORAC). Reich's underground TO-T experiments are described. TO-T was measured in the ground to avoid thermal currents.
+
+Buried ORAC to Earth Temp was measured.
 Blasband then goes on to describe the past 5 years of regular TO-T measurements taken by the Oranur Research Lab at Bucks County.
-Results
+
+## Results
+
 The new experimental data confirms Reich's claims of a TO-T differential. The lab controlled for thermal lag and electromagnetic effects. They found a consistent differential of between 0.2 and 1.0 Celsius using calibrated thermometers and a variety of indoor and outdoor set-ups.
 181) 179
 Orgone Experiment
 Blasband’s Early Studies.
 5 years of TO-T (Temperature in Orgone cabinet Versus Temp in Control cabinet) are reported in 2 pages. One experimental day fully reported. Electromagnetic radiation, thermal properties and seasonal variations are taken into account.
-Results
+
+## Results
+
 The new experimental data confirms Reich's claims of a TO-T differential. The lab controlled for thermal lag and electromagnetic effects. They found a consistent differential of between 0.2 and 1.0 Celsius using calibrated thermometers and a variety of indoor and outdoor set-ups.
 203) 48-60
 
@@ -5651,7 +6065,9 @@ ORAC Mice.
 ## Blasband, R.
 
 9 animals. Used transplanted tumours. Strong ORACs. Rural location. Clear weather.
-Results
+
+## Results
+
 There was a significant difference in longevity. The Treated group lived 1.6 times longer. Statistics T-Test, P = 0.05.
 (My Note: the results may be more significant than the above because of difficulty obtaining significance in small group sizes).
 Autopsy results are particularly graphic and support the statistical significance. Control mice have dirty, degraded internals but Treatment mice look clean internally.
@@ -5676,7 +6092,9 @@ Transplanted mammary tumours were used. Treatment lengthened life span by 1/3rd 
 The size of this change would most likely be statistically significant with a better sample size (but was not reported to statistically significant here). Delay in tumour development was a strong variable.
 The groups were a little small (N=14) to justify a full statistical analysis.
 Mice in the Treatment group were much healthier and lively than those in the Control group.
-Conclusion
+
+## Conclusion
+
 Overall a good study, reported in detail, which showed a real effect by the DOR-buster on cancer affected mice.
 312) 66/67
 Orgone Experiment
@@ -5705,7 +6123,9 @@ Cancer Mice - Orgonotic Functions in the Solunar Cycle.
 
 It was hypothesised that solunar peaks of activity would increase the intensity of the ORAC’s effects.
 Treatment in the solunar phases delayed acceptence of transplanted tumours. Although there were 38 mice in this study no statistical analysis was attempted. There were 14 in the ORAC solunar group and similar numbers in the ORAC non-solunar group and Control group.
-Results
+
+## Results
+
 Low levels of ORAC charging may worsen outcome and increase tumour size. It might be too weak a charge to stimulate immune system sufficiently.
 In both the solunar and non-solunar mice groups once acceptance of tumour was complete further charging increased tumour size. Blasband reported similar problems in his medical DorBuster paper (1974).
 The study used transplanted tumours which is an artificial situation medically. Reich used spontaneously occurring tumours which did show an inhibition of tumour size throughout ORAC treatment. Perhaps investigation of a solunar effect is somewhat ambitious at this stage, however this study did show what appears to be an objective effect on tumours via the ORAC.
@@ -5722,7 +6142,9 @@ Orgone Experiment
 Orgone and Plants
 Lane
 Well written paper detailing the exposure of 4 groups of sixteen tomato seeds each. 3 orgone treatment groups and one control - a large number of groups but which did not however affect the final results.
-Results
+
+## Results
+
 Orgone treated plants had three times the yield than controls.
 Seedlings were planted out in ordinary garden soil which introduces an uncontrolled variable. Small groups. No statistical analysis, although there were obvious differences and this was an initial study.
 371) 244-252
@@ -5762,7 +6184,9 @@ To-T
 Seiler, H.
 (To-T: Temp Orgone Box versus Temp Control Box).
 Well controlled vigorous experiment, well reported.
-Paper reported on approximately 1000 readings in two series over a year in an industrialised area of Switzerland. Experiments carried out outdoors. Well thought out control and experimental set up eliminated most mechanical objections including any thermal lag between ORAC and controls. By improving the set up - providing glass covers for the boxes, no negative To-T was seen in the second series (negative To-T can be due to pollution or DOR). A positive To-T (greater than 0.1c difference) was seen for 92% of the time in the first series and for 99.6% in the second series.
+Paper reported on approximately 1000 readings in two series over a year in an industrialised area of Switzerland. Experiments carried out outdoors. Well thought out control and experimental set up eliminated most mechanical objections including any thermal lag between ORAC and controls.
+
+By improving the set up - providing glass covers for the boxes, no negative To-T was seen in the second series (negative To-T can be due to pollution or DOR). A positive To-T (greater than 0.1c difference) was seen for 92% of the time in the first series and for 99.6% in the second series.
 In additional experiments, pyramid and other shaped ORACs were used - no extra effect noted. A heat absorbant black box control was tried - black box absorbed but did not retain a heat gradiant such as seen in ORAC.
 480) 68-73
 Orgone Experiment
@@ -5782,14 +6206,21 @@ Baker, Dew, Ganz and Lance.
 Paper examined the microscope part of the RBT only - the disintegration rates of Red Blood Cells (RBCs). The autoclavation and blood culture aspects of the RBT were not examined.
 The RBT test was developed from Reich’s understanding that each RBC is an independent orgone energy vesicle, which mirrors the health of the whole - 184. It is a test of energetic vitality.
 The paper is a well written, academic writing. It outlines in detail a workable protocol for examining the microscope part of the RBT. It is scientifically thought out and parameters are well controlled for reproducibility and reliability of the results. The main parameter examined statistically is the 1% time.
-This is the time taken for the RBC to begin bionous disintegration (breakdown of the cell into the smaller vesicles termed bions in orgonomy). The parameter is well standardised in the protocols. The 1% time is derived by examining the bionous breakdown rate at even intervals and then extrapolating backwards to the beginning of the process - out of 100 cells the 1% breakdown would be equivalent to when the first cell starting breaking down. Breakdown rates have changed significantly since Reich's time which is possibly due to the oranur overcharge of our current atmosphere.
+This is the time taken for the RBC to begin bionous disintegration (breakdown of the cell into the smaller vesicles termed bions in orgonomy). The parameter is well standardised in the protocols. The 1% time is derived by examining the bionous breakdown rate at even intervals and then extrapolating backwards to the beginning of the process - out of 100 cells the 1% breakdown would be equivalent to when the first cell starting breaking down.
+
+
+Breakdown rates have changed significantly since Reich's time which is possibly due to the oranur overcharge of our current atmosphere.
 In the report 26 patients from 3 groups - normals (11) borderlines (5) and pathological (10) had their RBT’s examined.
-Results - All normals had positive 1% times, all borderlines (except 1) had positive 1%’s. All pathologics had negative 1%’s (except one). The exceptions had classified into their groups due to clinical diagnosis but were doing well on observation, the test was therefore still 100% accurate energetically it appears - 215. The median average score for the normals was +47.6 and for the pathologics was –47.2.
+Results - All normals had positive 1% times, all borderlines (except 1) had positive 1%’s. All pathologics had negative 1%’s (except one). The exceptions had classified into their groups due to clinical diagnosis but were doing well on observation, the test was therefore still 100% accurate energetically it appears - 215.
+
+The median average score for the normals was +47.6 and for the pathologics was –47.2.
 
 ## Statistical Tests
 
 A one-tailed T-Test was carried out between the normals and pathologics which showed that the difference between then two groups was highly statistically significant, to a confidence level of P=0.01.
-Conclusion
+
+## Conclusion
+
 A solid experiment supports the validity of the Reich Blood Test.
 
 ## Other Notes
@@ -5822,7 +6253,10 @@ In all the experimental sets the procedure may have been complicated by setting 
 ## Experiment 2
 
 Transplanted tumours (injected tumour pulp). 16 mice split into 3 groups - 8 controls plus 2 groups of Orgone treatment (ORAC group T1, Stronger ORAC group T2).
-The tumours were allowed to set in for a week to ten days. Statistically significant results in tumour size were reported. The mice in the T1 group had much larger tumours than those in the T2 and the Control group. T2 and Control group were not different in tumour size. No longevity differences between any of the groups Many groups were used with a small number of subjects. The tumours being allowed to set in may have added another variable.
+The tumours were allowed to set in for a week to ten days. Statistically significant results in tumour size were reported. The mice in the T1 group had much larger tumours than those in the T2 and the Control group.
+
+T2 and Control group were not different in tumour size. No longevity differences between any of the groups Many groups were used with a small number of subjects. The tumours being allowed to set in may have added another variable.
+
 Weather was quite good, a few DORish days. The additional ORAC used in T2 group, Experiment 2, may have been contaminated by previous studies (oranised) state the authors. (Oranur is an overcharged energy resulting from orgone being exposed to ionising radiation). Experiment 2's results may therefore be unreliable.
 
 www.leonsouthgate.com
@@ -5847,7 +6281,9 @@ Dor-buster (DB) and Seedlings Blasband, R.
 Well reported and conducted study. Experiments examining different types of DB set-up on the growth of seedlings were reported.
 The procedure was complex with quite a few experimental groups (6 experimental groups with 20 seedlings each, 5 types of DB treatment employed, 1 control group of 20 seedlings for each DB experiment).
 Statistics reported - Median averages, Standard Deviation's and Confidence Intervals (C.I.) reported.
-Results
+
+## Results
+
 The DB had a statistically significant influence on the growth of plants with a C.I. of P = 0.03.
 575) 80-91
 
@@ -5930,6 +6366,8 @@ Study 1 showed a statistically significant effect at decreasing tumour size amon
 
 In both studies the mice were implanted with tumours (this strain develops cancer spontaneously if left to age but in this experiment they were inoculated).
 Numbers were 9 in first experiment series and 8 in the second (split into orgone versus control groups). There were changes from study 1 to study 2 in terms of the parameters measured (lifespan not reported in first series, water intake and weight recorded in second series). The study methods were not yet standardised between the two experimental series especially distance from the irradiating device.
+
+
 A very interesting initial study of an oranur device which appears to show good treatment effects in cancer mice.
 668) 69
 Orgone Experiments
@@ -5967,15 +6405,24 @@ Transplanted Tumours
 Trotta, Marer (Brazil)
 50 mice were injected with sarcoma cells and split into orgone treatment and control groups. There were two orgone groups, one using a 6 layer ORAC for one hour and one using a one layer with 10 layer lid for 3-4 hours daily. Both groups were treated 6 days a week.
 Although there were two orgone groups, which was a complication, they were treated as one group as the effects were similar. A well presented paper with significant results. Perhaps the environmental conditions in Brazil were also more conducive (but were not described).
-Results
-Orgone group showed enhanced immunulogical activity especially 2/3 hours post treatment. It took 2-3 weeks for differences between the groups to become apparent. Tumours behaved as though they were necrosed with TNF (Tumour Necrosing Factor) from the inside out. Orgone group had a 9 week survival time compared to 4 in the control group. Most treated mice showed a complete evacuation of the tumour leaving an open wound. The difference between the groups was tested statistically via T-Test and was significant at a Confidence Interval of P = 0.02. The autopsy showed that the orgone mice may have died from tumour lysis effects on the liver and kidney (This supports Reich's main concern with orgone treatment of tumours).
+
+## Results
+
+Orgone group showed enhanced immunulogical activity especially 2/3 hours post treatment. It took 2-3 weeks for differences between the groups to become apparent. Tumours behaved as though they were necrosed with TNF (Tumour Necrosing Factor) from the inside out.
+
+Orgone group had a 9 week survival time compared to 4 in the control group. Most treated mice showed a complete evacuation of the tumour leaving an open wound. The difference between the groups was tested statistically via T-Test and was significant at a Confidence Interval of P = 0.02.
+
+The autopsy showed that the orgone mice may have died from tumour lysis effects on the liver and kidney (This supports Reich's main concern with orgone treatment of tumours).
 719) 5-13
 Orgone Experiments
 ORAC & Hygrometry
 Konia
 Interesting study. Moderately well reported. It lacked a statistical analysis - a T-Test may well have established the large differences between the groups more clearly.
 A small orgone box with a long shooter hose (attached 1 inch wide 6 foot long tube). Control apparatus made from plastic but identical otherwise. Two calibrated hygrometers placed in either apparatus (one within the orgone shooter, the other within the control apparatus but not specified exactly where, presumably in the tube).
-Both boxes were placed outside in a sheltered spot. In good weather there was a marked positive difference between orgone and control of approximately 6-7% increase in relative humidity. Also there was a marked negative differential between orgone and control. There also appears to be a weather predictive element with the humidity differential often dropping 24 hours before inclement weather. The humidity differential had an opposite curve to the ambient humidty and exposure to a free flow of air seemed important. Corking the air flow reduced the differential but did not stop it.
+Both boxes were placed outside in a sheltered spot. In good weather there was a marked positive difference between orgone and control of approximately 6-7% increase in relative humidity. Also there was a marked negative differential between orgone and control.
+
+There also appears to be a weather predictive element with the humidity differential often dropping 24 hours before inclement weather. The humidity differential had an opposite curve to the ambient humidty and exposure to a free flow of air seemed important. Corking the air flow reduced the differential but did not stop it.
+
 Authors comment on negative To-T that the hygrometer is an important way of understanding this phenomenom. They speculate that an increase in DOR is a possible cause of increased negative www.leonsouthgate.com
 
 ## To-T - 12.
@@ -5989,6 +6436,7 @@ A complex paper with many findings.
 Experiment 1 - 259 mice over 4 generations Experiment 2 - 79 mice.
 An ORAC effect was found as the ORAC group died of lymphoblastic leukemia (LL) significantly less than the control group (N=260 P=0.0005). Overall there was no major survival differences between ORAC and control mice however. Possible reasons for this are outlined below.
 There was some lifespan differences in subgroups though these sometimes favoured the control group (male mice dying of causes other than LL lived longer in the control group, male mice dying of LL lived longer in the orgone group/Experiment 1). ORAC mice were dying of LL at an age when the control mice were dying of other causes. ORAC appeared to inhibit tumour formation rather than destroy tumours - autopsy results were quite different between the groups.
+
 
 ## Possible reasons for mixed results
 
@@ -6024,32 +6472,49 @@ Orgone Experiment
 Wound Healing in Mice
 Baker, Dew, Ganz, Lance.
 Part 1 of a two part paper describing 7 years of experimentation with wound healing and mice.
-1600 mice have been used in the period. The mice, a standard lab strain (CAF 1/J) are anaesthetised, have a wound put in place on the back and healing is measured using wound perimeter and area measurements. Great effort was made to standardise the process and to exclude various effects such as a diurnal and seasonal variations upon healing. The evolution of their protocols and measuring processes are described in detail See 1027) for further details.
+1600 mice have been used in the period. The mice, a standard lab strain (CAF 1/J) are anaesthetised, have a wound put in place on the back and healing is measured using wound perimeter and area measurements. Great effort was made to standardise the process and to exclude various effects such as a diurnal and seasonal variations upon healing.
+
+The evolution of their protocols and measuring processes are described in detail See 1027) for further details.
 1118) 25
 Orgone Experiment
 Orgone & Acupuncture
 Senf 1989
-Senf (1989) conducted the first study of Reichian interventions applied to acupuncture points. He www.leonsouthgate.com studied the effects of directing orgone energy toward acupuncture points. He devised an accumulating tube that was adapted from Reich’s accumulating cabinets. Points were treated with the tube (according to a Chinese Medical diagnosis) for a short period whilst the subjects had their eyes closed.
-The study reported a sensory and emotional reaction - 85% of the subjects linked the possible irradiation of the points to sensory and other changes. Senf (1989) also investigated withdrawing orgone energy from points using an adaptation of Reich’s ideas on negative energy removal. He constructed an energy removal tube that was directed at sedation acupuncture points. The volunteers mostly reported a sensation of a cool breeze.
+Senf (1989) conducted the first study of Reichian interventions applied to acupuncture points. He www.leonsouthgate.com studied the effects of directing orgone energy toward acupuncture points. He devised an accumulating tube that was adapted from Reich’s accumulating cabinets.
+
+Points were treated with the tube (according to a Chinese Medical diagnosis) for a short period whilst the subjects had their eyes closed.
+The study reported a sensory and emotional reaction - 85% of the subjects linked the possible irradiation of the points to sensory and other changes. Senf (1989) also investigated withdrawing orgone energy from points using an adaptation of Reich’s ideas on negative energy removal. He constructed an energy removal tube that was directed at sedation acupuncture points.
+
+The volunteers mostly reported a sensation of a cool breeze.
 The study did not have a control group or a quantifiable measurement of any changes but nonetheless showed some fascinating results and the need for further study.
 1119) 22
 Orgone Experiment
 Orgone & Medical Parameters
-Gebauer and Muschenich (1987) The researchers carried out a double blind placebo controlled experiment with ORACs. The theoretical part of the work was part of a thesis for the University of Marburg, Germany. This work provided a meta-study of the previous temperature differential, electroscopic discharge rate changes and changes in air humidity claimed within previous Orgone cabinet studies. A book detailing their work is available (Muschenich 1995).
+Gebauer and Muschenich (1987) The researchers carried out a double blind placebo controlled experiment with ORACs. The theoretical part of the work was part of a thesis for the University of Marburg, Germany. This work provided a meta-study of the previous temperature differential, electroscopic discharge rate changes and changes in air humidity claimed within previous Orgone cabinet studies.
+
+A book detailing their work is available (Muschenich 1995).
 In the experimental part of the studies 15 volunteers had 20 thirty minute sessions, 10 of which were in an eight layered Orgone accumulating cabinet (constructed according to Reich’s plans) and 10 of which were in an identical looking placebo cabinet (constructed only of organic materials). The placebo cabinet was identical to the test cabinet in size, shape and insulating properties. An additional 5 subjects were allocated who had all their sessions in one box- 3 subjects were in the experimental group and 2 in the placebo.
+
+
 Before each session all the subjects sat in a relaxation chair for 15 minutes and baseline physiological data was recorded.
 After the sessions a questionnaire was given to provide extra control against suggestive factors.
 Clothing of subjects, position of cabinets and sequence of sessions (experimental/placebo) were also controlled.
 The experimenters and subjects were both blinded. The experimental or placebo cabinet was randomly allocated. The subjects had no knowledge concerning the experiment.
-Results
+
+## Results
+
 The study rejected its Null Hypothesis (There is no change between the physiological effects of the Orgone and Placebo cabinets) with a Significance Level of P < 0.01. Parasympathetic stimulation of the body, sensations of heat, an increase in the internal body temperature and regulation of arterial pressure was reported.
-All subjects except one showed a preference for the accumulating cabinet. Warmth, tingling and pleasant sensations were commonly reported. One subject appeared resistant to changes in the Orgone cabinet. This subject preferred the Placebo cabinet. A meteorological association with physical effects was claimed and a temperature differential of approximately 1-degree between Orgone and Placebo cabinet internal atmospheric temperature was reported.
+All subjects except one showed a preference for the accumulating cabinet. Warmth, tingling and pleasant sensations were commonly reported. One subject appeared resistant to changes in the Orgone cabinet.
+
+This subject preferred the Placebo cabinet. A meteorological association with physical effects was claimed and a temperature differential of approximately 1-degree between Orgone and Placebo cabinet internal atmospheric temperature was reported.
 Electro-Cardio-Gram (ECG) recordings were found to have an unexplained high variance statistically.
 The 5 people who used only one of the cabinets were too small a subgroup to establish statistical www.leonsouthgate.com significance.
 1120) 26
 Reich’s Oranur Experiment
 Very good description of the oranur experiment and its effects.
-Reich used 20 millicuries of Phosphurus 32 and 2.26 millicuries of Cobalt 60 but in an exceedingly high charge orgone lab. The subsequent Oranur reaction spread for miles and the subjective effects were similar to what was reported in first hand reports of the Three Mile Island incident. However official scientists at the 3 mile incident denied that such effects were possible at the levels claimed to be released, for example people heard loud explosive roaring type noises in the absence of physical explosions, there was a steel blue 'oranur' sky and a metallic taste and tree's died from the tips downwards (a DOR effect). Also occurring were irritated watery eyes, strange smells (iodine-like), respiratory inflammation, menstrual disruption, skin rashes and pain in joints.
+Reich used 20 millicuries of Phosphurus 32 and 2.26 millicuries of Cobalt 60 but in an exceedingly high charge orgone lab. The subsequent Oranur reaction spread for miles and the subjective effects were similar to what was reported in first hand reports of the Three Mile Island incident. However official scientists at the 3 mile incident denied that such effects were possible at the levels claimed to be released, for example people heard loud explosive roaring type noises in the absence of physical explosions, there was a steel blue 'oranur' sky and a metallic taste and tree's died from the tips downwards (a DOR effect).
+
+
+Also occurring were irritated watery eyes, strange smells (iodine-like), respiratory inflammation, menstrual disruption, skin rashes and pain in joints.
 1022) 1-11
 Orgone Experiment
 Reich Blood Test-Baker
@@ -6065,14 +6530,18 @@ Orgone Experiment
 Wound Healing in Mice
 Baker, Dew, Ganz, Lance.
 Part 1 of a two part paper describing 7 years of experimentation with wound healing and mice.
-1600 mice have been used in the period. The mice, a standard lab strain (CAF 1/J) are anaesthetised, have a wound put in place on the back and healing is measured using wound perimeter and area measurements. Great effort was made to standardise the process and to exclude various effects such as a diurnal and seasonal variations upon healing. The evolution of their protocols and measuring processes are described in detail See 1027) for further details.
+1600 mice have been used in the period. The mice, a standard lab strain (CAF 1/J) are anaesthetised, have a wound put in place on the back and healing is measured using wound perimeter and area measurements. Great effort was made to standardise the process and to exclude various effects such as a diurnal and seasonal variations upon healing.
+
+The evolution of their protocols and measuring processes are described in detail See 1027) for further details.
 1024) 24-33
 Orgone Experiment
 
 www.leonsouthgate.com
 Bion Migration
 Baker, Dew
-Very detailed description of bion observations and their behavioural characteristics under carefully controlled conditions. Only representative slides and patterns are described, numbers of observations and any formal statistical analysis are not entered into. A 'descriptive' study. Authors state that they have confirmed under strict conditions Reich’s claims concerning both the existence of bions from heated iron and carbon sources and that bions migrate when an electrical current is applied to them.
+Very detailed description of bion observations and their behavioural characteristics under carefully controlled conditions. Only representative slides and patterns are described, numbers of observations and any formal statistical analysis are not entered into. A 'descriptive' study.
+
+Authors state that they have confirmed under strict conditions Reich’s claims concerning both the existence of bions from heated iron and carbon sources and that bions migrate when an electrical current is applied to them.
 They also found that the migration behaviour is linked to the vitality of the samples. The laboratory conditions described and the electrical procedures appear to be of a high standard. Only the bionised samples showed particle migration. Bion behaviour appears to be non-mechanical.
 1026) 1-6
 Orgone Experiment
@@ -6082,7 +6551,9 @@ The Gross appearance, Microscopic appearance and post Autoclave appearance (or G
 A large number of patients, both well, well infants, well pregnant (small groups N >10) and a large number of diagnosed pathological illnesses (N = 128) were examined.
 Their RBT results, the GMA score and two bionous breakdown scores (the 1% time and Delta 49) were measured. Side by side measurements were taken for some of the patients (i.e. two different researchers would test the same sample). The side by side measurements showed a good degree of commonality in the scores.
 The strongest finding of the study was that a GMA score of 7 or less is associated with mild to severe pathology in 98% of cases examined.
-There was no clear hypothesis or statistical analysis. In addition there was many categories based on clinical diagnosis which is interesting but forms too small a group to draw anything more than preliminary conclusions. For example, in the carcinoma category (N=8) and lymphoma category (N=5) the 1% time dramatically improves following conventional treatment. Also of note is that the bionous breakdown time, especially the 1% time can remain in the normal range when severe pathology is present perhaps due to the organism maintaining a high energy charge despite the mechanical presence of illness.
+There was no clear hypothesis or statistical analysis. In addition there was many categories based on clinical diagnosis which is interesting but forms too small a group to draw anything more than preliminary conclusions. For example, in the carcinoma category (N=8) and lymphoma category (N=5) the 1% time dramatically improves following conventional treatment.
+
+Also of note is that the bionous breakdown time, especially the 1% time can remain in the normal range when severe pathology is present perhaps due to the organism maintaining a high energy charge despite the mechanical presence of illness.
 However it is still a strong study due to a rigorous method and good overall numbers.
 The main finding was that the GMA score correlates well with pathology in nearly all of the 128 cases studied.
 1027) 7-24
@@ -6090,18 +6561,27 @@ Orgone Experiment
 Wound Healing in Mice II
 Baker, Dew, Ganz, Lance
 Dozens of different designs set ups are tried and experimental procedures vary and evolve. There is a high degree of statistical significance for the ORAC and Medical DB having an effect upon healing, In one of the series of experiments, the C series, comprising 381 animals treated once and measuring the percentage of the wound healed at 96 hours there was a 10-12% increase in wound healing www.leonsouthgate.com amongst the treated groups with a high statistical significance of P= 0.002. ANOVA statistical tests were used.
+
+
 Other findings of the experiments were that there is a clear pulsation process in wound healing and relationship to seasonal and diurnal variations.
-The experimental runs were hampered by many changes in protocol and overly large numbers of test and control groups. Five variations upon the DOR-buster were tested and one cylindrical ORAC device. It is attempted to convey seven years of experimental evolution in two papers. It would benefit from clear research goals and hypothesis setting. However, strong evidence for an effect of the ORAC and MDB upon organisms is presented.
+The experimental runs were hampered by many changes in protocol and overly large numbers of test and control groups. Five variations upon the DOR-buster were tested and one cylindrical ORAC device. It is attempted to convey seven years of experimental evolution in two papers.
+
+It would benefit from clear research goals and hypothesis setting. However, strong evidence for an effect of the ORAC and MDB upon organisms is presented.
 The number of studies overall was 40, 4 of these used the ORAC, most were studying MDB effects.
 1033) 1-11
 Orgone Experiments
 Reich Blood Test (RBT) in Cancer Mice
 Baker, Dew
 Well written article, clearly laid out. 17 cancer mice of the C3H/OUJ variety were studied. These mice produce spontaneous mammary tumours in the females at 6 months old.
-The study was well conducted, though not blinded. It examined 57 RBTs. These tests consisted of the 1% time (a bionous breakdown index), the GMA (General and Microscopic Appearance plus post-autoclave appearance of red blood cells), the Delta 49 (a bionous breakdown index), tumour size, animal weight and percentage of the unusual C shaped red blood cell that appeared to be special to this mouse breed. The animals were fairly evenly split between tumour and non-tumour specimens.
+The study was well conducted, though not blinded. It examined 57 RBTs. These tests consisted of the 1% time (a bionous breakdown index), the GMA (General and Microscopic Appearance plus post-autoclave appearance of red blood cells), the Delta 49 (a bionous breakdown index), tumour size, animal weight and percentage of the unusual C shaped red blood cell that appeared to be special to this mouse breed.
+
+
+The animals were fairly evenly split between tumour and non-tumour specimens.
 The study groups comprised normal and tumour groups. The tumour group was further split into well and sick by their obvious clinical appearance.
 There is a good statistical section which outlines how the 1% time, the GMA, the percentage of C shaped eyrthrocytes cells and the tumour size all differentiated well between normal/non-tumour, well and sick groups with high degrees of statistical significance.
-In other words, the test differentiated between health and sickness with a high degree of certainty. For example the GMA part of the test differentiated between well and sick with a Confidence Interval of P=0.0001. The 1% time was also significantly different between the groups. The 1% Time, GMA (particularly ‘cohesiveness of blood’ and ‘red blood cell energy-field width’) showed the strongest value as variables.
+In other words, the test differentiated between health and sickness with a high degree of certainty. For example the GMA part of the test differentiated between well and sick with a Confidence Interval of P=0.0001. The 1% time was also significantly different between the groups.
+
+The 1% Time, GMA (particularly ‘cohesiveness of blood’ and ‘red blood cell energy-field width’) showed the strongest value as variables.
 All the statistical tests were of the ANOVA type.
 One problem with the study included lack of cross-correlation between parts of the test with biological and clinical parameters (although there may be energetic reasons for this). A second problem was that the mice cancer model here does not correspond to the human one (their tumour growths appeared to be parasitic energetically rather than secondary to the 'shrinking/resignation process' Reich noted in humans with cancer).
 However as a test of whether certain parts of the RBT reliably correspond to the cancer process it is a good scientific study. The study had a fairly small number of animals (17). However, at the level of study for which this paper is aimed, an initial scientific examination, it is a good paper.
@@ -6134,7 +6614,9 @@ www.leonsouthgate.com
 Bioelectricity and Emotions
 Braid et al Very good summary article on Reich's bioelectrical research with some new study data of its own presented (7 person case study).
 Reich used liquid KCl electrodes which were not available to the researchers. Reich used human subjects attached to an oscillograph (an early model employing vacuum tubes). The oscillograph was attached to a photosensitive permanent recording strip.
-Reich used two electrodes, a reference and differential electrode. The reference electrode was attached to an non-erogonous site on the body. The skin was carefully abraded to the point of producing serous fluid. This was in order for the measurement to reflect potential electrical differences between the inside of the body and the external. As evidence for this Reich abraded both sites and found the potential between the sites usually then became zero.
+Reich used two electrodes, a reference and differential electrode. The reference electrode was attached to an non-erogonous site on the body. The skin was carefully abraded to the point of producing serous fluid.
+
+This was in order for the measurement to reflect potential electrical differences between the inside of the body and the external. As evidence for this Reich abraded both sites and found the potential between the sites usually then became zero.
 Reich undertook experiments whereby subjects predicted pleasure and pain responses in a separate room. These were found to correlate with the electrical potential measurements, a positive deflection, or increase in electrical charge for pleasure and negative deflection or decrease in electrical charge for pain.
 Sugar/salt experiments were also conducted. The subjects were tested for their bioelectrical response (confirming Reich's hypothesis). Erogenous zones were found to have potentials up to 200 mV.
 Non-erogenous zones were found to have a resting potential of about 20 mV.
@@ -6311,7 +6793,10 @@ However a significant difference was found between a control group that had been
 Orgone Experiment
 Plants
 Espanca
-Experiments using similar protocol to previous Espanca studies. 4 groups using seeds from orgone treated plants and non-orgone treated plants which in turn were either treated with an ORAC or control. There seems to be some generational effect from the orgone treatment with the seeds from treated plants faring better. A significant increase with orgone charging was also seen in both orgone parent and control parent seeds. Simply presented and well written. Small groups but a useful pilot study.
+Experiments using similar protocol to previous Espanca studies. 4 groups using seeds from orgone treated plants and non-orgone treated plants which in turn were either treated with an ORAC or control. There seems to be some generational effect from the orgone treatment with the seeds from treated plants faring better. A significant increase with orgone charging was also seen in both orgone parent and control parent seeds.
+
+
+Simply presented and well written. Small groups but a useful pilot study.
 1116) 22
 Orgone Experiment
 Plants and Orgone
@@ -6325,17 +6810,30 @@ www.leonsouthgate.com
 Orgone & Acupuncture
 Senf 1989
 Senf (1989) conducted the first study of Reichian interventions applied to acupuncture points. He studied the effects of directing orgone energy toward acupuncture points. He devised an accumulating tube that was adapted from Reich’s accumulating cabinets. Points were treated with the tube (according to a Chinese Medical diagnosis) for a short period whilst the subjects had their eyes closed.
-The study reported a sensory and emotional reaction - 85% of the subjects linked the possible irradiation of the points to sensory and other changes. Senf (1989) also investigated withdrawing orgone energy from points using an adaptation of Reich’s ideas on negative energy removal. He constructed an energy removal tube that was directed at sedation acupuncture points. The volunteers mostly reported a sensation of a cool breeze.
+The study reported a sensory and emotional reaction - 85% of the subjects linked the possible irradiation of the points to sensory and other changes. Senf (1989) also investigated withdrawing orgone energy from points using an adaptation of Reich’s ideas on negative energy removal. He constructed an energy removal tube that was directed at sedation acupuncture points.
+
+The volunteers mostly reported a sensation of a cool breeze.
 The study did not have a control group or a quantifiable measurement of any changes but nonetheless showed some fascinating results and the need for further study.
 1119) 22
 Orgone Experiment
 ORACs and Humans
-Gebauer and Muschenich (1987) Gebauer and Muschenich (1987) carried out a double blind placebo controlled experiment with ORACs. The theoretical aspect was part of a thesis for the University of Marburg, Germany. This work provided a meta-study of the previous temperature differential, electroscopic discharge rate changes and changes in air humidity claimed within previous orgone cabinet studies. A book detailing their work is available (Muschenich 1995).
+Gebauer and Muschenich (1987) Gebauer and Muschenich (1987) carried out a double blind placebo controlled experiment with ORACs. The theoretical aspect was part of a thesis for the University of Marburg, Germany. This work provided a meta-study of the previous temperature differential, electroscopic discharge rate changes and changes in air humidity claimed within previous orgone cabinet studies.
+
+A book detailing their work is available (Muschenich 1995).
 In their experimental studies 15 volunteers had 20 thirty minute sessions, 10 of which were in an eight layered orgone accumulating cabinet (constructed according to Reich’s plans) and 10 of which were in an identical looking placebo cabinet (constructed only of organic materials). The placebo cabinet was identical to the test cabinet in size, shape and insulating properties. An additional 5 subjects were allocated who had all their sessions in one box- 3 subjects were in the experimental group and 2 in the placebo.
-Before each session all the subjects sat in a relaxation chair for 15 minutes and baseline physiological data was recorded. After the sessions a questionnaire was given to provide extra control against suggestive factors. Clothing of subjects, position of cabinets and sequence of sessions (experimental/placebo) were also controlled. The experimenters and subjects were both blinded. The experimental or placebo cabinet was randomly allocated. The subjects had no knowledge concerning the experiment.
-Results
+
+
+Before each session all the subjects sat in a relaxation chair for 15 minutes and baseline physiological data was recorded. After the sessions a questionnaire was given to provide extra control against suggestive factors. Clothing of subjects, position of cabinets and sequence of sessions (experimental/placebo) were also controlled.
+
+The experimenters and subjects were both blinded. The experimental or placebo cabinet was randomly allocated. The subjects had no knowledge concerning the experiment.
+
+## Results
+
 The study rejected its Null Hypothesis (There is no change between the physiological effects of the orgone and placebo cabinets) with a Significance Level of P < 0.01.
-Parasympathetic stimulation of the body, sensations of heat, an increase in the internal body temperature and regulation of arterial pressure was reported. All subjects except one showed a preference for the accumulating cabinet. Warmth, tingling and pleasant sensations were commonly reported. One subject appeared resistant to changes in the orgone cabinet. This subject preferred the placebo cabinet. A meteorological association with physical effects was noted and a temperature differential of approximately 1-degree between orgone and placebo cabinet internal atmospheric temperature was reported.
+Parasympathetic stimulation of the body, sensations of heat, an increase in the internal body temperature and regulation of arterial pressure was reported. All subjects except one showed a preference for the accumulating cabinet. Warmth, tingling and pleasant sensations were commonly reported.
+
+One subject appeared resistant to changes in the orgone cabinet. This subject preferred the placebo cabinet. A meteorological association with physical effects was noted and a temperature differential of approximately 1-degree between orgone and placebo cabinet internal atmospheric temperature was reported.
+
 
 www.leonsouthgate.com
 Electro-Cardio-Gram ECG recordings were found to have an unexplained high variance statistically.
@@ -6357,7 +6855,9 @@ Orgone Experiment
 Bions
 Grad
 Dr Bernard Grad PhD in biology and professor at McGill University Canada present a paper in which he repeated Reich's Experiment XX. In this an autoclaved microscopically clear aqueous extract of soil (bion water) is frozen and then thawed, flakes of microscopic size with living form were obtained.
-Grad claims that he also finds this to be true and that in addition he found other cell-like and spore-like forms. Eventually Grad calls these forms PFs or Primordial Forms. With changes in chemical content of the bion water Grad found more stable and complex forms could be precipitated, calcium chloride and ammonium carbonate was used amongst many other preparations. The addition of complex proteins also resulted in more complex forms being produced. Additionally, Grad found that some chemical reactions were sufficient in themselves to produce bionous type vesicles.
+Grad claims that he also finds this to be true and that in addition he found other cell-like and spore-like forms. Eventually Grad calls these forms PFs or Primordial Forms. With changes in chemical content of the bion water Grad found more stable and complex forms could be precipitated, calcium chloride and ammonium carbonate was used amongst many other preparations.
+
+The addition of complex proteins also resulted in more complex forms being produced. Additionally, Grad found that some chemical reactions were sufficient in themselves to produce bionous type vesicles.
 Various photographs are presented of the proto-organisms.
 As well as being published here Grad has presented his work at Pleomorphic biology conferences.
 1247) 88-94
@@ -6366,23 +6866,33 @@ Orgone Experiment
 www.leonsouthgate.com
 Bions
 Snyder
-Snyder an MSc biology graduate writes under a pseudonym to protect his academic career. Snyder also confirms Reich's Experiment XX. He finds additionally that by varying the type of material used to produce the bion-water, earth, hay or grass distinct morphological differences in the resulting microstructures can be produced. Snyder presents thirteen high quality micro-photographs of the differing bion preparations, discusses the previous bion experiments since Reich and presents a preliminary X-Ray analysis of the chemical elements of bion water.
+Snyder an MSc biology graduate writes under a pseudonym to protect his academic career. Snyder also confirms Reich's Experiment XX. He finds additionally that by varying the type of material used to produce the bion-water, earth, hay or grass distinct morphological differences in the resulting microstructures can be produced.
+
+Snyder presents thirteen high quality micro-photographs of the differing bion preparations, discusses the previous bion experiments since Reich and presents a preliminary X-Ray analysis of the chemical elements of bion water.
 1248) 95
 Orgone Experiment
 Bions
 Kong and Kim
 Kong (Dong Chul) and Kim (Hyun-Won) of Yonsei University in South Korea have repeated the little known research of North Korean Bonh Ham Kim who claimed to have found an anatomical fluid system that represented the meridian system, the Bonghan duct or Kyungrak system. In this system there are bionously created enitities called Sanals. The author of the paper have confirmed the existence of the system and the Sanals and present electron and light microscopy photographs of the Sanals organising into cells.
+
+
 1249) 100-113
 Orgone Experiments
 Bions
 Demeo
-Demeo conducts well controlled experiments in which he repeats bion creation from iron dust with positive results. He also repeats Experiment XX. The repeat of Reich's experiment XX is particularly well controlled with the preparations beings intensively boiled, auto-claved, and filtrated at 0.2 microns. Many of the forms that Reich claimed were seen such as spore and yeast like particles and even pseudo-ameoba type cells. Many of the vesicles were much larger than the 0.4 micron filter size.
+Demeo conducts well controlled experiments in which he repeats bion creation from iron dust with positive results. He also repeats Experiment XX. The repeat of Reich's experiment XX is particularly well controlled with the preparations beings intensively boiled, auto-claved, and filtrated at 0.2 microns.
+
+Many of the forms that Reich claimed were seen such as spore and yeast like particles and even pseudo-ameoba type cells. Many of the vesicles were much larger than the 0.4 micron filter size.
 Demeo also presents very interesting photographs of the Reich Blood Test. Demeo makes the note that unlike other pleomorphic pioneers such as Naessens and Enderlein (somatids and protids) or the Indian researcher's jeewanu (Bahadur) only Reich informs us of how the natural organisation of protozoa in nature in soils and ponds parallels the process of cancer formation in mammals. Only Reich found the connection between pre-life particles and biological energy.
+
+
 1251) 163
 Orgone Experiment
 Orgone and Dowsing
 Nikolaidis
-A Greek researcher investigates dowsing and orgonomic devices. Reich thought that dowsing was an energetic excitement between the dowser and the dowsed object steered through the rods. He conducted some rough experimentation to investigate this finding the dowsing rods were attracted to ORACs as well as to water. Reich noted that the dowser he met in the USA was more attuned to energy functions than he was at the time.
+A Greek researcher investigates dowsing and orgonomic devices. Reich thought that dowsing was an energetic excitement between the dowser and the dowsed object steered through the rods. He conducted some rough experimentation to investigate this finding the dowsing rods were attracted to ORACs as well as to water.
+
+Reich noted that the dowser he met in the USA was more attuned to energy functions than he was at the time.
 
 www.leonsouthgate.com
 Nikolaidas a mechanical engineer has found that ORACs, Cloudbusters, Dor-busters have definite fields which can be detected through dowsing, his basic observations are as follows;
@@ -6391,8 +6901,13 @@ All orgonomic devices react to the dowsing rodsThe reaction is stronger in rural
 Orgone Experiment
 Orgone and Mung Bean Sprouts
 Demeo
-Well controlled, scientfic experiment on sprouting mung beans. The experimental beans were placed in a small ORAC of 13 orgone ply which was placed within another 25 ply large ORAC, all of which was within an orgone dark room in rural area (USA). The control enclosure was made of plastic and cardboard linings, sealed for light and placed within a wooden hut to create near identical conditions to the orgone dark room (which is also made from a wooden hut as the basis). A light meter was used to monitor light conditions, temperature equality between the two enclosures had been established prior to the experimental run, thermal mass properties were equalised between the enclosures.
-Quantity of water given was recorded and equal. Seeds were kept in glass petri-dishes and covered to the same height. Measurements of growth were taken once daily at the same time for both groups Descriptive Statistics The histograms show a good bell curve for the distributions of both orgone and control seedlings. All 5 parameters measured showed an increase in the orgone group particularly the average seedling lengths which showed a 34% increase in length.
+Well controlled, scientfic experiment on sprouting mung beans. The experimental beans were placed in a small ORAC of 13 orgone ply which was placed within another 25 ply large ORAC, all of which was within an orgone dark room in rural area (USA). The control enclosure was made of plastic and cardboard linings, sealed for light and placed within a wooden hut to create near identical conditions to the orgone dark room (which is also made from a wooden hut as the basis).
+
+
+A light meter was used to monitor light conditions, temperature equality between the two enclosures had been established prior to the experimental run, thermal mass properties were equalised between the enclosures.
+Quantity of water given was recorded and equal. Seeds were kept in glass petri-dishes and covered to the same height. Measurements of growth were taken once daily at the same time for both groups Descriptive Statistics The histograms show a good bell curve for the distributions of both orgone and control seedlings.
+
+All 5 parameters measured showed an increase in the orgone group particularly the average seedling lengths which showed a 34% increase in length.
 
 ## Analytical Statistics
 
@@ -6457,7 +6972,9 @@ Reich stated that he was withholding certain information.
 53) 61
 Summary of Reich’s position in legal terms (that the original injunction can not stand because it was obtained fraudulently) (28).
 97) 164
-US government refused Reich a Visa to travel to Israel (where he intended to help Walter Hoppe carry out an Orgone Cloudbusting Operation or OROP). Also interest from Israeli government cut short by the US court action. Israeli Prime Minister Moshe Sharrett asked the Israeli embassy to visit Orgonon but the visit never materialised (possibly due to the US court action). Also (p.162) Prime minister Ben-Gurion sent a physicist to Hoppe to find out more about orgonomy.
+US government refused Reich a Visa to travel to Israel (where he intended to help Walter Hoppe carry out an Orgone Cloudbusting Operation or OROP). Also interest from Israeli government cut short by the US court action. Israeli Prime Minister Moshe Sharrett asked the Israeli embassy to visit Orgonon but the visit never materialised (possibly due to the US court action).
+
+Also (p.162) Prime minister Ben-Gurion sent a physicist to Hoppe to find out more about orgonomy.
 
 www.leonsouthgate.com
 448) 149
@@ -6477,7 +6994,9 @@ Mills said to a Rangeley citizen, Archie Cavignon, that he had been forced to pr
 The injunction was also unenforceable. Reich reported that publishing would resume, the court took no notice-190.
 476) 30
 Summary of why Reich did not fight the FDA case from the beginning;
-Reich's basic position was that 30 years of published research had made no impression on the administration. Also It was against USA interests for some of his discoveries to be disclosed in court and that the FDA's intention was merely to stop future work by endless legal entanglements. His other point was that natural scientific law and investigation should be outside judicial remit. Lastly he was willing to risk legal enjoinment of his activities as he had already accomplished his goal - sharing and disseminating his discoveries throughout the world.
+Reich's basic position was that 30 years of published research had made no impression on the administration. Also It was against USA interests for some of his discoveries to be disclosed in court and that the FDA's intention was merely to stop future work by endless legal entanglements. His other point was that natural scientific law and investigation should be outside judicial remit.
+
+Lastly he was willing to risk legal enjoinment of his activities as he had already accomplished his goal - sharing and disseminating his discoveries throughout the world.
 A last factor weighing on Reich's mind was that he believed the case was stacked against him. The FDA case against him was technically worthless but high powered testimonials would be used and the court would go with this rather than the facts.
 477) 33/38
 
@@ -6525,7 +7044,10 @@ What Maguire had done 'bordered on treason' Reich thought.
 Main legal arguments against enforcing the injunction were that ORACs and literature were not able to be brought back, that the case exceeded the jurisdiction of the court and violated the 4th amendment.
 Reich's court address stated that the injunction was impossible to follow. His non-appearance at the first court was because he didn't know how to proceed, and there was issues of national security involved. Reich said that Maguire was dishonest, falsely representing and involved in a conspiracy to deprive US of orgonomy. Somebody (Russia) wanted his functional equations he thought.
 Bizarre comment by the judge that he would not have allowed the 'judgement' of orgonomy even had Reich contested the original decree. Appears to be legal manoeuvring to avoid it appearing that the court would have sat in judgement on scientific matters - 51.
-The FDA maintained that all of Reich's work constituted advertising. The notion that a man would write books which jeopardise his life from both the red and black forms of fascism merely as advertising for products not yet invented which never made any significant money and costs tens of thousands to research borders on the insane. However as a dishonest discrediting attempt it is in keeping with FDA methods. The FDA spent most of its budget in the early years investigating Reich.
+The FDA maintained that all of Reich's work constituted advertising. The notion that a man would write books which jeopardise his life from both the red and black forms of fascism merely as advertising for products not yet invented which never made any significant money and costs tens of thousands to research borders on the insane. However as a dishonest discrediting attempt it is in keeping with FDA methods.
+
+
+The FDA spent most of its budget in the early years investigating Reich.
 
 www.leonsouthgate.com
 1009) 12
@@ -6539,8 +7061,12 @@ Judge Sweeney may have been sympathetic to R but saw no other option for him to 
 549) 161
 FDA Trial
 Dirty Tricks & the Psychiatric Assessment
-Dr Hubbard a consultant psychiatrist for Danbury federal prison, Connecticut, examined Reich. In a report dated March 28th 1957 he stated that Reich, although having most of his personality intact had paranoid ideation and delusions of grandiosity and persecution. He thought Reich had enough psychotic thinking to perhaps warrant a label of paranoid schizophrenic. Reich should not therefore stand accused of any crime and should be treated in a mental institute. He thought Silvert would 'recover' away from Reich's influence.
-Reich was then transferred to Lewisburg prison Pennsylvania. It was here he was examined by Lacovara, Senior surgeon and chief of psychiatric service at the prison. Here they stated that although Reich has bizarre ideation he is capable of distinguishing right from wrong and acting accordingly and his personality is essentially intact. They covered themselves by saying yes he could break down psychotically under stress. Thus they overturned Hubbard's diagnosis and found Reich legally sane.
+Dr Hubbard a consultant psychiatrist for Danbury federal prison, Connecticut, examined Reich. In a report dated March 28th 1957 he stated that Reich, although having most of his personality intact had paranoid ideation and delusions of grandiosity and persecution. He thought Reich had enough psychotic thinking to perhaps warrant a label of paranoid schizophrenic.
+
+Reich should not therefore stand accused of any crime and should be treated in a mental institute. He thought Silvert would 'recover' away from Reich's influence.
+Reich was then transferred to Lewisburg prison Pennsylvania. It was here he was examined by Lacovara, Senior surgeon and chief of psychiatric service at the prison. Here they stated that although Reich has bizarre ideation he is capable of distinguishing right from wrong and acting accordingly and his personality is essentially intact.
+
+They covered themselves by saying yes he could break down psychotically under stress. Thus they overturned Hubbard's diagnosis and found Reich legally sane.
 Dr Hubbard, Baker reports, was upset by this and phoned Lewisburg where he was told that essentially they agreed with his diagnosis but they wanted to avoid a re-litigation.
 510) 164
 Complaint of FDA had a very sarcastic tone. All Reich’s writings were merely ‘advertising’ and ‘promotional items’, ‘rent’, ‘financial arrangements’ were words used repeatedly. Mailing lists for serious journals became ‘mailing lists-promotional’ sent to ‘prospective customers’ as part of ‘advertising campaigns’.
@@ -6569,7 +7095,10 @@ FDA patient tests Can only be described as unscientific, inept testing for mirac
 219) 215
 U.S. Food & Drug Agency Tests
 Reich Blood Test
-Two and a half times as many patients in the cancer group as in the control group had 50% breakdown of red blood cells (RBC) in 5 minutes (physical integrity of RBCs are a parameter of the Reich Blood Test). The two controls with increased breakdown were both radiography staff (X-Rays are an orgone-antagonistic radiation). The FDA did not attempt a statistical analysis (which would have been likely to be significant in supporting Reich’s claims). Objections to technique, inconsistency, and possible misleading diagnosis of participants are noted.
+Two and a half times as many patients in the cancer group as in the control group had 50% breakdown of red blood cells (RBC) in 5 minutes (physical integrity of RBCs are a parameter of the Reich Blood Test). The two controls with increased breakdown were both radiography staff (X-Rays are an orgone-antagonistic radiation). The FDA did not attempt a statistical analysis (which would have been likely to be significant in supporting Reich’s claims).
+
+
+Objections to technique, inconsistency, and possible misleading diagnosis of participants are noted.
 The related issues of T-bacilli (viral-like forms in cancer tissue discovered by Reich), bions (proto-cells discovered by Reich) and illumination processes (of blood cells, a key indicator of vitality) are simply ignored by the FDA.
 220) 218
 
@@ -6578,14 +7107,21 @@ U.S. Food & Drug Agency Tests of Orgone Accumulators (ORACs).
 
 ## FDA patient tests.
 
-FDA researcher stated that no X-Ray device was near ORACs when their tests of the ORACs on anaemia were carried out. Why was the same precaution ignored in the mice and other tests? Many of the treatments carried out were of unspecified duration and were poorly reported, if at all. The FDA claimed to have treated 12 cases of anaemia for an hour a day for between 10 and 14 days on average. They did not specify what parameters they were measuring, other treatment variables were not controlled for (medications and other treatments). The experimenters made vague statements that there was no 'clear cut benefit to the patient' and treatment 'did not appear' to be enhanced by the ORAC. Their unsubstantiated and vague statements are unprovable one way or another. Actual data is not released - just opinions.
+FDA researcher stated that no X-Ray device was near ORACs when their tests of the ORACs on anaemia were carried out. Why was the same precaution ignored in the mice and other tests? Many of the treatments carried out were of unspecified duration and were poorly reported, if at all.
+
+The FDA claimed to have treated 12 cases of anaemia for an hour a day for between 10 and 14 days on average. They did not specify what parameters they were measuring, other treatment variables were not controlled for (medications and other treatments). The experimenters made vague statements that there was no 'clear cut benefit to the patient' and treatment 'did not appear' to be enhanced by the ORAC.
+
+
+Their unsubstantiated and vague statements are unprovable one way or another. Actual data is not released - just opinions.
 221) 219
 U.S. Food & Drug Agency Tests of Orgone Accumulators (ORACs).
 
 ## FDA patient tests.
 
 FDA testing of the ORACs effects on cervical infections are described. There is poor description of method in the FDA's reporting. It appears the testers were looking for all bacteria to suddenly disappear and not the effects actually described by Reich (selective immobilisation of pathological bacteria).
-Patients reported a warm sensation when treated (presumably with an orgone ‘shooter’ box/funnel or orgone test tube within the vagina, though this is not stated in the protocol). In two cases all bacterial flora (trichomonas) had disappeared after the third treatment. The comment of 4 patients of a warm sensation and the disappearance of bacterial flora in two patients is ignored. It is not stated by the FDA whether the flora seen before and after the treatments is living, dead, moving or immobile.
+Patients reported a warm sensation when treated (presumably with an orgone ‘shooter’ box/funnel or orgone test tube within the vagina, though this is not stated in the protocol). In two cases all bacterial flora (trichomonas) had disappeared after the third treatment. The comment of 4 patients of a warm sensation and the disappearance of bacterial flora in two patients is ignored.
+
+It is not stated by the FDA whether the flora seen before and after the treatments is living, dead, moving or immobile.
 An invalid test which purposely evades looking into Reich's claims on bacterial immobilisation.
 251) 234
 Food & Drug Administration, Trial.
@@ -6611,7 +7147,9 @@ Food & Drug Administration, Orgone Tests.
 
 ## Dr Lion’s Tests.
 
-Dr Lion contradicts himself saying he won’t examine Reich’s theory he will just stick to what he does know, i.e. making temperature measurements. Lion then goes on to criticise Reich’s theories and outline classical theories in an extremely sloppy manner. He misunderstands and misreads Reich’s accumulating principle giving the impression that he has not read any orgonomic literature. He misquotes classical theory too, saying that even if Reich’s theory were correct the boxes would continue to accumulate till temps of thousands of degrees were reached (this ignores basic principles of thermodynamic equalisation).
+Dr Lion contradicts himself saying he won’t examine Reich’s theory he will just stick to what he does know, i.e. making temperature measurements. Lion then goes on to criticise Reich’s theories and outline classical theories in an extremely sloppy manner. He misunderstands and misreads Reich’s accumulating principle giving the impression that he has not read any orgonomic literature.
+
+He misquotes classical theory too, saying that even if Reich’s theory were correct the boxes would continue to accumulate till temps of thousands of degrees were reached (this ignores basic principles of thermodynamic equalisation).
 Lion’s 1st To-T (Temperature Orgone versus Temperature Control).
 ORAC Average - 20.18 C, Control Average- 20.27 C, Air temp Average- 20.06 C over two weeks. No mention of how averaging was carried out or what type of average was used.
 No attempts made to balance Control and ORAC - graphs line of ORAC and Control keep crossing.
@@ -6653,6 +7191,7 @@ No attempts were made to repeat Reich’s actual experiments.
 Inappropriate ‘tests’ of their own design were substituted.
 (Reich used a variation of the telescope, the orgonoscope, to help visualise orgone flickering in the environment. Alternatively, a powerful orgone dark room, situated in a healthy environment, with observers who have been allowed to acclimatise, can be used. Other visual claims of Reich are that there is a West to East flickering flow of energy which can be seen in the sky in appropriate circumstances and that there is a flickering between stars in deep space).
 
+
 www.leonsouthgate.com
 The FDA ‘tests’ consisted of attaching a piece of paper with straight lines on it to the inside of an accumulator and illuminating it with an electric bulb. The control consisted of lined paper suspended above a hot plate. Flickering was not observed in front of the paper in the accumulator. A light bulb would in any case obliterate the subtle orgone waves from being seen.
 260) 244
@@ -6672,8 +7211,14 @@ Rosenblum.
 453) 161
 FDA Mouse Test
 Dr William Murray of the Jackson Memorial Lab in Bar Harbor, Maine was employed by the FDA to conduct their mouse experiments in 1953. Murray was an administrative head. He took no part in conducting the actual experiments. An assistant with little formal training did the actual lab work with the mice. Dr Murray had no contact with the actual practical handling of the experiment.
-There were two mice types, spontaneous tumours, a strain of DBA mice and tumour transplanted mice. At the time of this report twice as many experimental mice as controls had died (20 experimental, 10 control). Some of the tumours were less compact in the experimental group (as noticed by the assistant). Two Xray machines were sited within 100 feet of the mice making this an ORANUR test in direct contravention of Reich's experimental requirements. Still their experiment supports the ORAC's having a real effect - a negative one, possibly due to the Xrays nearby. The Xrays were run regularly at 4000 roentgens.
-The informant (Dr Blasband as a medical student) suspected that the orgone therapy was not even started until the tumours were far progressed (and then probably averaging half an hour treatment a day or less). Murray was only interested in inspecting the experimental data after the experiment was conducted in his absence. He admitted not reading any of the matierial on Reich's work the FDA sent him. He was told about the Xray and orgone effect and ignored it or did not comprehend it.
+There were two mice types, spontaneous tumours, a strain of DBA mice and tumour transplanted mice. At the time of this report twice as many experimental mice as controls had died (20 experimental, 10 control). Some of the tumours were less compact in the experimental group (as noticed by the assistant).
+
+Two Xray machines were sited within 100 feet of the mice making this an ORANUR test in direct contravention of Reich's experimental requirements. Still their experiment supports the ORAC's having a real effect - a negative one, possibly due to the Xrays nearby. The Xrays were run regularly at 4000 roentgens.
+
+The informant (Dr Blasband as a medical student) suspected that the orgone therapy was not even started until the tumours were far progressed (and then probably averaging half an hour treatment a day or less). Murray was only interested in inspecting the experimental data after the experiment was conducted in his absence. He admitted not reading any of the matierial on Reich's work the FDA sent him.
+
+
+He was told about the Xray and orgone effect and ignored it or did not comprehend it.
 489) 26
 
 www.leonsouthgate.com
@@ -6695,7 +7240,9 @@ FDA reference, Lion, K. 'Investigations on the Orgone Accumulator’, FDA docume
 Can only be described as an appallingly awful unscientific sham. FDA have kept no original data.
 Graphs are eligible, no way of finding absolute data from the graphs as the scales are missing. The only measurements taken appeared to be done at random intervals. There appeared to be random extreme temperature fluctuations - doors appeared to be opened at various intervals.
 The environment was mildly radioactive according to Dr Lion's own reports elsewhere. Lion himself wore a radium glow wristwatch which yielded high CPM's (Geiger Muller Machine, Counts Per Minute). The background count of his lab, according to Dr Lion, was between 40 and 70 CPM suggesting low level radioactive contamination.
-The actual orgone test was conducted during winter-the worst time possible. His son recalls that Dr Lion was called upon to 'prove Dr Reich....a fake', in other words, not to investigate scientifically. The FDA either never had or have lost any legible data with absolute values on them. Dr Lion's family destroyed Dr Lion's notes upon his death. It is known that the graph lines of the ORAC, control and room temperature repeatedly cross each other suggesting a poorly conducted 'experiment'.
+The actual orgone test was conducted during winter-the worst time possible. His son recalls that Dr Lion was called upon to 'prove Dr Reich....a fake', in other words, not to investigate scientifically. The FDA either never had or have lost any legible data with absolute values on them.
+
+Dr Lion's family destroyed Dr Lion's notes upon his death. It is known that the graph lines of the ORAC, control and room temperature repeatedly cross each other suggesting a poorly conducted 'experiment'.
 
 www.leonsouthgate.com
 FREUD
@@ -6715,7 +7262,9 @@ Reich felt it was Freud’s theory that underpinned his own work - he was merely
 Reich asked Freud to distinguish the natural from the compulsive family (Freud never did this).
 107) 252-253
 Reich noted some personal factors affecting Freud.
-He was destroyed by the very organisation he founded, Reich believed. Freud’s organisation withdrew from sexuality and especially Reich’s org m formula. Psychoanalysis was effectively destroyed. Reich predicted that psychoanalysis would become little more than idle chatter at dinner parties. Reich believed Freud became terribly resigned and had a marriage to a woman he neither loved or was attracted to.
+He was destroyed by the very organisation he founded, Reich believed. Freud’s organisation withdrew from sexuality and especially Reich’s org m formula. Psychoanalysis was effectively destroyed.
+
+Reich predicted that psychoanalysis would become little more than idle chatter at dinner parties. Reich believed Freud became terribly resigned and had a marriage to a woman he neither loved or was attracted to.
 109) 5
 Around 1914 Freud moved from making the unconscious aspects conscious to removing the psychic resistances to therapy as the primary therapeutic weapon. This should place Reich’s character analysis to the fore.
 143) 99
@@ -6740,9 +7289,15 @@ This was the biggest step forward in analysis's development at this stage (1920'
 The young Reich feared the full responsibility for his findings and wanted it to be at first within Freud's thinking or extending the social side of Marxist thinking. However, he soon realised that the social affirmation of genitality was outside of Marxist thought and the genital convulsion was outside of Freud's thinking.
 361) 84
 Freud, Sexuality and Analysis
-Freud's theory of libido-repression-stasis leading to a sexual aeitology of neurosis can be contrasted with Reich's concept of flow-libido-regulation-orgasm with armouring forming the blockage to the process. This defines health as flow and anchors it biologically. In addition it gives a logical process to treatment. A definition of health, logical process of treatment and biological anchoring are all missing from Freud's approach.
+Freud's theory of libido-repression-stasis leading to a sexual aeitology of neurosis can be contrasted with Reich's concept of flow-libido-regulation-orgasm with armouring forming the blockage to the process. This defines health as flow and anchors it biologically. In addition it gives a logical process to treatment.
+
+A definition of health, logical process of treatment and biological anchoring are all missing from Freud's approach.
 384) 117
-Freud was influenced by physiological studies such as those of Helmholtz and Meynert (neuropathology) and by hypnosis (Charcot, Liebault, Bernheim and Breur). Freud believed in a sexual origin of neurosis at this time. He based this on libido theory - emotional illness was caused by undischarged libido or sexual drive energy. This theory was acceptable until around 1926. From 1900 www.leonsouthgate.com Freud had been steadily moving away from biological concepts-libido became a disembodied concept. In 1926 Freud formally rejected the libido/energetic concept of anxiety and argued instead that neurosis was coded into the psychic structure through the ego's reaction to danger signals. It thus moved from a bodily to a purely psychic basis. Reich came to psychoanalysis in 1919.
+Freud was influenced by physiological studies such as those of Helmholtz and Meynert (neuropathology) and by hypnosis (Charcot, Liebault, Bernheim and Breur). Freud believed in a sexual origin of neurosis at this time. He based this on libido theory - emotional illness was caused by undischarged libido or sexual drive energy.
+
+This theory was acceptable until around 1926. From 1900 www.leonsouthgate.com Freud had been steadily moving away from biological concepts-libido became a disembodied concept. In 1926 Freud formally rejected the libido/energetic concept of anxiety and argued instead that neurosis was coded into the psychic structure through the ego's reaction to danger signals.
+
+It thus moved from a bodily to a purely psychic basis. Reich came to psychoanalysis in 1919.
 408) 89
 Freud de-emphasised 'remembering with affect' in latter years. This reflects the increasing intellectualisation of analysis.
 413) 163
@@ -6754,7 +7309,9 @@ At the same time Reich was often treated with adulation and many thought of him 
 Freud's first paradigm failure was that ‘making the unconscious conscious’ would affect a transition toward health. It was from this that the death instinct theory eventually arose. This was the consequence of rejecting the earlier, energetic and economic view that sexual libido is damned up in the neurotic.
 492) 97
 Reich & Freud
-Freud felt that Josef Breuer was partially the father of psychoanalysis. This was until Josef rejected such parenthood and particularly the theory of infantile sexuality. This led Freud to realise the originality of his paradigm. Freud also thought at this time that genital function disturbances in adults could cause some neurosis. (Freud, unlike Reich, thought that sexuality should be expanded from the genital).
+Freud felt that Josef Breuer was partially the father of psychoanalysis. This was until Josef rejected such parenthood and particularly the theory of infantile sexuality. This led Freud to realise the originality of his paradigm.
+
+Freud also thought at this time that genital function disturbances in adults could cause some neurosis. (Freud, unlike Reich, thought that sexuality should be expanded from the genital).
 Reich's work expanded on Freud's libido, sexual economic and resistance theories but eventually Reich too had to confront the fact that he had entered a wholly new paradigm. Resistance analysis became Character Analysis and libido theory became orgasm theory which led directly to the discovery of an energy which, if real, would connect the emotions directly to the somatic.
 Also Breuer emphasised catharsis more than Freud. Perhaps Reich's emphasis on catharsis reminded the aging Freud of his own rejection by Breuer (Footnote 101).
 In 1928 Freud told a young admirer that the real Freud is dead. This echoes what Reich said about Freud's latter resignation.
@@ -6769,7 +7326,10 @@ Reich states Neurosis is just a conflict between the plasma’s needs (sex drive
 Also Reich sees Freud’s drive psychology as being close to biology. Also he views its basic concepts of neurosis as linking the theory to the physiology of the neurosis.
 Reich traces the source of a symptom to biological, libidinal energy, which is constantly charging up.
 529) 230-231
-Freud was one of the few neurologists who presented cogent arguments against the exclusive localisation of mental/psychic phenomena within the structure of the cerebral cortex. Konia quotes Freud from 'On Aphasia, A Critical Study’ and notes that Freud had the insight to recognise the common practise of confusing a cellular or other physical process with a mental process. They cannot be substituted for each other. The one can mirror the other but they are not the same.
+Freud was one of the few neurologists who presented cogent arguments against the exclusive localisation of mental/psychic phenomena within the structure of the cerebral cortex. Konia quotes Freud from 'On Aphasia, A Critical Study’ and notes that Freud had the insight to recognise the common practise of confusing a cellular or other physical process with a mental process. They cannot be substituted for each other.
+
+
+The one can mirror the other but they are not the same.
 566) 273
 Reich thought Freud's death instinct was the result of erroneously giving a biological significance to psychic manifestations of the masochistic character.
 638) 69
@@ -6846,7 +7406,9 @@ Reich was the first to explain the pulsation of the RBC. Flicker disapears in il
 353) 268
 Reich's priority in ascribing abnormal RBC shapes to disease processes is described. Also other studies are referenced which indirectly confirm Reich's blood test proposition - that RBC deterioration marks disease changes and a decrease in energetic vitality.
 387) 111-112
-Around 1960 Fox and other scientists discovered that heating amino acids to high temperature and then placing them in boiling saline resulted in formation of 'proteinoid microspheres'. These exhibit life like properties-motility, budding, cleavage, growth, membrane selectivity and 'primitive' proliferation. Two particles could form junctions (similar to Reich's radiating bridges). Fox believes that such protocells are precursors to cells and are basic unit of life.
+Around 1960 Fox and other scientists discovered that heating amino acids to high temperature and then placing them in boiling saline resulted in formation of 'proteinoid microspheres'. These exhibit life like properties-motility, budding, cleavage, growth, membrane selectivity and 'primitive' proliferation. Two particles could form junctions (similar to Reich's radiating bridges).
+
+Fox believes that such protocells are precursors to cells and are basic unit of life.
 Makes no reference to Reich or bions.
 See International Society for the Study of the Origin of Life.
 Fox, S. and Dose, K. (1972) Molecular Evolution and the Origin of Life, USA, W. H. Freeman.
@@ -6940,7 +7502,9 @@ Medication, namely stimulants can affect symptoms author argues, but it interfer
 768) 72
 Self injury, repetitions, compulsive behaviour and automatons can be seen as an attempt to remobilise an orgonotically deadened area.
 1016) 6
-Dr A. Schmale & H. Iker presented a paper to the American Psychosomatic Society meeting in Rochester (either 1963 or 64, exact reference not available). They reported on their finding that they were able to predict before biopsy 31 out of 40 women suspected of cervical cancer on the basis of feelings of hopelessness which they called 'giving up syndrome'. Reich is in no way credited despite it being him who outlined the resignation syndrome inherent in cancer patients in great detail in the 1940's.
+Dr A. Schmale & H. Iker presented a paper to the American Psychosomatic Society meeting in Rochester (either 1963 or 64, exact reference not available).
+
+They reported on their finding that they were able to predict before biopsy 31 out of 40 women suspected of cervical cancer on the basis of feelings of hopelessness which they called 'giving up syndrome'. Reich is in no way credited despite it being him who outlined the resignation syndrome inherent in cancer patients in great detail in the 1940's.
 Also along the same lines were the NY Academy of sciences report on psychological aspects of cancer in their Science Newsletter of April 17th 1965 - again no mention of Reich.
 1036) 42-43
 Schizophrenia has a much wider definition in orgonomy than in general psychiatry. In the latter it is more or less defined as a spectrum dependent on eye blocking, or ocular armouring. This can occur with or without an actual psychosis.
@@ -7009,6 +7573,8 @@ Study 1 showed a statistically significant effect at decreasing tumour size amon
 
 In both studies the mice were implanted with tumours (this strain develops cancer spontaneously if left to age but in this experiment they were inoculated).
 Numbers were 9 in first experiment series and 8 in the second (split into orgone versus control groups). There were changes from study 1 to study 2 in terms of the parameters measured (lifespan not reported in first series, water intake and weight recorded in second series). The study methods were not yet standardised between the two experimental series especially distance from the irradiating device.
+
+
 A very interesting initial study of an oranur device which appears to show good treatment effects in cancer mice.
 687) 284
 Instruments used to detect air ions are similar to the electroscopic discharge rate measurements Reich used to measure changes in ORACs. Positive Ions might correspond to DOR.
@@ -7057,6 +7623,8 @@ A mixture of soil and water was kept in an ORAC. P availability was measured. Th
 Cancer
 Reich's journals documented often dramatic changes in various conditions such as anemia, diabetes mellitus, carcinoma & wound healing.
 Heikko Lassak in West Germany led a group of doctors who experimented with the use of the ORAC in treating patients. Their work was presented at numerous lectures in German and Scandinavian universities. As ORAC design instruction became available to more people in the mid-80's Lassak documents that he was being contacted by many people in person and by letter who were reporting predominately positive experiences with the ORAC.
+
+
 Working free of charge with ORACs and orgone psychotherapy Lassak worked with 17 terminal cancer patients from 1988-1991 approximately. He found a clear reduction in pain in 2/3rds of the patients after 20 ORAC treatments. All of the patients experienced an increase in vitality. Most of the patients had their prognosis extended by their specialists.
 In 9 of the severely disabled terminal cancer cases analgesia was not required at all - to the amazement of their specialists..
 When the patients were in the ORAC they often described a 'new' type of 'good' pain. Several times patients described a pain localised around a certain area which turned out to be an undiagnosed metastases.
@@ -7064,14 +7632,16 @@ In three cases a shrinking of tumours was radiologically diagnosed.
 Reich Blood Test and another type of live blood analysis showed marked changes.
 Lassak notes the live blood analysis and radiological treatment of Dr Joseph Issels which is successful due to its energetic monitoring of the effect of the radiation.
 Lassak notes that the patients he treated were in an older age group and warns against treating young people with acute myeloid leukaemia. Sometimes in younger people cancer can be an energetically 'excess' condition. But the main point to remember is that ORAC treatment can result in auto-intoxication - the kidneys and liver are faced with much tumour debris and T-Bacilli (cancer-associated proto-virus).
+
+
 Chronic medical conditions with associated pain often show a great reduction or alleviation of pain.
 1123) 54
-Demeo reports on observations of using the ORAC. A very low energy farmer cures himself of a fast spreading form of liver cancer with very long treatments in a very powerful ORAC he built from oil-drums, superficial burns, a small encapsulated breast tumour which had not grown or decreased in size previously for some time (releasing much anxiety in he young woman who couldn't accept it as a product of the orgone treatment of which she had been sceptical). Unresponsive to conventional treatment genital herpes. A baby who had persistent colds ( a fever ensued-one must watch children with ORACs as a high temp can easily occur as the body energises and fights any pathogens).
+Demeo reports on observations of using the ORAC. A very low energy farmer cures himself of a fast spreading form of liver cancer with very long treatments in a very powerful ORAC he built from oil-drums, superficial burns, a small encapsulated breast tumour which had not grown or decreased in size previously for some time (releasing much anxiety in he young woman who couldn't accept it as a product of the orgone treatment of which she had been sceptical). Unresponsive to conventional treatment genital herpes.
+
+
+A baby who had persistent colds ( a fever ensued-one must watch children with ORACs as a high temp can easily occur as the body energises and fights any pathogens).
 14) 31
-Other devices using ORAC type layering:www.leonsouthgate.com Atomic Piles (carbon/uranium)
-Leydon Jars (glass/metal)
-Mesmer's Baquet
-See also Demeo's notes on celestial influences upon above devices.
+Other devices using ORAC type layering:www.leonsouthgate.com Atomic Piles (carbon/uranium) Leydon Jars (glass/metal) Mesmer's Baquet See also Demeo's notes on celestial influences upon above devices.
 1003) 44
 Reichenbach, late 1800's, conducted ORAC-like experiments, metal plate exposed to the sun connected by wires to a dark room-sensitives could see Odic glow which disappears when plates covered. Also there is odic glow over graves corresponding to their 'freshness'. Author of article notes that Reichenbach's sensitives were probably schizophrenics-many of whom are sensitive to energy.
 1004) 46
@@ -7147,6 +7717,8 @@ The effects of a psychic experience are not determined by psychic content but by
 163) 153
 Orgone Therapy Case Studies
 A patient’s fear had become structuralised as a superficial attitude particularly toward women. He then underwent a very sudden character change to a serious attitude. (In the past his mother would pretend to offer niceness and then suddenly turn vicious toward him). His newly emerged serious feelings were the same as his pre-repression feelings from childhood. (He didn’t recognise them as the same at first because they felt so foreign to him initially, 155).
+
+
 164) 153
 Reich noted that neurotics all have a chronic contraction of the diaphragm.
 165) 164
@@ -7174,7 +7746,10 @@ Therapy does not consist of working on muscles and tensions but of working with 
 Interesting orgone therapy case. Illustrates well the mixture of character and energy work. Also the role of guilt in holding in emotions-a fear of letting the more primary anger out.
 271) 30
 Orgone Therapy Case Study
-Interesting case. Obese masochist (diagnosed as an Oral Repressed Hysteric). She had a hospitilisation after mononucleosis complicated by hepatitis. She had a complete anorgonotic shutdown after partial release of armouring (anorgonia is where the orgone energy of the body ‘collapses’ often due to shock). Interesting especially as patient used mental imagery of bodily movement to help break the paralysis. She recovered completely with further orgone therapy.
+Interesting case. Obese masochist (diagnosed as an Oral Repressed Hysteric). She had a hospitilisation after mononucleosis complicated by hepatitis.
+
+She had a complete anorgonotic shutdown after partial release of armouring (anorgonia is where the orgone energy of the body ‘collapses’ often due to shock). Interesting especially as patient used mental imagery of bodily movement to help break the paralysis. She recovered completely with further orgone therapy.
+
 Very vigorous genital strivings meeting equally vigorous blocking caused the anorgonia.
 272) 31
 Seven stages of orgone therapy:
@@ -7202,7 +7777,9 @@ Latter gave lectures to Argentinian Psychoanalytic Association (circa 1947). Bot
 Orgone therapy-a magical thinker became delusional after a number of sessions when his ocular segment contracted. Finally the emotion locked in his eyes broke through and his ocular segment expanded permanently.
 455) 176 (184)
 Orgone Therapy and Repetitive behaviours
-Very interesting case illustrating how people repeat their early experiences, but this time from an orgonomic perspective-the patient is unusual-a very high energy depressive. He had a 'doormat' mother and an aggressive father. He ruthlessly suppressed his own energy field to survive. He chose two wives who treated him badly (taking on the role of his mother) but who also 'dampened' his energy field (the second very literally). Orgone therapy enables him to completely turn around his life.
+Very interesting case illustrating how people repeat their early experiences, but this time from an orgonomic perspective-the patient is unusual-a very high energy depressive. He had a 'doormat' mother and an aggressive father. He ruthlessly suppressed his own energy field to survive.
+
+He chose two wives who treated him badly (taking on the role of his mother) but who also 'dampened' his energy field (the second very literally). Orgone therapy enables him to completely turn around his life.
 503) 75
 Lance notes that without the concept of genitality and/or orgone the post-Reich theories cannot be true to Reich’s work. Also, genital health is only a central goal in orgone psychiatric herapy.
 Orgone therapy itself does not offer easy solutions and is not dramatic. It takes courage to face the ‘terror of the living’ as Reich called it.
@@ -7230,6 +7807,8 @@ Emotions-ideas
 Children
 Koopman, B.
 Very good case history. 2.5 yr old traumatised child with small amount brain damage and severe developmental difficulties (isolating, speech and behaviour problems). Done extremely well in short space of time, facilitated starting speech therapy. Orgonomic mobilisation of his jaw-and release of the rage he was holding there started a blossoming process that gave good results very quickly despite neurological deficits.
+
+
 641) 60-67
 An ocular block-beautiful description of the return of stereoscopic vision in patients own words.
 653) 159-171
@@ -7289,14 +7868,19 @@ Lengthy discussion of guilt from an orgonomic viewpoint. Self destructive immola
 Orgone Psychiatric Therapy
 Sands, J.
 Interesting case history of a young adolescent in orgone therapy. Seriously disturbed 13 yr old with moderate learning difficulties, distorted body image, lack of confidence, increasingly violent behaviour.
-Diagnosed with ADHD and learning difficulties, some abnormal EEG patterns when asleep. ADHD type drugs do not help. The main intervention appeared to be simply establishing ocular contact. Not possible to establish a full diagnosis as orgone diagnosis not based on behaviour but character www.leonsouthgate.com attitudes. Patient had ocular type patterns, possibly a phallic type ocular pattern such as paranoid schizophrenic. He makes substantial improvements in 16 sessions.
+Diagnosed with ADHD and learning difficulties, some abnormal EEG patterns when asleep. ADHD type drugs do not help. The main intervention appeared to be simply establishing ocular contact.
+
+Not possible to establish a full diagnosis as orgone diagnosis not based on behaviour but character www.leonsouthgate.com attitudes. Patient had ocular type patterns, possibly a phallic type ocular pattern such as paranoid schizophrenic. He makes substantial improvements in 16 sessions.
+
 754) 89
 Orgone Psychiatric Therapy
 Very good case history. Obesity in phallic character. Illustrates well the layering processes in character work. Her weight shielded her from memories, in her body, ofsexual abuse. The patient physically reshaped herself in response to biophysical changes.
 1028) 51-53
 Orgone Psychotherapy
 Dr Braid, Et Al, Discussion
-Psychiatrist reinterprets all a patients perceptions which in turn increases her eye block, she became more depressed and finally psychotic. Physical work upon her ocular segment grounds her successfully within three weeks. She was diagnosed catatonic schizophrenic but work on an ocular block and shallow breathing had powerful effects in normalising her. Medication is described as an 'external armouring' (schizophrenics lack sufficient body armour).
+Psychiatrist reinterprets all a patients perceptions which in turn increases her eye block, she became more depressed and finally psychotic. Physical work upon her ocular segment grounds her successfully within three weeks. She was diagnosed catatonic schizophrenic but work on an ocular block and shallow breathing had powerful effects in normalising her.
+
+Medication is described as an 'external armouring' (schizophrenics lack sufficient body armour).
 1036b) 18
 Symptoms are not the most reliable index of emotional sickness.
 Orgonomy deals with 'how' the patient became sick, psychiatry tends to 'what' the sickness is and psychotherapy examines the 'history'. Only orgonomy has a workable definition of health.
@@ -7305,7 +7889,9 @@ Good case history illustrating the medical effects of an orgone therapy case; ch
 1072) 24
 Good example of a somatised memory being brought back into consciousness by orgone therapy (sucking thumb brought back awareness of her dependent character.
 1075) 30
-Discussion between orgone therapists It was noted that therapeutic effectiveness is not defined by theoretical orientation. Some people are exceptionally good therapists for a reason hard to define. Another orgone therapist notes that it is about energetic contact and talks of the similarities with faith healers and native Indian healing. Reich talked of the interactions of energy fields between therapist and client.
+Discussion between orgone therapists It was noted that therapeutic effectiveness is not defined by theoretical orientation. Some people are exceptionally good therapists for a reason hard to define. Another orgone therapist notes that it is about energetic contact and talks of the similarities with faith healers and native Indian healing.
+
+Reich talked of the interactions of energy fields between therapist and client.
 365) 222/229
 Fat and armouring - can be reflection of an inability to bind energy through neurosis. Can be an armour substitute developing during treatment.
 Overeating to physically compress vegetative centres, thereby reducing anxiety - Footnote page 230.
@@ -7316,7 +7902,10 @@ Neurotic and somatic symptoms can suddenly swap during orgone treatment - 229.
 713) 207-212
 Orgone Psychiatric Therapy
 Interesting case history of a young adolescent in orgone therapy. Seriously disturbed 13 yr old with moderate learning difficulties, distorted body image, lack of confidence, increasing violent behaviour.
-Diagnosed with ADHD and learning difficulties, some abnormal EEG patterns when asleep. ADHD type drugs do not help. The main intervention appeared to be simply establishing ocular contact. Not possible to establish a full diagnosis as orgone diagnosis not based on behaviour but character attitudes. Patient had ocular type patterns, possibly a phallic type ocular pattern such as paranoid schizophrenic. He makes substantial improvements in 16 sessions.
+Diagnosed with ADHD and learning difficulties, some abnormal EEG patterns when asleep. ADHD type drugs do not help. The main intervention appeared to be simply establishing ocular contact.
+
+Not possible to establish a full diagnosis as orgone diagnosis not based on behaviour but character attitudes. Patient had ocular type patterns, possibly a phallic type ocular pattern such as paranoid schizophrenic. He makes substantial improvements in 16 sessions.
+
 714) 181
 Peptic ulcers and gallstones can be sequlae of orgone treatment (can occur as a reaction to the treatment - usually with subsequent resolution).
 721) 34
@@ -7539,7 +8128,9 @@ Reich's early positions in analysis:First Clinical Assistant at Freud's Psychoan
 1028) 51-53
 Orgone Psychotherapy
 Dr Braid, Et Al, Discussion
-Psychiatrist reinterprets all a patients perceptions which in turn increases her eye block, she became more depressed and finally psychotic. Physical work upon her ocular segment grounds her successfully within three weeks. She was diagnosed catatonic schizophrenic but work on an ocular www.leonsouthgate.com block and shallow breathing had powerful effects in normalising her. Medication is described as an 'external armouring' (schizophrenics lack sufficient body armour).
+Psychiatrist reinterprets all a patients perceptions which in turn increases her eye block, she became more depressed and finally psychotic. Physical work upon her ocular segment grounds her successfully within three weeks. She was diagnosed catatonic schizophrenic but work on an ocular www.leonsouthgate.com block and shallow breathing had powerful effects in normalising her.
+
+Medication is described as an 'external armouring' (schizophrenics lack sufficient body armour).
 1036b) 18
 Symptoms are not the most reliable index of emotional sickness.
 Orgonomy deals with 'how' the patient became sick, psychiatry tends to 'what' the sickness is and psychotherapy examines the 'history'. Only orgonomy has a workable definition of health.
@@ -7547,7 +8138,9 @@ Orgonomy deals with 'how' the patient became sick, psychiatry tends to 'what' th
 Freud's famous Civilisation and its Discontents Reich claims was written in response to a paper he gave to Freud's private inner circle titled 'The Prophylaxis of the Neuroses'.
 107) 252-253
 Reich noted some personal factors affecting Freud.
-He was destroyed by the very organisation he founded, Reich believed. Freud’s organisation withdrew from sexuality and especially Reich’s org m formula. Psychoanalysis was effectively destroyed. Reich predicted that psychoanalysis would become little more than idle chatter at dinner parties. Reich believed Freud became terribly resigned and had a marriage to a woman he neither loved or was attracted to.
+He was destroyed by the very organisation he founded, Reich believed. Freud’s organisation withdrew from sexuality and especially Reich’s org m formula. Psychoanalysis was effectively destroyed.
+
+Reich predicted that psychoanalysis would become little more than idle chatter at dinner parties. Reich believed Freud became terribly resigned and had a marriage to a woman he neither loved or was attracted to.
 235) 35
 Fourth stage of Development-Reich's work may need the postulation of a fourth ego developmental stage-OCULAR/oral/anal/genital. (Baker).
 603) Ego psychology
@@ -7600,7 +8193,9 @@ Anna Freud uses Reichian terminology when describing methods of ego defence whic
 Freud, A. (1946) The Ego and the Mechanisms of Defence, NY, International Universities Press: 36.
 1013) 58
 H. E. Sullivan's muscular tension theory appears to have borrowed from Reich's armour theory.
-Sullivan describes how the skeletal muscles take on tension and attempt to discharge in reaction to pain in infancy. Although tension is not the same as anxiety in Sullivan's theory it is necessary for it's experience. However, it is still a simplified version of Reich's armour theory. Reich’s theory takes an energetic perspective and looks at how the blocked energetic excitation splits up to form both the suppressing block and the original energy striving for expression. Reich defined anxiety as the "sensation of constriction, of a stasis." Character Analysis, Nonnday Press, NY, 1963: 213.
+Sullivan describes how the skeletal muscles take on tension and attempt to discharge in reaction to pain in infancy. Although tension is not the same as anxiety in Sullivan's theory it is necessary for it's experience. However, it is still a simplified version of Reich's armour theory.
+
+Reich’s theory takes an energetic perspective and looks at how the blocked energetic excitation splits up to form both the suppressing block and the original energy striving for expression. Reich defined anxiety as the "sensation of constriction, of a stasis." Character Analysis, Nonnday Press, NY, 1963: 213.
 From P. Mullahy (1948) Oedipus Myth and Complex, Hermitage Press, NY.
 407) 86
 Abraham's very early work on character was not systematic nor did it present a method. Abraham thought only certain patient's presented 'pathological deformities' of character. If a patient could free associate without major blocking character was not then an issue.
@@ -7626,7 +8221,10 @@ Criticism
 The Repression of Psychoanalysis, Jacoby, R. (1983) NY, Basic Books.
 Examination of second generation of analysts and their role in the 'ultimate suppression of psychoanalysis as a force to effect social change'.
 Jacoby is generally accurate in his historical details and sympathetic to Reich's contributions.
-Concentrates on Fenichel and others but reviews Reich's influence on him and other prominant psychoanalysts. Fenichel battled to preserve classical analysis from a sublimation which eroded its social and sexual roles in the US. He believed Reich went too far toward a biological sexual reductionism. Jacoby notes the radical beginnings of Edith Jacobson and Annie Reich. Jacoby calls Reich's scientific work 'mystical'. Fenichel rejected the bioelectrical work of Reich and urged the Marxist analysts to 'silently reject' it although supporting Reich at other times.
+Concentrates on Fenichel and others but reviews Reich's influence on him and other prominant psychoanalysts. Fenichel battled to preserve classical analysis from a sublimation which eroded its social and sexual roles in the US. He believed Reich went too far toward a biological sexual reductionism.
+
+Jacoby notes the radical beginnings of Edith Jacobson and Annie Reich. Jacoby calls Reich's scientific work 'mystical'. Fenichel rejected the bioelectrical work of Reich and urged the Marxist analysts to 'silently reject' it although supporting Reich at other times.
+
 566) 273
 Reich thought Freud's death instinct was the result of erroneously giving a biological significance to psychic manifestations of the masochistic character.
 
@@ -7639,7 +8237,9 @@ R. D. Laing noted that Reich's discoveries on the social influences upon the sym
 
 1013) 58
 H. E. Sullivan's muscular tension theory appears to have borrowed from Reich's armour theory.
-Sullivan describes how the skeletal muscles take on tension and attempt to discharge in reaction to pain in infancy. Although tension is not the same as anxiety in Sullivan's theory it is necessary for it's experience. However, it is still a simplified version of Reich's armour theory. Reich’s theory takes an energetic perspective and looks at how the blocked energetic excitation splits up to form both the suppressing block and the original energy striving for expression. Reich defined anxiety as the "sensation of constriction, of a stasis." Character Analysis, Nonnday Press, NY, 1963: 213.
+Sullivan describes how the skeletal muscles take on tension and attempt to discharge in reaction to pain in infancy. Although tension is not the same as anxiety in Sullivan's theory it is necessary for it's experience. However, it is still a simplified version of Reich's armour theory.
+
+Reich’s theory takes an energetic perspective and looks at how the blocked energetic excitation splits up to form both the suppressing block and the original energy striving for expression. Reich defined anxiety as the "sensation of constriction, of a stasis." Character Analysis, Nonnday Press, NY, 1963: 213.
 From P. Mullahy (1948) Oedipus Myth and Complex, Hermitage Press, NY.
 1015) 61
 Reich had a concept of the primacy of orgastic discharge as he believed all neurosis was rooted finally in a stasis of biosexual energy and that all neurotics were orgastically impotent.
@@ -7651,7 +8251,9 @@ Reich's work preceded Fenichel's.
 Reich's 1920's ideas to integrate Marx and Freud were intellectually attractive to persons such as Erich Fromm, Siegfried Bernfeld and Otto Fenichel. Who were participants in Reich's study groups.
 Also note that as director of Seminar for Psychotherapy R must have profoundly influenced Anna F and Erikson also (11).
 1087) 22
-R says Adler began to do character analysis instead of symptom analysis but without reference to sexuality. Ferenczi worked with states of tension in the body but ignored orgasm theory. Rank mistook the fear of living in such an armoured world for the trauma of birth ( as the cause of neurosis).. They all refused to consider wht the patient was to do with the liberated sexual energy made available by successful therapy.
+R says Adler began to do character analysis instead of symptom analysis but without reference to sexuality. Ferenczi worked with states of tension in the body but ignored orgasm theory. Rank mistook the fear of living in such an armoured world for the trauma of birth ( as the cause of neurosis)..
+
+They all refused to consider wht the patient was to do with the liberated sexual energy made available by successful therapy.
 
 www.leonsouthgate.com
 
@@ -7697,8 +8299,7 @@ Bions
 T-baccilli
 Orgone energy
 Orgone accumulation
-Orgone and weather Orgone motor Oranur reaction www.leonsouthgate.com Matter creation
-Gravitational equations
+Orgone and weather Orgone motor Oranur reaction www.leonsouthgate.com Matter creation Gravitational equations
 1018) 13
 Genius tends to be both sicker and healthier than ordinary people-orgonomically because they have stronger energy-they are healthier. They suffer stagnation more acutely therefore they are sicker.
 Nietzsche said a person's health could be measured by the amount of sickness they could endure.
@@ -7720,8 +8321,14 @@ Freud's famous Civilisation and its Discontents R claims was written in response
 1103) 61
 Reich's Autopsy Report Suppressed
 Reich had a heart attack in October 1951. He took about a month to recover. He had a heart murmur and some congestive failure.
-Reich after he was sentenced attempted to arrange a cardiac appointment with Dr Paul White but he was unavailable. Reich didn't want anyone else. Reich had a full medical by the prison doctor which apparently didn't reveal the heart problem. The authorities wouldn't allow Eva Reich, a doctor, to www.leonsouthgate.com either view their medical report or to speak to the prison doctor (? Dr Witkin, Eva was not certain of the name).
-Eva did manage to speak to the pathologist who performed the autopsy on Reich (Dr Christman, Sunbury hospital, PA). He told Eva Reich and Aurora Karrer Reich that he had found the aortic valve leaflets were immobile with only a 2mm gap between the edges of the valve. The coronory ostia were narrowed by calcification. Right sided heart failure, liver enlargement. Basal pneumonia, patchy broncho-pneumonia, pitting ankle oedema. Reich had calcific aortic stenosis with regurgitation - this should have been detected at the beginning of Reich's sentence with the mandatory cardiological exam. Reich's sentence should have been suspended.
+Reich after he was sentenced attempted to arrange a cardiac appointment with Dr Paul White but he was unavailable. Reich didn't want anyone else. Reich had a full medical by the prison doctor which apparently didn't reveal the heart problem.
+
+The authorities wouldn't allow Eva Reich, a doctor, to www.leonsouthgate.com either view their medical report or to speak to the prison doctor (? Dr Witkin, Eva was not certain of the name).
+Eva did manage to speak to the pathologist who performed the autopsy on Reich (Dr Christman, Sunbury hospital, PA). He told Eva Reich and Aurora Karrer Reich that he had found the aortic valve leaflets were immobile with only a 2mm gap between the edges of the valve. The coronory ostia were narrowed by calcification.
+
+Right sided heart failure, liver enlargement. Basal pneumonia, patchy broncho-pneumonia, pitting ankle oedema. Reich had calcific aortic stenosis with regurgitation - this should have been detected at the beginning of Reich's sentence with the mandatory cardiological exam.
+
+Reich's sentence should have been suspended.
 
 ## In brief
 
@@ -7749,7 +8356,10 @@ Hoppe reveals that Reich was not a paranoid character, that these accusations we
 He was however hypomanic and over-optimistic and given to bouts of depression at the non-acceptance of his work in similarity to other genius scientists.
 1082) 10
 Reich and UFO's
-Reich long believed that UFOs might be interplanetary ships. He thought they would be powered by orgone because the ships behave in ways no mechanically powered vehicle can emulate. Some of the ways the UFO's move is similar to the orgone motor. They can change directions at high speeds without a jolt (silence and high speed are other characteristics). Reich thought that there would not be enough fuel for such journeys so UFO's might use orgone accumulated in space and then trigger it with Oranur. The exhaust of such ships would therefore be drought producing DOR.
+Reich long believed that UFOs might be interplanetary ships. He thought they would be powered by orgone because the ships behave in ways no mechanically powered vehicle can emulate. Some of the ways the UFO's move is similar to the orgone motor.
+
+They can change directions at high speeds without a jolt (silence and high speed are other characteristics). Reich thought that there would not be enough fuel for such journeys so UFO's might use orgone accumulated in space and then trigger it with Oranur. The exhaust of such ships would therefore be drought producing DOR.
+
 Also there is a criticism of Boadella's and even Neill's comments that Reich may have become paranoid and detached from reality (due to believing that 'spacemen' were causing DOR and deserts, or that the US air force shared his concerns, or that Reich had a meeting with President Eisenhower
 - a claim Reich never made incidentally but which appears to have possibly happened but was then
 covered up by leaning on the witness).
@@ -7910,7 +8520,9 @@ A bio-electric current - outward from core to periphery or inward from periphery
 Biological Orgone energy is posited as the Common Functioning Principle (CFP) of the two Variations; Psyche and Soma.
 Psyche and Soma are not identical in themselves only identical with respect to a deeper function.
 Reich identifies this deeper function with the underlying orgone field.
-Reich also discovered the schizophrenic split - when perception and biological excitation lead separate existences. There is a disintegration of conscious psychic functions. Physically there is a severe armouring of the brain with insufficient armouring of the body. The schizophrenic experiences himself as many separate parts and not holistically. The patient’s ‘currents’ and other organ sensations are perceived as coming from outside himself.
+Reich also discovered the schizophrenic split - when perception and biological excitation lead separate existences. There is a disintegration of conscious psychic functions. Physically there is a severe armouring of the brain with insufficient armouring of the body.
+
+The schizophrenic experiences himself as many separate parts and not holistically. The patient’s ‘currents’ and other organ sensations are perceived as coming from outside himself.
 Reich’s Final Period
 Beginning about 1947.
 Reich elucidated three flows of orgone, the cosmic energy flow. This splits off into the bio-energetic flow (by capturing orgone into a membrane). From this arises part-perception or plasmatic perception.
@@ -7919,7 +8531,10 @@ Konia notes that Reich expressed the idea that the subjective perceptual functio
 Natural Processes as the CFP of the variations:
 1) Objective Logic of Orgone Energy.
 2) Subjective Reasoning on the Basis of Orgonotic Self Perception.
-Konia describes bions (pre-cellular entities discovered by Reich) as non-living systems. He says we can’t assume that perception exists at these levels of organisation. (This would seem to contradict Reich’s ideas that all living plasma perceives). He then states perception must exist even at protozoal level as perception and excitation of plasmatic matter is inseparable. He gives 5 characteristics of plasma movement and perception:
+Konia describes bions (pre-cellular entities discovered by Reich) as non-living systems. He says we can’t assume that perception exists at these levels of organisation. (This would seem to contradict Reich’s ideas that all living plasma perceives). He then states perception must exist even at protozoal level as perception and excitation of plasmatic matter is inseparable.
+
+## He gives 5 characteristics of plasma movement and perception:
+
 
 www.leonsouthgate.com
 1) Movement confined in a membrane.
@@ -7950,11 +8565,17 @@ Orgone Psychotherapy
 
 www.leonsouthgate.com
 Dr Braid, Et Al, Discussion
-Psychiatrist reinterprets all a patients perceptions which in turn increases her eye block, she became more depressed and finally psychotic. Physical work upon her ocular segment grounds her successfully within three weeks. She was diagnosed catatonic schizophrenic but work on an ocular block and shallow breathing had powerful effects in normalising her. Medication is described as an 'external armouring' (schizophrenics lack sufficient body armour).
+Psychiatrist reinterprets all a patients perceptions which in turn increases her eye block, she became more depressed and finally psychotic. Physical work upon her ocular segment grounds her successfully within three weeks. She was diagnosed catatonic schizophrenic but work on an ocular block and shallow breathing had powerful effects in normalising her.
+
+Medication is described as an 'external armouring' (schizophrenics lack sufficient body armour).
 1032) 58-59
-Number of studies of schizophrenia have confirmed the presence of eye movement disorders. These disorders are not due to other causes and have a significant association with schizophrenics and their offspring. A less strong association is noted with Manic-depression. This confirms Reich's views (see Character Analysis) that the schizophrenic process immobilises parts of the brain, probably the base and other areas including nerves.
+Number of studies of schizophrenia have confirmed the presence of eye movement disorders. These disorders are not due to other causes and have a significant association with schizophrenics and their offspring. A less strong association is noted with Manic-depression.
+
+This confirms Reich's views (see Character Analysis) that the schizophrenic process immobilises parts of the brain, probably the base and other areas including nerves.
 1032) 58-59
-Number of studies of schizophrenia have confirmed the presence of eye movement disorders. These disorders are not due to other causes and have a significant association with schizophrenics and their offspring. A less strong association is noted with Manic-depression. This confirms Reich's views (see Character Analysis) that the schizophrenic process immobilises parts of the brain, probably the base and other areas including nerves.
+Number of studies of schizophrenia have confirmed the presence of eye movement disorders. These disorders are not due to other causes and have a significant association with schizophrenics and their offspring. A less strong association is noted with Manic-depression.
+
+This confirms Reich's views (see Character Analysis) that the schizophrenic process immobilises parts of the brain, probably the base and other areas including nerves.
 1036) 42-43
 Schizophrenia has a much wider definition in orgonomy than in general psychiatry. In the latter it is more or less defined as a spectrum dependent on eye blocking, or ocular armouring. This can occur with or without an actual psychosis.
 Hersokowitz notes that Reich was the first to recognise the significance of eye functions in the mothering process. He was also alone in relating eye segment pathology from the earliest time of life to the severe character disorders and emotional pathology that often follow.
@@ -8042,7 +8663,9 @@ In biology there is the principle that form follows function, author adds that b
 592) 29
 Work means 'to do' in its Indo-European roots. Its Greek form 'ergon' is common root to 'work', 'energy' and 'action'.- the suffixed form of 'ergon', 'worg-a' means 'organ', 'swell' and would be related to the function of 'orgasm'. In orgonomic terms work and sexual functions are inextricably related, this seems to be reflected in the Greek understanding.
 Pleasure and work not antiethical-30.
-Corporal, energetic view of organisations. Head reflects the top management who orientate the direction of the work, middle management facilitate the flow of work from top to bottom and vice versa and the body segments discharge the work process. Each section participates in the 'core', the work function. Each section ideally would function democratically and freely. Armouring takes the form of bureaucracy (43), lack of or disturbed vision, chronic 'organisational' character problems-27-46.
+Corporal, energetic view of organisations. Head reflects the top management who orientate the direction of the work, middle management facilitate the flow of work from top to bottom and vice versa and the body segments discharge the work process. Each section participates in the 'core', the work function.
+
+Each section ideally would function democratically and freely. Armouring takes the form of bureaucracy (43), lack of or disturbed vision, chronic 'organisational' character problems-27-46.
 Organisational armouring reflects the history of the organisation.
 The energy model is different to a systems model as the former has a 'core' and a field, is organic, The core attracts energy and building happens organically-38-39.
 Interventions in organisation character by Goldberg often resulted in 'spontaneous' changes in structure rather than planned-37.
@@ -8062,7 +8685,10 @@ Joseph Newman developed a machine that appeared to permit a conversion of mass t
 The US patent office refused to authorise a patent despite the evidence of 30 expert witnesses and its own 'Special Master'. They instead wanted to hand over the device to the National Bureau of Standards to test in secret with the allowance that they may destroy it if need be.
 The struggle was taken up by a congressman, Rep. Livingstone.
 1036f) 54-55
-Very good description of the main points of Nordenstrum’s very careful and almost universally ignored work. He progressed from investigating corona's around XRay photos of lung tumours to funding an electrical potential between tumour masses and their surrounds and by changing this potential, a means to dehydrate and remove the tumour mass. He treated 80 inoperable cancer patients with surprising results, published 3 papers in journals and self-published a book, however his work has been almost totally ignored. The AIOS paper notes 4 similarities with Reich's work;
+Very good description of the main points of Nordenstrum’s very careful and almost universally ignored work. He progressed from investigating corona's around XRay photos of lung tumours to funding an electrical potential between tumour masses and their surrounds and by changing this potential, a means to dehydrate and remove the tumour mass. He treated 80 inoperable cancer patients with surprising results, published 3 papers in journals and self-published a book, however his work has been almost totally ignored.
+
+
+The AIOS paper notes 4 similarities with Reich's work;
 1. Bioelectric potentials between areas of the body
 2. Blood vessels/cells carry a bioelectrical energy (noted a bioelectrical circulation)
 3. Discovered that the source of energy in damaged tissue is the damaged cells themselves.
@@ -8105,16 +8731,24 @@ Reich found that sexual activity in itself did not result in a better prognosis.
 
 www.leonsouthgate.com
 Freud, Sexuality and Analysis
-Freud's theory of libido-repression-stasis leading to a sexual eitology of neurosis can be contrasted with Reich's concept of flow-libido-regulation-orgasm with armouring forming the blockage to the process. This defines health as flow and anchors it biologically. In addition it gives a logical process to treatment. A definition of health, logical process of treatment and biological anchoring are all missing from Freud's approach.
+Freud's theory of libido-repression-stasis leading to a sexual eitology of neurosis can be contrasted with Reich's concept of flow-libido-regulation-orgasm with armouring forming the blockage to the process. This defines health as flow and anchors it biologically. In addition it gives a logical process to treatment.
+
+A definition of health, logical process of treatment and biological anchoring are all missing from Freud's approach.
 384) 117
-Freud was influenced by physiological studies such as those of Helmholtz and Meynert (neuropathology) and by hypnosis (Charcot, Liebault, Bernheim and Breur). Freud believed in a sexual origin of neurosis at this time. He based this on libido theory - emotional illness was caused by undischarged libido or sexual drive energy. This theory was acceptable until around 1926. From 1900 Freud had been steadily moving away from biological concepts-libido became a disembodied concept. In 1926 Freud formally rejected the libido/energetic concept of anxiety and argued instead that neurosis was coded into the psychic structure through the ego's reaction to danger signals. It thus moved from a bodily to a purely psychic basis. Reich came to psychoanalysis in 1919.
+Freud was influenced by physiological studies such as those of Helmholtz and Meynert (neuropathology) and by hypnosis (Charcot, Liebault, Bernheim and Breur). Freud believed in a sexual origin of neurosis at this time. He based this on libido theory - emotional illness was caused by undischarged libido or sexual drive energy.
+
+This theory was acceptable until around 1926. From 1900 Freud had been steadily moving away from biological concepts-libido became a disembodied concept. In 1926 Freud formally rejected the libido/energetic concept of anxiety and argued instead that neurosis was coded into the psychic structure through the ego's reaction to danger signals.
+
+It thus moved from a bodily to a purely psychic basis. Reich came to psychoanalysis in 1919.
 392) 19
 Vegetative and conscious life though originally having one source become antithetical.
 Also religion and sexuality have one source-natural religion would have been a collective orgastic experience.
 
 ## My Note:
 
-Shamanism would correspond to this in many regards.492) 97 Reich & Freud Freud felt that Josef Breuer was partially the father of psychoanalysis. This was until Josef rejected such parenthood and particularly the theory of infantile sexuality. This led Freud to realise the originality of his paradigm. Freud also thought at this time that genital function disturbances in adults could cause some neurosis. (Freud, unlike Reich, thought that sexuality should be expanded from the genital).
+Shamanism would correspond to this in many regards.492) 97 Reich & Freud Freud felt that Josef Breuer was partially the father of psychoanalysis. This was until Josef rejected such parenthood and particularly the theory of infantile sexuality. This led Freud to realise the originality of his paradigm.
+
+Freud also thought at this time that genital function disturbances in adults could cause some neurosis. (Freud, unlike Reich, thought that sexuality should be expanded from the genital).
 Reich's work expanded on Freud's libido, sexual economic and resistance theories but eventually Reich too had to confront the fact that he had entered a wholly new paradigm. Resistance analysis became Character Analysis and libido theory became orgasm theory which led directly to the discovery of an energy which, if real, would connect the emotions directly to the somatic.
 Also Breuer emphasised catharsis more than Freud. Perhaps Reich's emphasis on catharsis reminded the aging Freud of his own rejection by Breuer (FN 101).
 In 1928 Freud told a young admirer that the real Freud is dead. This echoes what Reich said about Freud's latter resignation.
@@ -8336,7 +8970,10 @@ At first Reich thought that the spacemen or CORE MEN (Cosmic ORgone Engineering)
 of the United States as a ‘beacon of our planetary social development as it has been heretofore’ and that would ‘lead to the downfall of the USA as a self-governing society at the hands of a few conniving master minds’.
 1082) 10
 Reich and UFO's
-Reich long believed that UFOs might be interplanetary ships. He thought they would be powered by orgone because the ships behave in ways no mechanically powered vehicle can emulate. Some of the ways the UFO's move is similar to the orgone motor. They can change directions at high speeds without a jolt (silence and high speed are other characteristics). Reich thought that there would not be enough fuel for such journeys so UFO's might use orgone accumulated in space and then trigger it with Oranur. The exhaust of such ships would therefore be drought producing DOR.
+Reich long believed that UFOs might be interplanetary ships. He thought they would be powered by orgone because the ships behave in ways no mechanically powered vehicle can emulate. Some of the ways the UFO's move is similar to the orgone motor.
+
+They can change directions at high speeds without a jolt (silence and high speed are other characteristics). Reich thought that there would not be enough fuel for such journeys so UFO's might use orgone accumulated in space and then trigger it with Oranur. The exhaust of such ships would therefore be drought producing DOR.
+
 Also there is a criticism of Boadella's and even Neill's comments that Reich may have become paranoid and detached from reality (due to believing that 'spacemen' were causing DOR and deserts, or that the US air force shared his concerns, or that Reich had a meeting with President Eisenhower
 - a claim Reich never made incidentally but which appears to have possibly happened but was then
 covered up by leaning on the witness).
