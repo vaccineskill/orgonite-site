@@ -1,0 +1,75 @@
+---
+import { getCollection, render } from 'astro:content';
+import ArticleLayout from '../../layouts/ArticleLayout.astro';
+import { CATEGORIES } from '../../data/categories';
+
+// Import PDF-extracted images
+let articleImagesMap: Record<string, string[]> = {};
+try {
+  const mod = await import('../../data/articleImages.json', { assert: { type: 'json' } });
+  articleImagesMap = mod.default as Record<string, string[]>;
+} catch { /* fine */ }
+
+// Import Wikimedia curated images
+interface WikiImage {
+  src: string;
+  alt: string;
+  artist: string;
+  license: string;
+  licenseUrl: string;
+  commonsUrl: string;
+}
+let wikiImagesMap: Record<string, WikiImage[]> = {};
+try {
+  const mod = await import('../../data/wikiImages.json', { assert: { type: 'json' } });
+  wikiImagesMap = mod.default as Record<string, WikiImage[]>;
+} catch { /* fine */ }
+
+export async function getStaticPaths() {
+  const articles = await getCollection('articles');
+  return articles.map(article => ({
+    params: { category: article.data.category, slug: article.data.slug },
+    props: { article },
+  }));
+}
+
+const { article } = Astro.props;
+const { Content, headings } = await render(article);
+
+const allArticles = await getCollection('articles');
+const sameCategory = allArticles
+  .filter(a => a.data.category === article.data.category && a.data.slug !== article.data.slug)
+  .sort((a, b) => a.data.slug.localeCompare(b.data.slug));
+
+// Next article (alphabetical, wrapping)
+const allInCat = allArticles
+  .filter(a => a.data.category === article.data.category)
+  .sort((a, b) => a.data.slug.localeCompare(b.data.slug));
+const currentIdx = allInCat.findIndex(a => a.data.slug === article.data.slug);
+const nextArticle = allInCat[(currentIdx + 1) % allInCat.length];
+
+const relatedArticles = sameCategory.slice(0, 3);
+const canonical = `https://orgoniteguide.com/${article.data.category}/${article.data.slug}/`;
+
+// Look up images for this article
+const articleImages: string[] = articleImagesMap[article.data.slug] || [];
+const wikiImages: WikiImage[] = (wikiImagesMap[article.data.slug] || []).filter(img => img && img.src);
+---
+
+<ArticleLayout
+  title={article.data.title}
+  description={article.data.description}
+  category={article.data.category}
+  readTime={article.data.readTime}
+  source={article.data.source}
+  pdfFile={article.data.pdfFile}
+  slug={article.data.slug}
+  headings={headings}
+  relatedArticles={relatedArticles}
+  nextArticle={nextArticle !== article ? nextArticle : undefined}
+  canonical={canonical}
+  articleImages={articleImages}
+  wikiImages={wikiImages}
+>
+  <Content />
+</ArticleLayout>

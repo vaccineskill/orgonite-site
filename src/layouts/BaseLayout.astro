@@ -1,0 +1,96 @@
+---
+import '../styles/global.css';
+
+interface Props {
+  title: string;
+  description: string;
+  canonical?: string;
+  ogImage?: string;
+}
+const { title, description, canonical, ogImage } = Astro.props;
+const canonicalURL = canonical || new URL(Astro.url.pathname, Astro.site).href;
+const ogImageURL = ogImage || new URL('/og-default.png', Astro.site).href;
+---
+<!DOCTYPE html>
+<html lang="en" class="scroll-smooth">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>{title}</title>
+  <meta name="description" content={description} />
+  <link rel="canonical" href={canonicalURL} />
+
+  <!-- Open Graph -->
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content={canonicalURL} />
+  <meta property="og:title" content={title} />
+  <meta property="og:description" content={description} />
+  <meta property="og:image" content={ogImageURL} />
+
+  <!-- Twitter -->
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content={title} />
+  <meta name="twitter:description" content={description} />
+  <meta name="twitter:image" content={ogImageURL} />
+
+  <!-- Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
+
+  <!-- AdSense (enable after approval) -->
+  <!-- <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-XXXXXXXXXXXXXXXX" crossorigin="anonymous"></script> -->
+
+  <slot name="head" />
+
+  <style>
+    body { background-color: #09090b; color: #fafafa; font-family: 'Inter', system-ui, sans-serif; margin: 0; }
+    * { box-sizing: border-box; }
+    a { color: inherit; text-decoration: none; }
+    /* Pagefind UI overrides */
+    :root { --pagefind-ui-scale: 0.9; --pagefind-ui-primary: #a78bfa; --pagefind-ui-text: #fafafa; --pagefind-ui-background: #18181b; --pagefind-ui-border: #27272a; --pagefind-ui-tag: #a78bfa; }
+  </style>
+</head>
+<body>
+  <!-- Navigation -->
+  <nav class="sticky top-0 z-50 border-b border-[#18181b] bg-[#09090b]/95 backdrop-blur-md">
+    <div class="mx-auto max-w-6xl px-4 h-14 flex items-center gap-6">
+      <a href="/" class="text-lg font-extrabold tracking-tight text-white flex-shrink-0">
+        Orgonite<span class="text-[#a78bfa]">Guide</span>
+      </a>
+      <div class="hidden md:flex items-center gap-5 text-sm">
+        <a href="/what-is-orgonite/" class="text-[#71717a] hover:text-white transition-colors">What is Orgonite</a>
+        <a href="/diy-projects/" class="text-[#71717a] hover:text-white transition-colors">DIY Projects</a>
+        <a href="/wilhelm-reich/" class="text-[#71717a] hover:text-white transition-colors">Wilhelm Reich</a>
+        <a href="/research/" class="text-[#71717a] hover:text-white transition-colors">Research</a>
+        <a href="/crystals-and-materials/" class="text-[#71717a] hover:text-white transition-colors">Crystals</a>
+      </div>
+      <div class="ml-auto">
+        <div id="search" class="text-sm text-[#52525b] bg-[#18181b] border border-[#27272a] rounded-lg px-3 py-1.5 w-44 cursor-text">
+          🔍 Search…
+        </div>
+      </div>
+    </div>
+  </nav>
+
+  <!-- Main content -->
+  <main>
+    <slot />
+  </main>
+
+  <!-- Footer -->
+  <footer class="border-t border-[#18181b] mt-16 py-8 text-center text-sm text-[#52525b]">
+    <div class="mx-auto max-w-6xl px-4">
+      <p class="mb-2">
+        <a href="/" class="hover:text-[#a78bfa]">OrgoniteGuide.com</a>
+        · <a href="/about/" class="hover:text-[#a78bfa]">About</a>
+        · <a href="/privacy-policy/" class="hover:text-[#a78bfa]">Privacy Policy</a>
+        · <a href="/contact/" class="hover:text-[#a78bfa]">Contact</a>
+      </p>
+      <p class="text-xs text-[#3f3f46]">
+        For informational purposes only. Not medical advice. Content sourced from publicly available research documents.
+      </p>
+    </div>
+  </footer>
+</body>
+</html>

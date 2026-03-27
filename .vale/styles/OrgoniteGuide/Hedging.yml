@@ -1,0 +1,16 @@
+extends: existence
+message: "Hedging language '%s' weakens authority. Be direct."
+level: suggestion
+ignorecase: true
+tokens:
+  - "it is possible that"
+  - "it may be"
+  - "it might be"
+  - "it could be"
+  - "some believe"
+  - "some say"
+  - "many people think"
+  - "it has been claimed"
+  - "supposedly"
+  - "allegedly"
+  - "is thought to"

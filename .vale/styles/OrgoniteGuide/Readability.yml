@@ -1,0 +1,10 @@
+extends: readability
+message: "Readability score of %s — aim for grade 10 or below."
+level: suggestion
+metrics:
+  - FleschKincaid
+  - GunningFog
+  - SMOG
+  - Coleman-Liau
+  - AutomatedReadability
+grade: 14

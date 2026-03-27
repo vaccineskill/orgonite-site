@@ -1,0 +1,126 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { CATEGORIES } from '../data/categories';
+
+const allArticles = await getCollection('articles');
+const featured = allArticles.slice(0, 4);
+
+const websiteSchema = JSON.stringify({
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "OrgoniteGuide",
+  "url": "https://orgoniteguide.com",
+  "description": "The complete knowledge base on orgone energy, orgonite, and Wilhelm Reich",
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "https://orgoniteguide.com/search?q={search_term_string}",
+    "query-input": "required name=search_term_string"
+  }
+});
+
+const catList = Object.values(CATEGORIES);
+---
+
+<BaseLayout
+  title="OrgoniteGuide — Complete Orgone Energy & Orgonite Knowledge Base"
+  description="The most comprehensive free guide to orgone energy, orgonite, Wilhelm Reich, and DIY orgone devices. 53 research articles, tutorials, and primary sources."
+>
+  <Fragment slot="head">
+    <script type="application/ld+json" set:html={websiteSchema} />
+  </Fragment>
+
+  <!-- Hero -->
+  <section class="relative max-w-4xl mx-auto px-4 pt-20 pb-12 text-center">
+    <div class="absolute inset-x-0 top-0 h-72 bg-[radial-gradient(ellipse_at_50%_0%,rgba(139,92,246,0.12),transparent_70%)] pointer-events-none"></div>
+
+    <div class="inline-flex items-center gap-2 bg-[#18181b] border border-[#27272a] text-[#a78bfa] text-xs px-4 py-1.5 rounded-full mb-6">
+      ✦ 53 Free Research Documents
+    </div>
+
+    <h1 class="text-5xl md:text-6xl font-extrabold leading-tight tracking-tight text-white mb-5">
+      The Complete Guide to<br />
+      <em class="not-italic bg-gradient-to-r from-[#a78bfa] to-[#38bdf8] bg-clip-text text-transparent">
+        Orgone Energy
+      </em> & Orgonite
+    </h1>
+
+    <p class="text-lg text-[#71717a] max-w-xl mx-auto mb-8 leading-relaxed">
+      From Wilhelm Reich's original discoveries to modern DIY orgonite — the most comprehensive free knowledge base on the web.
+    </p>
+
+    <div class="flex gap-3 justify-center flex-wrap">
+      <a href="/what-is-orgonite/" class="bg-[#a78bfa] text-[#09090b] font-semibold px-6 py-2.5 rounded-lg hover:opacity-90 transition-opacity text-sm">
+        Start Learning →
+      </a>
+      <a href="/diy-projects/" class="bg-[#18181b] border border-[#27272a] text-white font-semibold px-6 py-2.5 rounded-lg hover:border-[#3f3f46] transition-colors text-sm">
+        DIY Projects
+      </a>
+    </div>
+
+    <div class="flex gap-8 justify-center mt-12 pt-8 border-t border-[#18181b]">
+      <div class="text-center">
+        <div class="text-3xl font-extrabold tracking-tight text-white">53</div>
+        <div class="text-xs text-[#52525b] mt-0.5">Research Articles</div>
+      </div>
+      <div class="text-center">
+        <div class="text-3xl font-extrabold tracking-tight text-white">6</div>
+        <div class="text-xs text-[#52525b] mt-0.5">Topic Categories</div>
+      </div>
+      <div class="text-center">
+        <div class="text-3xl font-extrabold tracking-tight text-white">100%</div>
+        <div class="text-xs text-[#52525b] mt-0.5">Free Access</div>
+      </div>
+      <div class="text-center">
+        <div class="text-3xl font-extrabold tracking-tight text-white">1930s</div>
+        <div class="text-xs text-[#52525b] mt-0.5">to Present Day</div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Leaderboard Ad -->
+  <div class="max-w-4xl mx-auto px-4 mb-8">
+    <div class="h-[90px] bg-[#0d0d10] border border-dashed border-[#2a2a35] rounded-lg flex items-center justify-center text-xs text-[#3f3f50] tracking-widest uppercase">
+      Advertisement · 728×90
+    </div>
+  </div>
+
+  <!-- Categories -->
+  <section class="max-w-4xl mx-auto px-4 mb-12">
+    <div class="flex items-baseline gap-3 mb-6">
+      <h2 class="text-2xl font-bold tracking-tight text-white">Browse by Topic</h2>
+      <span class="text-sm text-[#52525b]">6 categories · {allArticles.length} articles</span>
+    </div>
+    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+      {catList.map(cat => {
+        const count = allArticles.filter(a => a.data.category === cat.slug).length;
+        return (
+          <a href={`/${cat.slug}/`} class="bg-[#111113] border border-[#1e1e22] hover:border-[#3f3f46] hover:bg-[#18181b] rounded-xl p-5 transition-all duration-200 group block">
+            <div class="text-2xl mb-3">{cat.icon}</div>
+            <div class="font-semibold text-white mb-1 group-hover:text-[#a78bfa] transition-colors">{cat.name}</div>
+            <div class="text-xs text-[#71717a] leading-relaxed mb-3">{cat.description}</div>
+            <span class="inline-block bg-[#1e1e22] text-[#a78bfa] text-xs px-2.5 py-0.5 rounded-full">{count} articles</span>
+          </a>
+        );
+      })}
+    </div>
+  </section>
+
+  <!-- Featured Articles -->
+  <section class="max-w-4xl mx-auto px-4 mb-12">
+    <h2 class="text-2xl font-bold tracking-tight text-white mb-6">Most Read Articles</h2>
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+      {featured.map(article => {
+        const cat = CATEGORIES[article.data.category as keyof typeof CATEGORIES];
+        return (
+          <a href={`/${article.data.category}/${article.data.slug}/`} class="bg-[#111113] border border-[#1e1e22] hover:border-[#3f3f46] rounded-xl p-5 transition-all duration-200 group block">
+            <div class="text-xs text-[#a78bfa] uppercase tracking-widest mb-2">{cat?.name || article.data.category}</div>
+            <div class="font-semibold text-white leading-snug mb-2 group-hover:text-[#a78bfa] transition-colors">{article.data.title}</div>
+            <div class="text-xs text-[#71717a] leading-relaxed line-clamp-2">{article.data.description}</div>
+            <div class="mt-3 text-xs text-[#52525b]">⏱ {article.data.readTime} min read</div>
+          </a>
+        );
+      })}
+    </div>
+  </section>
+</BaseLayout>
